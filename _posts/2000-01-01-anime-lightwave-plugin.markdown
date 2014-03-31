@@ -18,6 +18,9 @@ categories:
 tags:
 - Graphics
 ---
-<p>When I worked at VSI I created a bunch of custom Lightwave plugins.  This is one that was never released, but it was pretty cool.</p>
-<p><a id="more"></a><a id="more-5"></a></p>
-<p>[gallery]</p>
+When I worked at VSI I created a bunch of custom Lightwave plugins.  This is one that was never released, but it was pretty cool.
+
+<a id="more"></a><a id="more-5"></a>
+
+[gallery]
+

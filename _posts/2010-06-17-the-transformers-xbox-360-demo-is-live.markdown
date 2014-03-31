@@ -16,9 +16,15 @@ tags:
 - Code
 - Data
 ---
-<p>After almost two years of work the Transformers: War for Cybertron game is finally done and the demo is available for download.  I had to rewrite some of the code in our data collection system* because so many people are playing!</p>
-<p>So far the reception has been really good.  The demo currently has a 4.5 / 5 star rating and the forums seem to be filled with positive comments.</p>
-<p style="text-align: center;"><a href="http://marketplace.xbox.com/en-US/games/offers/0ddf0001-0000-4000-8000-000041568885?cid=SLink"><img class="aligncenter size-full wp-image-634" title="TransformersWFC-Demo" src="{{site.url_root}}/assets/data/wp/wp/2010/06/TransformersWFC-Demo.png" alt="" width="472" height="326" /></a></p></p>
-<p style="text-align: center;"></p><br />
+After almost two years of work the Transformers: War for Cybertron game is finally done and the demo is available for download.  I had to rewrite some of the code in our data collection system* because so many people are playing!
+
+So far the reception has been really good.  The demo currently has a 4.5 / 5 star rating and the forums seem to be filled with positive comments.
+
+<p style="text-align: center;"><a href="http://marketplace.xbox.com/en-US/games/offers/0ddf0001-0000-4000-8000-000041568885?cid=SLink"><img class="aligncenter size-full wp-image-634" title="TransformersWFC-Demo" src="{{site.url_root}}/assets/data/2010/06/TransformersWFC-Demo.png" alt="" width="472" height="326" /></a>
+
+
+<p style="text-align: center;">
+<br />
 *<em>We collect more than one gigabyte of data every day about how people are playing the game.  Things like weapon usage, character setup, and game search metrics.  This helps us plan for title updates and future projects.<br />
-</em></p>
+</em>
+

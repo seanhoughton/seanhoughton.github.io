@@ -14,5 +14,7 @@ categories:
 - Photography
 tags: []
 ---
-<p>Took a quick trip to the Birch Aquarium to kick off my vacation and shot a little video of the coolest stuff.  This was all shot with a Cannon 5D MKII in low resolution video mode.</p>
-<p>httpv://www.youtube.com/watch?v=d3PKldefAtA</p>
+Took a quick trip to the Birch Aquarium to kick off my vacation and shot a little video of the coolest stuff.  This was all shot with a Cannon 5D MKII in low resolution video mode.
+
+httpv://www.youtube.com/watch?v=d3PKldefAtA
+

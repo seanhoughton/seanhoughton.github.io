@@ -14,5 +14,7 @@ categories:
 - Programming
 tags: []
 ---
-<p>I haven't updated this page in a long time, mainly because I've been working on this game night and day. It's going to be good!</p>
-<p><a href="http://www.gametrailers.com/video/exclusive-debut-transformers-war/59860">Transformers: War for Cybertron Video Game, Exclusive Debut Trailer HD | Game Trailers &amp; Videos | GameTrailers.com</a>.</p>
+I haven't updated this page in a long time, mainly because I've been working on this game night and day. It's going to be good!
+
+<a href="http://www.gametrailers.com/video/exclusive-debut-transformers-war/59860">Transformers: War for Cybertron Video Game, Exclusive Debut Trailer HD | Game Trailers &amp; Videos | GameTrailers.com</a>.
+

@@ -15,6 +15,7 @@ categories:
 - Uncategorized
 tags: []
 ---
-<p>Can't wait until next we can talk about multiplayer...<br />
+Can't wait until next we can talk about multiplayer...<br />
 <a id="more"></a><a id="more-614"></a><br />
-httpv://www.youtube.com/watch?v=sWs_0J26kYs</p>
+httpv://www.youtube.com/watch?v=sWs_0J26kYs
+

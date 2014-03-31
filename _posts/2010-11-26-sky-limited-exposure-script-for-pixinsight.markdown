@@ -19,4 +19,5 @@ tags:
 - PixInsight
 - ST8300
 ---
-<p>This script now has its own page, <a href="http://www.cerebiggum.com/software/sky-limited-exposure/">http://www.cerebiggum.com/software/sky-limited-exposure/</a></p>
+This script now has its own page, <a href="http://www.cerebiggum.com/software/sky-limited-exposure/">http://www.cerebiggum.com/software/sky-limited-exposure/</a>
+

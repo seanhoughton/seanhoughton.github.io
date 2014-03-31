@@ -16,4 +16,5 @@ tags:
 - MovableType
 - Web
 ---
-<p>I've finally finished the major work of converting the site to the MovableType blogging system.  After years as 'astronerd.net' I've decided on a new name as well.</p>
+I've finally finished the major work of converting the site to the MovableType blogging system.  After years as 'astronerd.net' I've decided on a new name as well.
+

@@ -18,6 +18,9 @@ tags:
 - G11
 - Photography
 ---
-<p>This is a picture of the half moon from early in January 2009.</p>
-<p>[flickr]photo:5210497115[/flickr]</p>
-<p>This was taken with a Canon 10D through a Takahashi FS102 refractor at prime focus.</p>
+This is a picture of the half moon from early in January 2009.
+
+[flickr]photo:5210497115[/flickr]
+
+This was taken with a Canon 10D through a Takahashi FS102 refractor at prime focus.
+

@@ -14,4 +14,5 @@ categories:
 - Uncategorized
 tags: []
 ---
-<p><mtgib:thumb-left id=561/>A good friend of mine, Scott Carter passed away this month.  He loved two things in life: chocolate cake and motor-sports.  I'll always remember his giddiness after running into <a href=http://en.wikipedia.org/wiki/Shigeru_Miyamoto>Shigeru Miyamoto</a>In-N-Out.</p>
+<mtgib:thumb-left id=561/>A good friend of mine, Scott Carter passed away this month.  He loved two things in life: chocolate cake and motor-sports.  I'll always remember his giddiness after running into <a href=http://en.wikipedia.org/wiki/Shigeru_Miyamoto>Shigeru Miyamoto</a>In-N-Out.
+

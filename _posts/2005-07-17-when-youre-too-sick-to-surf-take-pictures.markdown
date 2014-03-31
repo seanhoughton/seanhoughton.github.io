@@ -20,22 +20,32 @@ categories:
 tags:
 - Surf
 ---
-<p>I managed to injure my ankle and get pretty sick right when a large swell showed up in San Diego.  The weather was awesome so all I could get was vicarious surfage.</p>
-<p><mtgib:thumb id=223/></p>
-<p><a id="more"></a><a id="more-25"></a></p>
+I managed to injure my ankle and get pretty sick right when a large swell showed up in San Diego.  The weather was awesome so all I could get was vicarious surfage.
+
+<mtgib:thumb id=223/>
+
+<a id="more"></a><a id="more-25"></a>
+
 <h2>The Ocean Beach Pier</h2><br />
 I've never surfed here.  It looks like a narrow break with some nasty rocks and pier poles to watch out for.<br />
-<mtgib:thumb id=219/></p>
+<mtgib:thumb id=219/>
+
 <h2>Sunset Cliffs</h2><br />
-This place was crowded.  There were tons of surfers and even more sightseers.  There was a distant break where most of the longboarders were, and a beach break with these shortboards.</p>
-<p><mtgib:thumb id=483/></p>
+This place was crowded.  There were tons of surfers and even more sightseers.  There was a distant break where most of the longboarders were, and a beach break with these shortboards.
+
+<mtgib:thumb id=483/>
+
 <table>
 <tr>
-<td><mtgib:thumb id=225/></td></p>
+<td><mtgib:thumb id=225/></td>
+
 <td><mtgib:thumb id=227/></td><br />
-</tr></p>
+</tr>
+
 <tr>
-<td><mtgib:thumb id=229/></td></p>
+<td><mtgib:thumb id=229/></td>
+
 <td><mtgib:thumb id=231/></td><br />
 </tr><br />
-</table></p>
+</table>
+

@@ -21,8 +21,12 @@ categories:
 - Uncategorized
 tags: []
 ---
-<p>I <b>finally</b> got around to scanning in all the photographs from the trip to Thailand in 2001.</p>
-<p>Here's one of my favorites:</p>
-<p><mtgib:image id=35/></p>
-<p><a id="more"></a><a id="more-11"></a><br />
-I took a trip to Thailand a few years ago.  It took me a long time to finally scan the slides, but here are some of my favorite pictures.</p>
+I <b>finally</b> got around to scanning in all the photographs from the trip to Thailand in 2001.
+
+Here's one of my favorites:
+
+<mtgib:image id=35/>
+
+<a id="more"></a><a id="more-11"></a><br />
+I took a trip to Thailand a few years ago.  It took me a long time to finally scan the slides, but here are some of my favorite pictures.
+

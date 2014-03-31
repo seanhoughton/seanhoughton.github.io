@@ -13,6 +13,9 @@ date_gmt: '2011-01-29 23:00:33 -0800'
 categories: []
 tags: []
 ---
-<p>See my public profile on LinkedIn <a href="http://www.linkedin.com/in/seanhoughton1">http://www.linkedin.com/in/seanhoughton1</a></p>
+See my public profile on LinkedIn <a href="http://www.linkedin.com/in/seanhoughton1">http://www.linkedin.com/in/seanhoughton1</a>
+
 <div class="dipity_embed" style="width:600px"><iframe width="600" height="400" src="http://www.dipity.com/seanhoughton/Seans-Work/?mode=embed&#tl" style="border:1px solid #CCC;"></iframe>
-<p style="margin:0;font-family:Arial,sans;font-size:13px;text-align:center"><a href="http://www.dipity.com/seanhoughton/Seans-Work/">Sean's Work</a> on <a href="http://www.dipity.com/" />Dipity</a>.</p></div></p>
+<p style="margin:0;font-family:Arial,sans;font-size:13px;text-align:center"><a href="http://www.dipity.com/seanhoughton/Seans-Work/">Sean's Work</a> on <a href="http://www.dipity.com/" />Dipity</a>.
+</div>
+

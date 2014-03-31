@@ -18,11 +18,19 @@ tags:
 - Bike
 - mountainbike
 ---
-<p>Ted Williams makes you want to do things you really shouldn't be doing.</p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/MarkRockDrop01.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/MarkRockDrop01.jpeg" alt="" title="MarkRockDrop01" width="427" height="640" class="aligncenter size-full wp-image-748" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/JoelRoadGap01.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/JoelRoadGap01.jpeg" alt="" title="JoelRoadGap01" width="640" height="427" class="aligncenter size-full wp-image-749" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRoadGap01.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRoadGap01.jpeg" alt="" title="SeanRoadGap01" width="640" height="427" class="aligncenter size-full wp-image-751" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRoadGap02.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRoadGap02.jpeg" alt="" title="SeanRoadGap02" width="640" height="330" class="aligncenter size-full wp-image-752" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRockDrop01.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRockDrop01.jpeg" alt="" title="SeanRockDrop01" width="640" height="560" class="aligncenter size-full wp-image-753" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRockDrop02.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/SeanRockDrop02.jpeg" alt="" title="SeanRockDrop02" width="574" height="640" class="aligncenter size-full wp-image-754" /></a></p>
-<p><a href="{{site.url_root}}/assets/data/wp/wp/2005/03/MtnBikeDudesInWater.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2005/03/MtnBikeDudesInWater.jpeg" alt="" title="MtnBikeDudesInWater" width="640" height="427" class="aligncenter size-full wp-image-755" /></a></p>
+Ted Williams makes you want to do things you really shouldn't be doing.
+
+<a href="{{site.url_root}}/assets/data/2005/03/MarkRockDrop01.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/MarkRockDrop01.jpeg" alt="" title="MarkRockDrop01" width="427" height="640" class="aligncenter size-full wp-image-748" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/JoelRoadGap01.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/JoelRoadGap01.jpeg" alt="" title="JoelRoadGap01" width="640" height="427" class="aligncenter size-full wp-image-749" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/SeanRoadGap01.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/SeanRoadGap01.jpeg" alt="" title="SeanRoadGap01" width="640" height="427" class="aligncenter size-full wp-image-751" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/SeanRoadGap02.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/SeanRoadGap02.jpeg" alt="" title="SeanRoadGap02" width="640" height="330" class="aligncenter size-full wp-image-752" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/SeanRockDrop01.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/SeanRockDrop01.jpeg" alt="" title="SeanRockDrop01" width="640" height="560" class="aligncenter size-full wp-image-753" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/SeanRockDrop02.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/SeanRockDrop02.jpeg" alt="" title="SeanRockDrop02" width="574" height="640" class="aligncenter size-full wp-image-754" /></a>
+
+<a href="{{site.url_root}}/assets/data/2005/03/MtnBikeDudesInWater.jpeg"><img src="{{site.url_root}}/assets/data/2005/03/MtnBikeDudesInWater.jpeg" alt="" title="MtnBikeDudesInWater" width="640" height="427" class="aligncenter size-full wp-image-755" /></a>
+

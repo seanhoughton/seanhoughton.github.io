@@ -19,6 +19,9 @@ tags:
 - Bike
 - mountainbike
 ---
-<p>Recently went on a trip to Bootleg Canyon and Las Vegas.</p>
-<p><a id="more"></a><a id="more-34"></a></p>
-<p>I'm still recovering from my shoulder surgery, so I spent the day with Joel shuttling these lucky bastards up and down the hill.</p>
+Recently went on a trip to Bootleg Canyon and Las Vegas.
+
+<a id="more"></a><a id="more-34"></a>
+
+I'm still recovering from my shoulder surgery, so I spent the day with Joel shuttling these lucky bastards up and down the hill.
+

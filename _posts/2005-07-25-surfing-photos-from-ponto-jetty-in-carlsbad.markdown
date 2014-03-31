@@ -21,9 +21,14 @@ tags:
 - Photography
 - Surf
 ---
-<p>Just added some new surfing photos.  Shooting against the sunset makes the color a bit odd, but not bad overall.</p>
-<p><mtgib:thumb id=242/></p>
-<p><a id="more"></a><a id="more-26"></a><br />
-<mtgib:image id=236/></p>
-<p><mtgib:image id=238/></p>
-<p><mtgib:image id=240/></p>
+Just added some new surfing photos.  Shooting against the sunset makes the color a bit odd, but not bad overall.
+
+<mtgib:thumb id=242/>
+
+<a id="more"></a><a id="more-26"></a><br />
+<mtgib:image id=236/>
+
+<mtgib:image id=238/>
+
+<mtgib:image id=240/>
+

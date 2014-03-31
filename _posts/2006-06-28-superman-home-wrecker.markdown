@@ -14,7 +14,11 @@ categories:
 - Uncategorized
 tags: []
 ---
-<p>I just saw the new movie Superman Returns and I'm not sure but I might be missing the intended point.  I kept seeing Superman as a symbol of men's insecurity.  He's your wife or girlfriend's ex-boyfriend and you're pretty sure she's still in love with him.  He's better looking, stronger and he won't stay away.</p>
-<p><img class="aligncenter size-full wp-image-265" title="1296_4_105" src="{{site.url_root}}/assets/data/wp/wp/2009/01/1296_4_105.jpg" alt="1296_4_105" width="400" height="615" /></p>
-<p>Lex Luthor, on the other hand, is just like you and I.  He's balding, has crap friends and just wants a bit of land to call his own without Superman coming around to mess it all up.</p>
-<p>The movie forces me to ask the question: "why do we need Superman anyway?"  We don't, he sucks.</p>
+I just saw the new movie Superman Returns and I'm not sure but I might be missing the intended point.  I kept seeing Superman as a symbol of men's insecurity.  He's your wife or girlfriend's ex-boyfriend and you're pretty sure she's still in love with him.  He's better looking, stronger and he won't stay away.
+
+<img class="aligncenter size-full wp-image-265" title="1296_4_105" src="{{site.url_root}}/assets/data/2009/01/1296_4_105.jpg" alt="1296_4_105" width="400" height="615" />
+
+Lex Luthor, on the other hand, is just like you and I.  He's balding, has crap friends and just wants a bit of land to call his own without Superman coming around to mess it all up.
+
+The movie forces me to ask the question: "why do we need Superman anyway?"  We don't, he sucks.
+

@@ -15,5 +15,7 @@ categories:
 tags:
 - Graphics
 ---
-<p>I used to do artwork for Vision Scape Imaging.  Here are some work and personal projects from back in the day.</p>
-<p>[gallery]</p>
+I used to do artwork for Vision Scape Imaging.  Here are some work and personal projects from back in the day.
+
+[gallery]
+
