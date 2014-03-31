@@ -17,6 +17,7 @@ categories:
 - Programming
 tags:
 - Graphics
+alias: /2000/01/plume-lightwave-plugin/index.html
 ---
 Plume is a volumtric renderer I have been working on for a while on my free time ( which explains the lag ). It is a pixel filter for Lightwave which originated as a stand alone Ray Marching program I wrote. I have ported it to lightwave and what follows are samle renderings. This is just the start of the project and I plan to have some downloadable beta versions soon. I have a Plume shader also which receives gas shadows for seamless integration into Lightwave renderings.
 

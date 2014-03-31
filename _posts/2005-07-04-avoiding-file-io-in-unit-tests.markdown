@@ -22,6 +22,7 @@ tags:
 - Programming
 - TDD
 - Unit test
+alias: /2005/07/avoiding-file-io-in-unit-tests/index.html
 ---
 Noel's article <a title="Games from Within: Stepping Through the Looking Glass: Test-Driven Game Development (Part 3)" href="http://www.gamesfromwithin.com/articles/0503/000078.html">Test-Driven Game Development</a> mentions that unit test suites should run quickly.  That usually means as little file I/O as possible.  However, sometimes you're dealing with middleware or legacy code that requires deserialization to construct objects.  What do you do?
 

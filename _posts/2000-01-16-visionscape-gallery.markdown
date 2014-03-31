@@ -14,6 +14,7 @@ categories:
 - Programming
 tags:
 - Graphics
+alias: /2000/01/visionscape-gallery/index.html
 ---
 I used to do artwork for Vision Scape Imaging.  Here are some work and personal projects from back in the day.
 

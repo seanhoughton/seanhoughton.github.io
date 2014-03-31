@@ -15,6 +15,7 @@ categories:
 tags:
 - Astrophotography
 - PixInsight
+alias: /2010/12/building-an-automated-build-and-release-server-for-pixinsight/index.html
 ---
 PixInsight 1.6.9 introduced a new automated update system - a system that allows developers to easily deploy updates as soon as they are ready. Automated deployment can bebothamazingly convenient for your users and a complete nightmare for the developer. Without proper automation accidents will happen and user experience will suffer. This post details a method for automating the deployment of your software in an effort to minimize defective releases. The example content is a simple PJSR script, but the described method applies to PCL modules.
 

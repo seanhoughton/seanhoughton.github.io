@@ -16,6 +16,7 @@ tags:
 - Astrophotography
 - G11
 - Photography
+alias: /2001/01/astrophotography-equipment/index.html
 ---
 ### Takahashi FS102 Refractor
 [caption id="attachment_240" align="alignleft" width="104" caption="Warning"]<img class="size-full wp-image-240 " title="0005_dontlookatsun" src="{{site.url_root}}/assets/data/2008/12/0005_dontlookatsun.jpg" alt="0005_dontlookatsun" width="104" height="132" />[/caption]

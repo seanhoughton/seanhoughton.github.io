@@ -17,6 +17,7 @@ tags:
 - Astrophotography
 - G11
 - Photography
+alias: /2009/01/half-moon/index.html
 ---
 This is a picture of the half moon from early in January 2009.
 

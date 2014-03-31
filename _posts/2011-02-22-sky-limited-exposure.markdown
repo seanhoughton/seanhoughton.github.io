@@ -12,6 +12,7 @@ date: '2011-02-22 21:35:27 -0800'
 date_gmt: '2011-02-23 05:35:27 -0800'
 categories: []
 tags: []
+alias: /2011/02/sky-limited-exposure/index.html
 ---
 One of the fun technical challenges in astrophotography is the meticulous attention to detail that you must apply to every step. One of these details is correctly balancing the desire to take long exposures to minimize the effects of readout noise and the desire to take lots of short exposures to minimize the wasted time of an exposure with a random defect such as cosmic ray strikes or tracking errors. Additionally, multiple exposures lets you use advanced pixel rejection techniques that require many images to function well.
 

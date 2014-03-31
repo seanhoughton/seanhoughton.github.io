@@ -18,6 +18,7 @@ categories:
 tags:
 - Aperture
 - Photography
+alias: /2005/12/my-aperture-folder-structure/index.html
 ---
 I've tried a couple Aperture folder hierarchies and this is the one that seems to work the best for me.
 

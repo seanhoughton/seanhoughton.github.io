@@ -18,6 +18,7 @@ categories:
 tags:
 - Bike
 - mountainbike
+alias: /2006/02/bootleg-canyon/index.html
 ---
 Recently went on a trip to Bootleg Canyon and Las Vegas.
 

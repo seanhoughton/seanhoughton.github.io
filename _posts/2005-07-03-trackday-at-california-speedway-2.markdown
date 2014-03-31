@@ -15,6 +15,7 @@ categories:
 tags:
 - Motorcycle
 - Trackday
+alias: /2005/07/trackday-at-california-speedway-2/index.html
 ---
 Just finished another track day at California Speedway in Fontana with Stephane.  This was the fourth track day we've done at this track.
 

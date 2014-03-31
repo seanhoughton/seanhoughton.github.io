@@ -19,6 +19,7 @@ categories:
 tags:
 - Aperture
 - Photography
+alias: /2006/04/finding-duplicate-images-in-aperture/index.html
 ---
 While playing around with the Aperture database I decided to try to make something useful.  The result is an Automator workflow that looks for duplicate master image names.
 

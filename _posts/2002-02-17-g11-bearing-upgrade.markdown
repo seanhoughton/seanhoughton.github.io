@@ -21,6 +21,7 @@ tags:
 - Astrophotography
 - G11
 - Photography
+alias: /2002/02/g11-bearing-upgrade/index.html
 ---
 This is a tutorial on replacing the bearings on the Losmandy G11 telescope mount.  This may or may not improve the tracking ability.  It's kind of fun to do anyway.
 

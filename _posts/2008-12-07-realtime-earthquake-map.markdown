@@ -23,6 +23,7 @@ tags:
 - Flex
 - USGS
 - Visualization
+alias: /2008/12/realtime-earthquake-map/index.html
 ---
 Flash, and Flex in particular, has a solid set of tools available ata visualization.  When I found that the USGS provided realtime earthquake data as csv files I couldn't resist building a viewer.  It's based on <a href="http://flowingdata.com/2008/09/03/how-to-create-a-real-time-web-traffic-map-for-your-site/">a traffic map by Nathan at Flowing Data</a><br />
 <a href="http://blog.mungosmash.com/wp-content/uploads/2008/12/quakes.swf"><img class="size-full wp-image-64" title="Quakes" src="http://blog.mungosmash.com/wp-content/uploads/2008/12/quakes.png" alt="" width="223" height="149" /><br />

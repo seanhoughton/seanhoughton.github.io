@@ -13,6 +13,7 @@ date_gmt: '2006-06-29 06:44:06 -0700'
 categories:
 - Uncategorized
 tags: []
+alias: /2006/06/superman-home-wrecker/index.html
 ---
 I just saw the new movie Superman Returns and I'm not sure but I might be missing the intended point.  I kept seeing Superman as a symbol of men's insecurity.  He's your wife or girlfriend's ex-boyfriend and you're pretty sure she's still in love with him.  He's better looking, stronger and he won't stay away.
 

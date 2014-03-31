@@ -13,6 +13,7 @@ date_gmt: '2007-09-27 07:41:51 -0700'
 categories:
 - Uncategorized
 tags: []
+alias: /2007/09/rip-scott-carter/index.html
 ---
 <mtgib:thumb-left id=561/>A good friend of mine, Scott Carter passed away this month.  He loved two things in life: chocolate cake and motor-sports.  I'll always remember his giddiness after running into <a href=http://en.wikipedia.org/wiki/Shigeru_Miyamoto>Shigeru Miyamoto</a>In-N-Out.
 

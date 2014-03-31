@@ -18,6 +18,7 @@ categories:
 tags:
 - Aperture
 - Photography
+alias: /2005/12/the-aperture-database-structure/index.html
 ---
 I'm working on decoding the Aperture database structure.  Just playing around in the database has been very interesting.
 

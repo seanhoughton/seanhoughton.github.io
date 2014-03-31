@@ -15,6 +15,7 @@ categories:
 tags:
 - Darkwatch
 - Games
+alias: /2005/09/darkwatch-has-shipped/index.html
 ---
 After more than two years of work it's finally out the door.  I worked as a senior programmer on this one.  Please buy one.
 

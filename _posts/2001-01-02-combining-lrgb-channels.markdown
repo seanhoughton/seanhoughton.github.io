@@ -18,6 +18,7 @@ categories:
 tags:
 - Astrophotography
 - Photography
+alias: /2001/01/combining-lrgb-channels/index.html
 ---
 Because most CCD cameras made for astronomy are monochromatic it is neccessary to place a series of filters over the camera and take seperate images that each cover a different spectral region. These images can then be combined to create a "true-color" image. The problem with placing filters over the camera is that it reduces the amount of light that strikes the chip. This means you need to take longer exposures. However, many CCD cameras have a feature called "binning" that allows you to add the values of 4 (or more) adjacent pixels into a single pixel. This results in a loss in noise (for reasons I will not get in to) and an apparent increase in sensitivity - meaning shorter exposures. The only bad part is that it cuts the resolution of the image in half.
 

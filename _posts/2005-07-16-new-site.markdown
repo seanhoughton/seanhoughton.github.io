@@ -15,6 +15,7 @@ categories:
 tags:
 - MovableType
 - Web
+alias: /2005/07/new-site/index.html
 ---
 I've finally finished the major work of converting the site to the MovableType blogging system.  After years as 'astronerd.net' I've decided on a new name as well.
 

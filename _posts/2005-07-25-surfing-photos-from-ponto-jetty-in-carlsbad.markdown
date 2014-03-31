@@ -20,6 +20,7 @@ categories:
 tags:
 - Photography
 - Surf
+alias: /2005/07/surfing-photos-from-ponto-jetty-in-carlsbad/index.html
 ---
 Just added some new surfing photos.  Shooting against the sunset makes the color a bit odd, but not bad overall.
 

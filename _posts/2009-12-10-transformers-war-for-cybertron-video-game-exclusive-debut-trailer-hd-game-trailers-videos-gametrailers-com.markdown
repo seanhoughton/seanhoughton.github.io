@@ -13,6 +13,7 @@ date_gmt: '2009-12-11 07:27:32 -0800'
 categories:
 - Programming
 tags: []
+alias: /2009/12/transformers-war-for-cybertron-video-game-exclusive-debut-trailer-hd-game-trailers-videos-gametrailers-com/index.html
 ---
 I haven't updated this page in a long time, mainly because I've been working on this game night and day. It's going to be good!
 

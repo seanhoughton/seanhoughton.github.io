@@ -24,6 +24,7 @@ tags:
 - G5
 - Optimization
 - Performance
+alias: /2006/07/performance-optimization/index.html
 ---
 Results of performance optimization study on both PowerPC and CoreDuo machines.  100 runs of the same two functions were done and the best time from each is recorded as changed are made to the code and compiler flags.
 

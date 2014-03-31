@@ -13,6 +13,7 @@ date_gmt: '2009-12-23 06:28:06 -0800'
 categories:
 - Photography
 tags: []
+alias: /2009/12/birch-aquarium/index.html
 ---
 Took a quick trip to the Birch Aquarium to kick off my vacation and shot a little video of the coolest stuff.  This was all shot with a Cannon 5D MKII in low resolution video mode.
 

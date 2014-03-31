@@ -18,6 +18,7 @@ tags:
 - Motorcycle
 - Trackday
 - Visualization
+alias: /2010/03/lap-times-with-tableau-public/index.html
 ---
 I've combined my love of track days with my love of data analytics.  Here's a summary of data from my lap timer.
 

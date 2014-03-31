@@ -17,6 +17,7 @@ categories:
 tags:
 - Bike
 - mountainbike
+alias: /2005/03/freeriding-at-ted-williams/index.html
 ---
 Ted Williams makes you want to do things you really shouldn't be doing.
 

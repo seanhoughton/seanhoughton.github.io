@@ -16,6 +16,7 @@ tags:
 - Motorcycle
 - Trackday
 - Streets of Willow
+alias: /2005/10/trackday-at-streets-of-willow-part-ii/index.html
 ---
 Finally, another trackday at Streets.  Last time I had this minor issue with cold tires.  No way that was happening again.  Stephane is busy healing so Joel and I requisitioned all his gear - car, trailer, generator, tire warmers - you name it we requisitioned it.
 

@@ -18,6 +18,7 @@ categories:
 tags:
 - Aperture
 - Photography
+alias: /2005/12/aperture-performance/index.html
 ---
 Apple's new Aperture program is awesome.  It's easily the best image cataloging program available, and it's in version 1.  However, the performance leaves quite a bit to be desired.  Here are the things I've discovered.
 

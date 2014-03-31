@@ -13,6 +13,7 @@ date_gmt: '2011-04-01 07:50:00 -0700'
 categories:
 - Visualization
 tags: []
+alias: /2011/03/game-review-scores-part-i/index.html
 ---
 
 Studies have shown that a good review score can propel a game's [reputation](http://www.joystiq.com/2010/07/06/eedar-smu-study-review-scores-affect-perceived-quality-purchas). However, with such a large amount of data available, the two review aggregation sites simply present a single number for each game. With a wealth of review score data available, a few web scraping scripts, and a couple data analysis tools, some very interesting patterns emerge.

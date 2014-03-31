@@ -21,6 +21,7 @@ tags:
 - Motorcycle
 - Trackday
 - Streets of Willow
+alias: /2004/10/trackday-at-streets-of-willow/index.html
 ---
 First trackday!  Many more followed, but this is the one that started it all.
 

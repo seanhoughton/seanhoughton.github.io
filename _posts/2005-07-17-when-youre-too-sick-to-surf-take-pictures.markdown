@@ -19,6 +19,7 @@ categories:
 - Photography
 tags:
 - Surf
+alias: /2005/07/when-youre-too-sick-to-surf-take-pictures/index.html
 ---
 I managed to injure my ankle and get pretty sick right when a large swell showed up in San Diego.  The weather was awesome so all I could get was vicarious surfage.
 

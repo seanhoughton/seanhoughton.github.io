@@ -17,6 +17,7 @@ tags:
 - Buel
 - Motorcycle
 - Visualization
+alias: /2009/05/ama-supersport-and-buels-performance/index.html
 ---
 The AMA is responsible for creating rules for the motorcycle racing series that ensure fair competition between motorcycles of different manufacturers and construction. The AMA Sport Bike series mixes motorcycles with 2, 3 and 4 cylinders from many manufacturers. Lately, the underdogs (Buel) have been doing really well and people are starting to suspect that the rules are slanted in their favor.
 

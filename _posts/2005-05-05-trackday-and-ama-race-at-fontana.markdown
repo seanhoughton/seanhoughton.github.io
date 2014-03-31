@@ -17,6 +17,7 @@ categories:
 tags:
 - Motorcycle
 - Trackday
+alias: /2005/05/trackday-and-ama-race-at-fontana/index.html
 ---
 Another track day!
 

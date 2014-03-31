@@ -15,6 +15,7 @@ categories:
 tags:
 - Gallery2
 - Photography
+alias: /2007/06/new-gallery-integration/index.html
 ---
 <mtgib:thumb-left id=499/>
 

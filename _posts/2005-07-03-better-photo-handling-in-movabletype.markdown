@@ -19,6 +19,7 @@ categories:
 - Programming
 tags:
 - Photography
+alias: /2005/07/better-photo-handling-in-movabletype/index.html
 ---
 After getting sick at the XBox developer conference (and dosing up on plenty of dextromethorphan) I decided to move my website content over to MovableType.  I had been using a home-brew system but it was nowhere near as feature rich as the MT system.  However, I'm really happy with my old photo gallery system and wanted to be able to show photos from the gallery in my MT entries.
 

@@ -13,6 +13,7 @@ date_gmt: '2006-05-11 03:41:47 -0700'
 categories:
 - Uncategorized
 tags: []
+alias: /2006/05/pig-personality-test/index.html
 ---
 I drew a pig to test my personality.  Click on it to check out the results.
 

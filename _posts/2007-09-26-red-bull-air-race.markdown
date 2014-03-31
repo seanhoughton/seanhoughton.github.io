@@ -14,6 +14,7 @@ categories:
 - Photography
 tags:
 - Photography
+alias: /2007/09/red-bull-air-race/index.html
 ---
 I ended up at the Red Bull Air Race last weekend.  The tickets were $25, but we just stood at the convention center for free and watched from high-up.  These guys are crazy, it was like MotoGP plane racing.
 

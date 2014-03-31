@@ -18,6 +18,7 @@ categories:
 tags:
 - TDD
 - Unit test
+alias: /2005/07/unit-testing-perl/index.html
 ---
 While working on a small script at work today it occurred to me that had I been writing it in C++ I would have already had quite a few tests for the logic I had written.  In a fit of madness I wrote a small test function in Perl and called it from the start of the script.  After working on a couple more tests to verify some subroutines that I wasn't sure were working properly I realized that I had more test code than script code!  By the time the script was done I had twice as much test code as script code and <b>my ass had been saved many times by the tests</b>.
 

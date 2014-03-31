@@ -19,6 +19,7 @@ categories:
 tags:
 - Astrophotography
 - Photography
+alias: /2001/01/noise-reduction-in-film-images/index.html
 ---
 <strong>Update</strong>: I now use Noise Ninja for all my noise reduction. It works really well.
 

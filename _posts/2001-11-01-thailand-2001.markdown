@@ -20,6 +20,7 @@ date_gmt: '2001-11-02 02:50:13 -0800'
 categories:
 - Uncategorized
 tags: []
+alias: /2001/11/thailand-2001/index.html
 ---
 I <b>finally</b> got around to scanning in all the photographs from the trip to Thailand in 2001.
 

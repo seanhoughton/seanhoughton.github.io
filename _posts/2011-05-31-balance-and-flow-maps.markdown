@@ -17,6 +17,7 @@ tags:
 - Games
 - Visualization
 - Tableau
+alias: /2011/05/balance-and-flow-maps/index.html
 ---
 
 Heatmaps are an excellent tool for visualizing data with a two dimensional spatial component. They are frequently used to map out player deaths in shooter games. The most common heatmaps use the location of the victim and aggregate the number of kills as the visualized measure. However, this simple metric doesn't tell the whole story. With a few simple tweaks we can build balance and flow maps, which can be useful tools for understanding the way players use the map.

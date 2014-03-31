@@ -16,6 +16,7 @@ tags:
 - Buttonwillow
 - Motorcycle
 - Trackday
+alias: /2005/08/trackday-at-buttonwillow/index.html
 ---
 Stephane and I did a two day trackday at Buttonwillow.  It was between 95 and 100 degrees most of the day, but going for two days was an interesting experience.
 

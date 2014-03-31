@@ -13,6 +13,7 @@ date_gmt: '2011-04-01 07:50:16 -0700'
 categories:
 - Visualization
 tags: []
+alias: /2011/03/game-review-scores-part-ii/index.html
 ---
 In [Part I]({% post_url 2011-03-31-game-review-scores-part-i %}) we looked at review scores in isolation. When we combine review score data with sales data some interesting patterns emerge. This section includes sales data from around 7,000 Xbox360 and Playstation2 games as well as the review score data from [Part I]({% post_url 2011-03-31-game-review-scores-part-i %})
 

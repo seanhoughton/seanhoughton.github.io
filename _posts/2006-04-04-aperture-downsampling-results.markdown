@@ -18,6 +18,7 @@ categories:
 tags:
 - Aperture
 - Photography
+alias: /2006/04/aperture-downsampling-results/index.html
 ---
 Most of the time we want more resolution in our images so they can be printed on bigger and bigger  formats.  However, for web publishing it's important to have quality downsized version of our images.  A question about how Aperture does this was raised on the <a href="http://discussions.apple.com/category.jspa?categoryID=184">Aperture discussion group</a> about image downsizing.  I used a few test images from <a href="http://oshyan.ashundar.com/image_resampling_main.html">Oshyan Greene's website</a> to find out.<br/><br/>
 

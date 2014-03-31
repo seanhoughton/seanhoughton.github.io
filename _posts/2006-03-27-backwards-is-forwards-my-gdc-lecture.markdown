@@ -23,6 +23,7 @@ tags:
 - Programming
 - TDD
 - Unit test
+alias: /2006/03/backwards-is-forwards-my-gdc-lecture/index.html
 ---
 Noel Llopis and I did a lecture at the Game Developer Conference this year about test driven development.  It's a process we're using at High Moon and I use at home for all my coding.  Gamasutra wrote <a href="http://www.gamasutra.com/features/20060322/duffy_01.shtml">an article about it</a>, but they're the ones throwing the conference so it's not unexpected.
 

@@ -13,6 +13,7 @@ date_gmt: '2011-04-01 07:50:35 -0700'
 categories:
 - Visualization
 tags: []
+alias: /2011/03/game-review-scores-part-iii/index.html
 ---
 ### Scraping Data
 

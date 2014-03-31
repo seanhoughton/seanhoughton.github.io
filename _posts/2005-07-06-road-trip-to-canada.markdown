@@ -16,6 +16,7 @@ date_gmt: '2005-07-07 05:58:18 -0700'
 categories:
 - Uncategorized
 tags: []
+alias: /2005/07/road-trip-to-canada/index.html
 ---
 This is a faithful retelling Canadian odyssey.
 

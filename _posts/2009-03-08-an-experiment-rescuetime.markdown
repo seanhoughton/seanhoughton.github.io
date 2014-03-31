@@ -15,6 +15,7 @@ categories:
 tags:
 - Data
 - Visualization
+alias: /2009/03/an-experiment-rescuetime/index.html
 ---
 RescueTime is a great tool for monitoring what you do.  It allows you to big-brother yourself.  You install a background service that monitors which applications you're using and it aggregates and sorts the data in a way that helps you understand what you're spening your time doing.
 

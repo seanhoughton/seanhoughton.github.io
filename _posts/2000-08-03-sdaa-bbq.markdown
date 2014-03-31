@@ -17,6 +17,7 @@ categories:
 - Photography
 tags:
 - Astrophotography
+alias: /2000/08/sdaa-bbq/index.html
 ---
 I don't have my own observatory so I use the <a href="http://www.sdaa.org">San Diego Astronomy Association</a>'s dark sky site in Tierra Del Sol most of the time. The following are some pictures of Tierra Del Sol at various levels of activity.
 

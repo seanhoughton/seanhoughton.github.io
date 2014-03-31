@@ -15,6 +15,7 @@ categories:
 tags:
 - Motorcycle
 - Trackday
+alias: /2006/04/racetrack-from-my-perspective/index.html
 ---
 I've recently uploaded some HD footage I have from my last trackday at Streets of Willow Raceway to youtube.
 

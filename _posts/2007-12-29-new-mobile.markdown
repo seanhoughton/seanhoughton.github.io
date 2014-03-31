@@ -19,6 +19,7 @@ categories:
 tags:
 - Art
 - Design
+alias: /2007/12/new-mobile/index.html
 ---
 <img class="aligncenter size-medium wp-image-270" title="dscn0089" src="http://blog.mungosmash.com/wp-content/uploads/2007/12/dscn0089-300x225.jpg" alt="dscn0089" width="300" height="225" /><br />
 Just hung a new mobile in the living room.  It turns out that a drill on a long stick works really well.

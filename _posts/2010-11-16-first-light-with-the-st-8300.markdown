@@ -17,6 +17,7 @@ tags:
 - G11
 - Takahashi
 - ST8300
+alias: /2010/11/first-light-with-the-st-8300/index.html
 ---
 I decided to purchase an SBIG ST-8300M to replace the 10D and 5DMkII for astrophotography.  Although these camera are amazing performers they just don't hold up without modifications for deep sky subjects due to their muffled sensitivity to hydrogen-alpha light.  I also own an SBIG STV and SBIG ST-5C and the company makes great hardware.  The ST-8300 is a bargain when compared with most other dedicated astrophotography cameras and when combined with a filter wheel and good filters you can take extremely high quality pictures for a fraction of what the ultra high-end hardware costs.
 
