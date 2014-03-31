@@ -1,0 +1,19 @@
+---
+layout: default
+status: publish
+published: true
+title: New site!
+author: Sean
+author_login: Sean
+author_email: sean.houghton@gmail.com
+wordpress_id: 24
+wordpress_url: http://blog.mungosmash.com/?p=24
+date: '2005-07-16 15:40:40 -0700'
+date_gmt: '2005-07-16 23:40:40 -0700'
+categories:
+- Programming
+tags:
+- MovableType
+- Web
+---
+<p>I've finally finished the major work of converting the site to the MovableType blogging system.  After years as 'astronerd.net' I've decided on a new name as well.</p>

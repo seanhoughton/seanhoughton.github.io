@@ -1,0 +1,24 @@
+---
+layout: default
+status: publish
+published: true
+title: Ducati 1098s Bling
+author: Sean
+author_login: Sean
+author_email: sean.houghton@gmail.com
+wordpress_id: 494
+wordpress_url: http://blog.mungosmash.com/?p=494
+date: '2009-07-27 22:18:42 -0700'
+date_gmt: '2009-07-28 06:18:42 -0700'
+categories:
+- Motorcycles
+tags:
+- Ducati
+- Motorcycle
+---
+<p>I love the craftsmanship of Ducati motorcycles but it's impossible to resist upgrading it.  I'm a fan of subtle enhancements and details so I went with machined parts that blend with the amazing look and finish of the factory bike.</p>
+<p>[caption id="attachment_495" align="aligncenter" width="300" caption="CRG Shorty Levers"]<a href="{{site.url_root}}/assets/data/wp/wp/2009/07/IMG_0786.png"><img class="size-medium wp-image-495" title="IMG_0786" src="http://blog.mungosmash.com/wp-content/uploads/2009/07/IMG_0786-300x200.png" alt="CRG Shorty Levers" width="300" height="200" /></a>[/caption]</p>
+<p>[caption id="attachment_496" align="aligncenter" width="300" caption="Speedy Moto Clutch Cover"]<a href="{{site.url_root}}/assets/data/wp/wp/2009/07/IMG_0788.png"><img class="size-medium wp-image-496" title="IMG_0788" src="http://blog.mungosmash.com/wp-content/uploads/2009/07/IMG_0788-300x200.png" alt="Speedy Moto Clutch Cover" width="300" height="200" /></a>[/caption]</p>
+<p>[caption id="attachment_498" align="aligncenter" width="300" caption="The Right Side"]<a href="{{site.url_root}}/assets/data/wp/wp/2009/07/IMG_0800.png"><img class="size-medium wp-image-498" title="IMG_0800" src="http://blog.mungosmash.com/wp-content/uploads/2009/07/IMG_0800-300x200.png" alt="The Right Side" width="300" height="200" /></a>[/caption]</p>
+<p>[caption id="attachment_497" align="aligncenter" width="300" caption="Motowheels Rearsets"]<a href="{{site.url_root}}/assets/data/wp/wp/2009/07/IMG_0796.png"><img class="size-medium wp-image-497" title="IMG_0796" src="http://blog.mungosmash.com/wp-content/uploads/2009/07/IMG_0796-300x200.png" alt="Motowheels Rearsets" width="300" height="200" /></a>[/caption]</p>
+<p>[caption id="attachment_499" align="aligncenter" width="300" caption="Random Track Picture (I'm in the yellow helmet)"]<a href="{{site.url_root}}/assets/data/wp/wp/2009/07/PICT0004.png"><img class="size-medium wp-image-499" title="PICT0004" src="http://blog.mungosmash.com/wp-content/uploads/2009/07/PICT0004-300x225.png" alt="PICT0004" width="300" height="225" /></a>[/caption]</p>

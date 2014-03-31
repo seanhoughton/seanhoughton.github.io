@@ -1,0 +1,23 @@
+---
+layout: default
+status: publish
+published: true
+title: 'Road: 1, Joel: 0'
+author: Sean
+author_login: Sean
+author_email: sean.houghton@gmail.com
+wordpress_id: 40
+wordpress_url: http://blog.mungosmash.com/?p=40
+date: '2006-04-09 21:59:52 -0700'
+date_gmt: '2006-04-10 05:59:52 -0700'
+categories:
+- Motorcycles
+tags:
+- Crash
+- Motorcycle
+- Trackday
+---
+<p>We got in another track day at Streets of Willow a few months ago and I'm finally posting some pictures.  I managed to bring my lap time down by 5 seconds and Joel managed to destroy his motorcycle.</p>
+<p>It was hot, somewhere around 90 degrees.</p>
+<p><a href="{{site.url_root}}/assets/data/wp/wp/2006/04/CRW_4078.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2006/04/CRW_4078.jpeg" alt="" title="Joel&#039;s bike is one sorry sight at this point." width="700" height="464" class="aligncenter size-full wp-image-785" /></a></p>
+<p><a href="{{site.url_root}}/assets/data/wp/wp/2006/04/CRW_4067.jpeg"><img src="{{site.url_root}}/assets/data/wp/wp/2006/04/CRW_4067.jpeg" alt="" title="How do you taco the rim in two places?" width="700" height="464" class="aligncenter size-full wp-image-786" /></a></p>

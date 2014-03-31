@@ -1,0 +1,27 @@
+---
+layout: default
+status: publish
+published: true
+title: Lap Times with Tableau Public
+author: Sean
+author_login: Sean
+author_email: sean.houghton@gmail.com
+wordpress_id: 586
+wordpress_url: http://blog.mungosmash.com/?p=586
+date: '2010-03-12 00:19:03 -0800'
+date_gmt: '2010-03-12 08:19:03 -0800'
+categories:
+- Motorcycles
+- Visualization
+tags:
+- Data
+- Motorcycle
+- Trackday
+- Visualization
+---
+<p>I've combined my love of track days with my love of data analytics.  Here's a summary of data from my lap timer.</p>
+<p><script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/viz_v1.js"></script>
+<div id="tableau_hide_this"style="width:604px; height:769px;"></div><object class="tableauViz" width="604" height="769" style="display:none;"><param name="host_url" value="http%3A%2F%2Fpublic.tableausoftware.com%2F" /><param name="name" value="LapTimes/Dashboard" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /></object><br />
+<noscript>Dashboard <br /><a href="#"><img alt="Dashboard " src="http://public.tableausoftware.com/static/images/La/LapTimes/Dashboard/1_rss.png" height="100%" /></a></noscript>
+<div style="width:604px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;">
+<div style="float:right; padding-right:8px;"><a href="http://www.tableausoftware.com/public?ref=http://public.tableausoftware.com/views/LapTimes/Dashboard" target="_blank">Powered by Tableau</a></div></div></p>

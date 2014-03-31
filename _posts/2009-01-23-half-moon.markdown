@@ -1,0 +1,23 @@
+---
+layout: default
+status: publish
+published: true
+title: Half Moon
+author: Sean
+author_login: Sean
+author_email: sean.houghton@gmail.com
+wordpress_id: 388
+wordpress_url: http://blog.mungosmash.com/?p=388
+date: '2009-01-23 23:21:52 -0800'
+date_gmt: '2009-01-24 07:21:52 -0800'
+categories:
+- Photography
+tags:
+- 10D
+- Astrophotography
+- G11
+- Photography
+---
+<p>This is a picture of the half moon from early in January 2009.</p>
+<p>[flickr]photo:5210497115[/flickr]</p>
+<p>This was taken with a Canon 10D through a Takahashi FS102 refractor at prime focus.</p>
