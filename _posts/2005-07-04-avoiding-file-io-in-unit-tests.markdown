@@ -24,102 +24,100 @@ tags:
 - Unit test
 alias: /2005/07/avoiding-file-io-in-unit-tests/index.html
 ---
-Noel's article <a title="Games from Within: Stepping Through the Looking Glass: Test-Driven Game Development (Part 3)" href="http://www.gamesfromwithin.com/articles/0503/000078.html">Test-Driven Game Development</a> mentions that unit test suites should run quickly.  That usually means as little file I/O as possible.  However, sometimes you're dealing with middleware or legacy code that requires deserialization to construct objects.  What do you do?
+Noel's article [Test-Driven Game Development](http://www.gamesfromwithin.com/articles/0503/000078.html) mentions that unit test suites should run quickly. That usually means as little file I/O as possible. However, sometimes you're dealing with middleware or legacy code that requires deserialization to construct objects. What do you do?
 
-<a id="more"></a><a id="more-20"></a>
-
-<h4>The Problem</h4>
+### The Problem
 
 Let's say you have a class that can only be constructed with a stream, something like:
 
-<pre name="code" class="cpp">
-class Mesh<br />
-{<br />
-public: Mesh(InStream& stream);<br />
-};<br />
-</pre>
+{% highlight cpp %}
+class Mesh
+{
+public: Mesh(InStream& stream);
+};
+{% endhighlight %}
 
 You would like to construct a Mesh in a test so you can check some functionality.  You could use a FileInStream like this:
 
-<pre name="code" class="cpp">
-TEST(CorrectTriangleCount)<br />
-{<br />
-FileInStream stream("oneTriangle.mesh");<br />
-Mesh m(stream);<br />
-CHECK_EQUAL(1, m.GetTriangleCount());<br />
-}<br />
-</pre>
+{% highlight cpp %}
+TEST(CorrectTriangleCount)
+{
+FileInStream stream("oneTriangle.mesh");
+Mesh m(stream);
+CHECK_EQUAL(1, m.GetTriangleCount());
+}
+{% endhighlight %}
 
-However, that would mean file I/O every time the tests are run.  If you've configured your tests to run after every library change (a good practice) it can mean lots of wasted time.  Another, less obvious problem lies in the fact that the test can fail for two reasons: the code for <i>GetTriangleCount()</i> could be buggy, or someone may have deleted "onetriangle.mesh" not knowing it's part of the test suite.
+However, that would mean file I/O every time the tests are run.  If you've configured your tests to run after every library change (a good practice) it can mean lots of wasted time.  Another, less obvious problem lies in the fact that the test can fail for two reasons: the code for `GetTriangleCount()` could be buggy, or someone may have deleted `onetriangle.mesh` not knowing it's part of the test suite.
 
-<h4>The 'Optimization' Solution</h4>
+### The 'Optimization' Solution
 
-We can help the first problem and solve the second by adding the data file to the project and using a "Custom Build Rule" in Visual Studio.  Using a simple script we can transform the binary file into a text file containing a C-style array of usigned char values.  Here's a simple Python script that will take binary data from stdin and write an array of byte values to stdout.  Note that you'll want to add a binary setmode() call in Windows.
+We can help the first problem and solve the second by adding the data file to the project and using a "Custom Build Rule" in Visual Studio.  Using a simple script we can transform the binary file into a text file containing a C-style array of `usigned char` values.  Here's a simple Python script that will take binary data from `stdin` and write an array of byte values to `stdout`.  Note that you'll want to add a binary `setmode()` call in Windows.
 
-<pre name="code" class="python">
-#!/usr/bin/python<br />
-import sys;<br />
-import array;<br />
-import struct;<br />
-import string;<br />
-byteData = array.array('B', sys.stdin.read(-1))<br />
-byteList = byteData.tolist();<br />
-result = [str(b) + ",n" for b in byteList]<br />
-print string.join(result);<br />
-</pre>
+{% highlight python %}
+#!/usr/bin/python
+import sys
+import array
+import struct
+import string
+byteData = array.array('B', sys.stdin.read(-1))
+byteList = byteData.tolist()
+result = [str(b) + ",n" for b in byteList]
+print string.join(result)
+{% endhighlight %}
 
 And your custom build rule on the binary file looks like:
 
-<pre name="code" class="bash">
-cat "$(SourcePath)/$(FileName)" | BinaryToArray.py > "$(SourcePath)/$(FileName).inl"<br />
-</pre>
+{% highlight bash %}
+cat "$(SourcePath)/$(FileName)" | BinaryToArray.py > "$(SourcePath)/$(FileName).inl"
+{% endhighlight %}
 
 This file can be included as static data in your test's cpp file and used with a memory stream in the test.
 
-<pre name="code" class="cpp">
-const unsigned char oneTriangleMeshData[] =<br />
-{<br />
-#include "oneTriangle.mesh.inl"<br />
+{% highlight cpp %}
+const unsigned char oneTriangleMeshData[] =
+{
+#include "oneTriangle.mesh.inl"
 };
 
-TEST(CorrectTriangleCount)<br />
-{<br />
-MemoryInStream stream(oneTriangleMeshData, oneTriangleMeshData  + sizeof(oneTriangleMeshData));<br />
-Mesh m(stream);<br />
-CHECK_EQUAL(1, m.GetTriangleCount());<br />
-}<br />
-</pre>
+TEST(CorrectTriangleCount)
+{
+MemoryInStream stream(oneTriangleMeshData, oneTriangleMeshData  + sizeof(oneTriangleMeshData));
+Mesh m(stream);
+CHECK_EQUAL(1, m.GetTriangleCount());
+}
+{% endhighlight %}
 
 Assuming the deserialization runs quickly the test will run much faster.  As an added bonus the compiler will issue errors if the file is missing instead of the test failing at runtime.  Any error you can move out of the runtime and into compilation is a win in my book.
 
-<h4>The 'Fix The Fundamental Problem' Solution</h4>
+### The 'Fix The Fundamental Problem' Solution
 
-The source of the problem is that the 'Mesh' class couples construction with deserialization.  In my opinion, the best fix is to use the Construction Object pattern.  Extract all the deserialized data into a structure separate from the Mesh class.  Then, change your Mesh constructor to take a cinfo instead of a stream.  For example:
+The source of the problem is that the `Mesh` class couples construction with deserialization.  In my opinion, the best fix is to use the Construction Object pattern.  Extract all the deserialized data into a structure separate from the `Mesh` class.  Then, change your `Mesh` constructor to take a cinfo instead of a stream.  For example:
 
-<pre name="code" class="cpp">
-struct MeshCInfo<br />
-{<br />
-int numTriangles;<br />
-//...<br />
+{% highlight cpp %}
+struct MeshCInfo
+{
+int numTriangles;
+//...
 };
 
-class Mesh<br />
-{<br />
-public: explicit Mesh(const MeshCInfo& cinfo);<br />
-};<br />
-</pre>
+class Mesh
+{
+public: explicit Mesh(const MeshCInfo& cinfo);
+};
+{% endhighlight %}
 
-Now you can construct your Mesh objects without any file I/O.  Most tests shouldn't require any complicated data to test functionality so they should be easy to hardcode into your tests and fixtures.
+Now you can construct your `Mesh` objects without any file I/O.  Most tests shouldn't require any complicated data to test functionality so they should be easy to hardcode into your tests and fixtures.
 
-<pre name="code" class="cpp">
-TEST(CorrectTriangleCount)<br />
-{<br />
-MeshCInfo info;<br />
-info.triangleCount = 1;<br />
-Mesh m(info);<br />
-CHECK_EQUAL(1, m.GetTriangleCount());<br />
-}<br />
-</pre>
+{% highlight cpp %}
+TEST(CorrectTriangleCount)
+{
+MeshCInfo info;
+info.triangleCount = 1;
+Mesh m(info);
+CHECK_EQUAL(1, m.GetTriangleCount());
+}
+{% endhighlight %}
 
-One added benefit of Construction Info structures is that they tend to be very easy to deserialize.  Some <a href="http://alpatrick.blogspot.com">clever people</a> have even figured out ways to auto-generate the {de}serialization code.
+One added benefit of Construction Info structures is that they tend to be very easy to deserialize. Some [clever people](http://alpatrick.blogspot.com) have even figured out ways to auto-generate the {de}serialization code.
 

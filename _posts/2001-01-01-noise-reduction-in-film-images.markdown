@@ -32,7 +32,7 @@ The idea behind this method is that the low-light areas of the photograph need t
 <a id="more"></a><a id="more-8"></a><br />
 I have created an action which includes all of these steps which you can download. Click here to download. To use it just open up the Actions window, click on the arrow in the upper right of the window and select Load actions. Pick the file you just downloaded and you should see a new button entitled "Reduce Film Grain" at the bottom of the Actions window. One of the keys to using Photoshop effectively is learning how to make and use actions.
 
-<a href="{{site.url_root}}/media/2008/12/1108708165_ngc7023ba_compare.jpg"><img class="aligncenter size-medium wp-image-217" title="1108708165_ngc7023ba_compare" src="http://blog.mungosmash.com/wp-content/uploads/2001/01/1108708165_ngc7023ba_compare-300x210.jpg" alt="1108708165_ngc7023ba_compare" width="300" height="210" /></a>
+<a href="{{site.url_root}}/media/2008/12/1108708165_ngc7023ba_compare.jpg"><img class="aligncenter size-medium wp-image-217" title="1108708165_ngc7023ba_compare" src="{{site.url_root}}/media/2001/01/1108708165_ngc7023ba_compare-300x210.jpg" alt="1108708165_ngc7023ba_compare" width="300" height="210" /></a>
 
 Image by Tony Hallas used with permission
 
@@ -45,7 +45,7 @@ Copy the background layer twice and rename your layers in ascending order "origi
 Turn the visibility off for the "smoothed" layer (click on "eye" icon).<br />
 Make sure you have the mask layer selected and press <strong>Shift-Ctrl-U</strong> to desaturate the image.
 
-<a href="{{site.url_root}}/media/2008/12/1108708411_levelsdialog.jpg"><img class="aligncenter size-medium wp-image-220" title="1108708411_levelsdialog" src="http://blog.mungosmash.com/wp-content/uploads/2001/01/1108708411_levelsdialog-300x205.jpg" alt="1108708411_levelsdialog" width="300" height="205" /></a><br />
+<a href="{{site.url_root}}/media/2008/12/1108708411_levelsdialog.jpg"><img class="aligncenter size-medium wp-image-220" title="1108708411_levelsdialog" src="{{site.url_root}}/media/2001/01/1108708411_levelsdialog-300x205.jpg" alt="1108708411_levelsdialog" width="300" height="205" /></a><br />
 Press <strong>Ctrl-L</strong> to adjust the levels, play around with the histogram sliders until you get an image which is white where the stars and bright nebulosity is (i.e. where there is no grain) and black where there is grain. You don't need to create a black and white image, try to include at least a little grey area in between (b).
 
 <a href="{{site.url_root}}/media/2008/12/1108708481_channeldialog.jpg"><img class="aligncenter size-full wp-image-221" title="1108708481_channeldialog" src="{{site.url_root}}/media/2008/12/1108708481_channeldialog.jpg" alt="1108708481_channeldialog" width="218" height="256" /></a><br />

@@ -41,24 +41,31 @@ Jenkins is now running and you can configure a new job using a web browser.  The
 
 We'll be using the FTP Upload plugin in our job so we should install and set it up first.  You can install this from within Jenkins's plugin manager, <em>Manage Jenkins -> Manage Plugins -> Available</em>.  You may need to install a plugin for your revision control provider here too.  Once it's installed you'll need to restart Jenkins.
 
-[caption id="attachment_681" align="aligncenter" width="463" caption="Fig. 1  Installing the FTP Uploader plugin"]<a href="{{site.url_root}}/media/2010/12/FtpPlugin.png"><img class="size-full wp-image-681" title="FtpPlugin" src="{{site.url_root}}/media/2010/12/FtpPlugin.png" alt="" width="463" height="90" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/FtpPlugin.png)
+*Fig. 1  Installing the FTP Uploader plugin*
 
 The plugin lets you build a predefined list of servers that each job can use.  We'll set up a connection on the global configuration page, <em>Manage Jenkins -> Configure System</em>.
 
-[caption id="attachment_679" align="aligncenter" width="555" caption="Fig. 2  Setting up an FTP connection"]<a href="{{site.url_root}}/media/2010/12/FtpSetup.png"><img class="size-full wp-image-679" title="FtpSetup" src="{{site.url_root}}/media/2010/12/FtpSetup.png" alt="" width="555" height="260" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/FtpSetup.png)
+*Fig. 2  Setting up an FTP connection*
 
 ### Creating a Build Job
+
 Now we're ready to create our job.  Select "New Job" from the menu.
 
-[caption id="attachment_676" align="aligncenter" width="565" caption="Fig. 3 Creating a new job in Jenkins"]<a href="{{site.url_root}}/media/2010/12/NewJob.png"><img class="size-full wp-image-676" title="NewJob" src="{{site.url_root}}/media/2010/12/NewJob.png" alt="" width="565" height="499" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/NewJob.png)
+*Fig. 3 Creating a new job in Jenkins*
 
 The job will pull code from our revision control repository.
 
-[caption id="attachment_675" align="aligncenter" width="545" caption="Fig. 4  Configuring a GitHub repository for our job"]<a href="{{site.url_root}}/media/2010/12/GitHub.png"><img class="size-full wp-image-675" title="GitHub" src="{{site.url_root}}/media/2010/12/GitHub.png" alt="" width="545" height="377" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/GitHub.png)
+*Fig. 4  Configuring a GitHub repository for our job*
 
 The job should run every time a change is submitted.
 
-[caption id="attachment_682" align="aligncenter" width="541" caption="Fig. 5  Polling the SCM repository"]<a href="{{site.url_root}}/media/2010/12/ScmPolling1.png"><img class="size-full wp-image-682" title="ScmPolling" src="{{site.url_root}}/media/2010/12/ScmPolling1.png" alt="" width="541" height="165" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/ScmPolling1.png)
+*Fig. 5  Polling the SCM repository*
+
 
 At this point the job is configured to trigger whenever a code change happens but it doesn't actually do anything with the downloaded code. We need to add some build actions to bundle up the content into a format that is ready to put on the web server and that PixInsight will understand.  In this example we are running Jenkins in OSX so we're using the "Execute Shell" action, Windows users will need to use "Execute Windows Batch Command" instead.
 
@@ -95,17 +102,22 @@ cat updates.xri.template | sed "s/TEMPLATE_FILENAME/MyScript-$BUILD_NUMBER.tar.g
 
 Finally, the job will upload the update to the web server with the FTP Uploader plugin.
 
-[caption id="attachment_680" align="aligncenter" width="536" caption="Fig 6.  Upload the package to the web server"]<a href="{{site.url_root}}/media/2010/12/FtpUpload.png"><img class="size-full wp-image-680" title="FtpUpload" src="{{site.url_root}}/media/2010/12/FtpUpload.png" alt="" width="536" height="264" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/FtpUpload.png)
+*Fig 6.  Upload the package to the web server*
 
 ### Done
+
 Now every time you push your changes to GitHub the build server will automatically generate an update package and make it available to everyone.
 
-[caption id="attachment_683" align="aligncenter" width="540" caption="Fig. 6  An update is available"]<a href="{{site.url_root}}/media/2010/12/UpdateAvailable.png"><img class="size-full wp-image-683" title="UpdateAvailable" src="{{site.url_root}}/media/2010/12/UpdateAvailable.png" alt="" width="540" height="166" /></a>[/caption]
+![]({{site.url_root}}/media/2010/12/UpdateAvailable.png)
+*Fig. 6  An update is available*
 
 ### Troubleshooting
+
 When setting up the build jobs you inevitably run in to syntax errors and logic mistakes.  The best tool is the "Console Output" view of each build.  With this tool you can watch the job execute and look for error messages.  I usually get everything working in a shell window before copying it in to a shell action.
 
 ### More Complex Configurations
+
 I'll cover a more complex example in a future post that covers building binary PCL modules on different platforms, running automated tests, and aggregating the artifacts into a single update package.
 
 ### Cloud/Hosted Services

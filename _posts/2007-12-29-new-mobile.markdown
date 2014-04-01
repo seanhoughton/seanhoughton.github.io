@@ -7,7 +7,7 @@ author: Sean
 author_login: Sean
 author_email: sean.houghton@gmail.com
 excerpt: |+
-  <img class="aligncenter size-medium wp-image-270" title="dscn0089" src="http://blog.mungosmash.com/wp-content/uploads/2007/12/dscn0089-300x225.jpg" alt="dscn0089" width="300" height="225" />
+  <img class="aligncenter size-medium wp-image-270" title="dscn0089" src="{{site.url_root}}/media/2007/12/dscn0089-300x225.jpg" alt="dscn0089" width="300" height="225" />
   Just hung a new mobile in the living room.  It turns out that a drill on a long stick works really well.
 
 wordpress_id: 48
@@ -21,7 +21,7 @@ tags:
 - Design
 alias: /2007/12/new-mobile/index.html
 ---
-<img class="aligncenter size-medium wp-image-270" title="dscn0089" src="http://blog.mungosmash.com/wp-content/uploads/2007/12/dscn0089-300x225.jpg" alt="dscn0089" width="300" height="225" /><br />
+<img class="aligncenter size-medium wp-image-270" title="dscn0089" src="{{site.url_root}}/media/2007/12/dscn0089-300x225.jpg" alt="dscn0089" width="300" height="225" /><br />
 Just hung a new mobile in the living room.  It turns out that a drill on a long stick works really well.
 
 <a id="more"></a><a id="more-48"></a>

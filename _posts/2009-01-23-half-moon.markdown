@@ -21,7 +21,7 @@ alias: /2009/01/half-moon/index.html
 ---
 This is a picture of the half moon from early in January 2009.
 
-[flickr]photo:5210497115[/flickr]
+<iframe src="https://www.flickr.com/photos/seanhoughton/5210497115/player/" width="500" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 This was taken with a Canon 10D through a Takahashi FS102 refractor at prime focus.
 

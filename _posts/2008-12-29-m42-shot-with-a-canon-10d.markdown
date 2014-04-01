@@ -23,16 +23,19 @@ It's been at least three years since I've done any astrophotograpy but last nigh
 
 This is the result of 7 stacked images ranging from seconds to 5 minutes,totalingaround 20 minutes of exposure. The core of the nebula is from a single 30 second shot.
 
-[caption id="attachment_252" align="aligncenter" width="500" caption="The Orion Nebula"]<a href="{{site.url_root}}/media/2008/12/m42-20081228-01.jpg"><img class="size-full wp-image-252" title="m42-20081228-01" src="{{site.url_root}}/media/2008/12/m42-20081228-01.jpg" alt="" width="500" height="766" /></a>[/caption]
 
-<ul>
-<li>Canon 10D camera</li>
-<li>Takahashi FS102 telescope</li>
-<li>Losmandy G11 mount</li>
-<li>STV autoguider</li>
-<li>Processed in Photoshop and Noise Ninja.</li><br />
-</ul><br />
+#### The Orion Nebula
+
+[![]({{site.url_root}}/media/2008/12/m42-20081228-01.jpg)]({{site.url_root}}/media/2008/12/m42-20081228-01.jpg)
+
+- Canon 10D camera
+- Takahashi FS102 telescope
+- Losmandy G11 mount
+- STV autoguider
+- Processed in Photoshop and Noise Ninja.
+
 Compare this with my best M42 shot on film a few years ago. This picture was taken at a dark sky site using two 45 minute exposures on Kodak Supra 400 film. The Supra has a much better red response than the 10D but otherwise they are fairly similar in quality.
 
-[caption id="attachment_250" align="aligncenter" width="300" caption="The Orion Nebula on Kodak Supra Film"]<a href="{{site.url_root}}/media/2008/12/m42_03.jpg"><img class="size-medium wp-image-250" title="m42_03" src="http://blog.mungosmash.com/wp-content/uploads/2008/12/m42_03-300x198.jpg" alt="The Orion Nebula on E200 Film" width="300" height="198" /></a>[/caption]
+#### The Orion Nebula on Kodak Supra Film
 
+[![]({{site.url_root}}/media/2008/12/m42_03-300x198.jpg)]({{site.url_root}}/media/2008/12/m42_03.jpg)

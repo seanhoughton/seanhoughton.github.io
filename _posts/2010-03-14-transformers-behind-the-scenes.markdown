@@ -16,7 +16,6 @@ categories:
 tags: []
 alias: /2010/03/transformers-behind-the-scenes/index.html
 ---
-Can't wait until next we can talk about multiplayer...<br />
-<a id="more"></a><a id="more-614"></a><br />
-httpv://www.youtube.com/watch?v=sWs_0J26kYs
+Can't wait until next we can talk about multiplayer...
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/sWs_0J26kYs" frameborder="0" allowfullscreen></iframe>
