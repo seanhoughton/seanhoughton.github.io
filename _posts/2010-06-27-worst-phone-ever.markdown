@@ -22,7 +22,7 @@ I love the iPhone as everything but a phone. I barely get any reception where I 
 
 It turns out I've dropped 250 calls in the last two years which translates to about 0.4 dropped calls every day. Most of them seem to happen when I'm at work and that lines right up with the provided map.
 
-<a href="http://worstphoneever.com/users/1173" target="_blank"><img class="aligncenter size-full wp-image-641" title="DroppedCallMap" src="{{site.url_root}}/assets/data/2010/06/DroppedCallMap.png" alt="" width="462" height="496" /></a>
+<a href="http://worstphoneever.com/users/1173" target="_blank"><img class="aligncenter size-full wp-image-641" title="DroppedCallMap" src="{{site.url_root}}/media/2010/06/DroppedCallMap.png" alt="" width="462" height="496" /></a>
 
 Here's my complete<a href="http://worstphoneever.com/users/1173" target="_blank">dropped call report</a>.
 

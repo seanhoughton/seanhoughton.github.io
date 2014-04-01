@@ -22,6 +22,6 @@ I've reduced some of the grunt work by writing a small script for [PixInsight](h
 
 <strong><span style="color: #008080;">Add pixinsight.cerebiggum.com to your PixInsight update list to download the most recent version.</span></strong>
 
-[![Image]({{site.url_root}}/assets/data/2010/11/SkyLimitedExposure-0.2.png)]({{site.url_root}}/assets/data/2010/11/SkyLimitedExposure-0.2.png)
+[![Image]({{site.url_root}}/media/2010/11/SkyLimitedExposure-0.2.png)]({{site.url_root}}/media/2010/11/SkyLimitedExposure-0.2.png)
 
-[![GitHub Project]({{site.url_root}}/assets/data/2011/02/github.png)](https://github.com/seanhoughton/CalculateSkyLimitedExposure)
+[![GitHub Project]({{site.url_root}}/media/2011/02/github.png)](https://github.com/seanhoughton/CalculateSkyLimitedExposure)

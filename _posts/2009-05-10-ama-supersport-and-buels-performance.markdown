@@ -27,12 +27,12 @@ I liked the Asphalt and Rubber article but I wanted a more visual representation
 
 I modified the original article's assumed horsepower increase over stock from 15% to 12% which makes the power to weight ratio gap values line up perfectly with the estimated power of each bike. Clearly the Buel is overpowered when compared to the other machines.
 
-<p style="text-align: center;"><a href="{{site.url_root}}/assets/data/2009/05/supersport-bikes.png"><img class="size-full wp-image-463  aligncenter" title="supersport-bikes" src="{{site.url_root}}/assets/data/2009/05/supersport-bikes.png" alt="Here you can see the estimated power output of each bike and how it lines up with what the AMA said the ratio range is." width="461" height="205" /></a>
+<p style="text-align: center;"><a href="{{site.url_root}}/media/2009/05/supersport-bikes.png"><img class="size-full wp-image-463  aligncenter" title="supersport-bikes" src="{{site.url_root}}/media/2009/05/supersport-bikes.png" alt="Here you can see the estimated power output of each bike and how it lines up with what the AMA said the ratio range is." width="461" height="205" /></a>
 
 
 I just heard that the AMA has increased the minimum weight requirement for the Buels by 12 lbs. This reduces its power to weight ratio from 0.378 HP/lb to 0.367 HP/lb. This change brings it closer to the other models but it's still overpowered.
 
 One important things to remember is that the peak horsepower of a motorcycle is not the only factor in how well it performs on the racetrack. The shape of the power curve, the handling characteristics and other factors can be just as important.
 
-<a href="{{site.url_root}}/assets/data/2009/05/superbike-worksheet.numbers">Spreadsheet (Apple Numbers format)</a>
+<a href="{{site.url_root}}/media/2009/05/superbike-worksheet.numbers">Spreadsheet (Apple Numbers format)</a>
 

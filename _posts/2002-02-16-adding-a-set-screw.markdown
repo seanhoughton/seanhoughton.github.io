@@ -23,13 +23,13 @@ This is a simple walkthrough of how to add a second set screw to eyepiece adapte
 ### Stuff you need
 Locate some acceptable thumb screws - mine ended up being 10-32 size. The "10" is the width and the "32" is the pitch of the threads. Locate a drill bit and tap (sold as a package) which are rated at the same size as your thumb screws. I also got a tap handle (a "T" shaped device for turning the tap). The total cost should be less than $15. This assumes you already have an electric drill.
 
-<a href="{{site.url_root}}/assets/data/2008/12/1108606025_stuffyouneed.jpg"><img src="{{site.url_root}}/assets/data/2008/12/1108606025_stuffyouneed-258x300.jpg" alt="" title="1108606025_stuffyouneed" width="258" height="300" class="aligncenter size-medium wp-image-231" /></a>
+<a href="{{site.url_root}}/media/2008/12/1108606025_stuffyouneed.jpg"><img src="{{site.url_root}}/media/2008/12/1108606025_stuffyouneed-258x300.jpg" alt="" title="1108606025_stuffyouneed" width="258" height="300" class="aligncenter size-medium wp-image-231" /></a>
 
 <strong>Now for the drilling</strong>
 
 I placed the second set screw at 120 degrees from the original. Using the drill bit supplied with the tap drill a pilot hole in the adapter with an electric drill (be sure to make the hole perpendicular to the surface). Put the tap in the tap handle and spray a little WD40 on the tap for good luck. Slowly but deliberately screw the tap into the hole you just drilled. After a few turns back the tap out of the hole and clean out any metal bits. Reapply some WD40 and tap a little deeper this time. Repeat this until you have tapped the entire hole. That's it! After adding the second set screw all your stuff should stay secure with no wobble.
 
-<a href="{{site.url_root}}/assets/data/2008/12/1108606108_nicelittlehole.jpg"><img src="{{site.url_root}}/assets/data/2008/12/1108606108_nicelittlehole-300x270.jpg" alt="" title="1108606108_nicelittlehole" width="300" height="270" class="aligncenter size-medium wp-image-232" /></a>
+<a href="{{site.url_root}}/media/2008/12/1108606108_nicelittlehole.jpg"><img src="{{site.url_root}}/media/2008/12/1108606108_nicelittlehole-300x270.jpg" alt="" title="1108606108_nicelittlehole" width="300" height="270" class="aligncenter size-medium wp-image-232" /></a>
 
 Tip: Clay Kessler recommends white Crisco shortening for lubricating the tap instead of WD40.
 

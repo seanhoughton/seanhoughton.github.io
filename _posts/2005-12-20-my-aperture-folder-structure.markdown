@@ -25,7 +25,7 @@ I've tried a couple Aperture folder hierarchies and this is the one that seems t
 <a id="more"></a><a id="more-33"></a><br />
 Initially I imported my entire image collection into one library with subfolders for the date.  I quickly realized that I was going to hit the 10,000 image-per-project limit.  I've now decided on a different organization that has worked really well.  The basic idea is major category folders at the top, year folders under that and all projects below that.  For example:
 
-<img class="aligncenter size-full wp-image-268" title="1135138161_aperturefolderstructure" src="{{site.url_root}}/assets/data/2009/01/1135138161_aperturefolderstructure.jpg" alt="1135138161_aperturefolderstructure" width="250" height="489" />
+<img class="aligncenter size-full wp-image-268" title="1135138161_aperturefolderstructure" src="{{site.url_root}}/media/2009/01/1135138161_aperturefolderstructure.jpg" alt="1135138161_aperturefolderstructure" width="250" height="489" />
 
 
 

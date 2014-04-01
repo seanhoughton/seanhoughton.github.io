@@ -21,7 +21,7 @@ All of the data used to build these visualizations was extracted from various we
 
 Google Chrome's developer tools are an excellent way to discover the structure of a web site so it can be traversed quickly with scripts.
 
-[![Chrome Developer Tools]({{site.url_root}}/assets/data/2011/03/ChromeDevTools.png)]({{site.url_root}}/assets/data/2011/03/ChromeDevTools.png)
+[![Chrome Developer Tools]({{site.url_root}}/media/2011/03/ChromeDevTools.png)]({{site.url_root}}/media/2011/03/ChromeDevTools.png)
 
 
 Scraping data from web pages is easy as long as you completely ignore the impulse to follow good coding practices.  Don't feel bad about going gangbusters with [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter) violations - if the layout changes you'll probably have to rewrite it anyway.

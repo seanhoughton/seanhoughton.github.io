@@ -35,15 +35,15 @@ I'm evaluating MaxIm DL and PixInsight at the same time because I only want to p
 <tr>
 <td>
 <center><br />
-[caption id="" align="aligncenter" width="105" caption="Raw"]<img title="Original" src="{{site.url_root}}/assets/data/2010/11/Original.png" alt="" width="105" height="90" />[/caption]</td><br />
+[caption id="" align="aligncenter" width="105" caption="Raw"]<img title="Original" src="{{site.url_root}}/media/2010/11/Original.png" alt="" width="105" height="90" />[/caption]</td><br />
 </center>
 
 <td>
 <center><br />
-[caption id="" align="aligncenter" width="105" caption="Dark"]<img title="ST8300-Dark-300s-Bin1--15C" src="{{site.url_root}}/assets/data/2010/11/ST8300-Dark-300s-Bin1-15C.png" alt="" width="105" height="90" />[/caption]</center></td>
+[caption id="" align="aligncenter" width="105" caption="Dark"]<img title="ST8300-Dark-300s-Bin1--15C" src="{{site.url_root}}/media/2010/11/ST8300-Dark-300s-Bin1-15C.png" alt="" width="105" height="90" />[/caption]</center></td>
 
 <td><center><br />
-[caption id="" align="alignnone" width="105" caption="Bias"]<img title="ST8300-Bias-Bin1--15C" src="{{site.url_root}}/assets/data/2010/11/ST8300-Bias-Bin1-15C.png" alt="" width="105" height="90" />[/caption]</center></td><br />
+[caption id="" align="alignnone" width="105" caption="Bias"]<img title="ST8300-Bias-Bin1--15C" src="{{site.url_root}}/media/2010/11/ST8300-Bias-Bin1-15C.png" alt="" width="105" height="90" />[/caption]</center></td><br />
 </tr><br />
 </tbody><br />
 </table>
@@ -57,20 +57,20 @@ I'm evaluating MaxIm DL and PixInsight at the same time because I only want to p
 <tr>
 <td>
 <center><br />
-[caption id="" align="alignnone" width="105" caption="MaxIm DL"]<img title="MaximCalibrated" src="{{site.url_root}}/assets/data/2010/11/MaximCalibrated.png" alt="" width="105" height="90" />[/caption]</center></td>
+[caption id="" align="alignnone" width="105" caption="MaxIm DL"]<img title="MaximCalibrated" src="{{site.url_root}}/media/2010/11/MaximCalibrated.png" alt="" width="105" height="90" />[/caption]</center></td>
 
 <td>
 <center><br />
-[caption id="attachment_664" align="alignnone" width="105" caption="PixInsight"]<a href="{{site.url_root}}/assets/data/2010/11/PixInsightCalibratedNoOpt.png"><img src="{{site.url_root}}/assets/data/2010/11/PixInsightCalibratedNoOpt.png" alt="" title="PixInsightCalibratedNoOpt" width="105" height="90" class="size-full wp-image-664" /></a>[/caption]<br />
+[caption id="attachment_664" align="alignnone" width="105" caption="PixInsight"]<a href="{{site.url_root}}/media/2010/11/PixInsightCalibratedNoOpt.png"><img src="{{site.url_root}}/media/2010/11/PixInsightCalibratedNoOpt.png" alt="" title="PixInsightCalibratedNoOpt" width="105" height="90" class="size-full wp-image-664" /></a>[/caption]<br />
 </center></td>
 
 <td>
 <center><br />
-[caption id="" align="alignnone" width="105" caption="PixInsight (optimized)"]<img title="PixInsightCalibrated" src="{{site.url_root}}/assets/data/2010/11/PixInsightCalibrated.png" alt="" width="105" height="90" />[/caption]</center></td>
+[caption id="" align="alignnone" width="105" caption="PixInsight (optimized)"]<img title="PixInsightCalibrated" src="{{site.url_root}}/media/2010/11/PixInsightCalibrated.png" alt="" width="105" height="90" />[/caption]</center></td>
 
 <td>
 <center><br />
-[caption id="" align="alignnone" width="105" caption="PixInsight (pixel math)"]<img title="PixelMath" src="{{site.url_root}}/assets/data/2010/11/PixelMath.png" alt="" width="105" height="90" />[/caption]</center></td><br />
+[caption id="" align="alignnone" width="105" caption="PixInsight (pixel math)"]<img title="PixelMath" src="{{site.url_root}}/media/2010/11/PixelMath.png" alt="" width="105" height="90" />[/caption]</center></td><br />
 </tr><br />
 </tbody><br />
 </table><br />

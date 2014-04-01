@@ -19,7 +19,7 @@ tags:
 alias: /2001/01/astrophotography-equipment/index.html
 ---
 ### Takahashi FS102 Refractor
-[caption id="attachment_240" align="alignleft" width="104" caption="Warning"]<img class="size-full wp-image-240 " title="0005_dontlookatsun" src="{{site.url_root}}/assets/data/2008/12/0005_dontlookatsun.jpg" alt="0005_dontlookatsun" width="104" height="132" />[/caption]
+[caption id="attachment_240" align="alignleft" width="104" caption="Warning"]<img class="size-full wp-image-240 " title="0005_dontlookatsun" src="{{site.url_root}}/media/2008/12/0005_dontlookatsun.jpg" alt="0005_dontlookatsun" width="104" height="132" />[/caption]
 
 This Apochromatic telescope provides very sharp images with no color fringed stars. When reduced to F/5.9 you get about 3 degrees of coverage in the sky. I prefer to take pictures of large, wide field objects and this is just about the right focal length for those objects. I also use the extremely well made Takahashi camera angle adjuster to make framing easy.
 
@@ -31,7 +31,7 @@ The earth rotates and you need some way of counter-rotating so the stars don't m
 
 ### Losmandy G11 Mount
 
-<p style="text-align: center;"><a href="{{site.url_root}}/assets/data/2008/12/0007_sideviewfull.jpg"><img class="aligncenter size-medium wp-image-242" title="0007_sideviewfull" src="http://blog.mungosmash.com/wp-content/uploads/2001/01/0007_sideviewfull-225x300.jpg" alt="0007_sideviewfull" width="225" height="300" /></a>
+<p style="text-align: center;"><a href="{{site.url_root}}/media/2008/12/0007_sideviewfull.jpg"><img class="aligncenter size-medium wp-image-242" title="0007_sideviewfull" src="http://blog.mungosmash.com/wp-content/uploads/2001/01/0007_sideviewfull-225x300.jpg" alt="0007_sideviewfull" width="225" height="300" /></a>
 
 
 The Losmandy G11 is a well made german equatorial mount. I've made some modifications to it to help with tracking (and because it was fun to do!) but stock it does a very good job. Losmandy makes a lot of adapters so it's easy to connect any tube or tubes.

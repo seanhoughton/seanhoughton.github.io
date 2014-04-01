@@ -36,7 +36,7 @@ All the close up images come from a tiny portion of three of these four images, 
 
 
 
-[caption id="attachment_354" align="alignleft" width="150" caption="400 ISO"]<a href="{{site.url_root}}/assets/data/2009/01/160sec-400iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-400iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-400iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td>
+[caption id="attachment_354" align="alignleft" width="150" caption="400 ISO"]<a href="{{site.url_root}}/media/2009/01/160sec-400iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-400iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-400iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td>
 
 <td>
 
@@ -46,7 +46,7 @@ All the close up images come from a tiny portion of three of these four images, 
 
 
 
-[caption id="attachment_354" align="alignleft" width="150" caption="800 ISO"]<a href="{{site.url_root}}/assets/data/2009/01/160sec-800iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-800iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-800iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td><br />
+[caption id="attachment_354" align="alignleft" width="150" caption="800 ISO"]<a href="{{site.url_root}}/media/2009/01/160sec-800iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-800iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-800iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td><br />
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ All the close up images come from a tiny portion of three of these four images, 
 
 
 
-[caption id="attachment_354" align="alignleft" width="150" caption="1600 ISO"]<a href="{{site.url_root}}/assets/data/2009/01/160sec-1600iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-1600iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-1600iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td>
+[caption id="attachment_354" align="alignleft" width="150" caption="1600 ISO"]<a href="{{site.url_root}}/media/2009/01/160sec-1600iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-1600iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-1600iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td>
 
 <td>
 
@@ -68,14 +68,14 @@ All the close up images come from a tiny portion of three of these four images, 
 
 
 
-[caption id="attachment_354" align="alignleft" width="150" caption="6400 ISO"]<a href="{{site.url_root}}/assets/data/2009/01/160sec-6400iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-6400iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-6400iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td><br />
+[caption id="attachment_354" align="alignleft" width="150" caption="6400 ISO"]<a href="{{site.url_root}}/media/2009/01/160sec-6400iso.jpg"><img class="size-thumbnail wp-image-354" title="160sec-6400iso" src="http://blog.mungosmash.com/wp-content/uploads/2009/01/160sec-6400iso-150x150.jpg" alt="160sec-400iso" width="150" height="150" /></a>[/caption]</td><br />
 </tr><br />
 </tbody></table>
 
 ### Noise Results
 The difference in noise between the 400 ISO image and the 1600 ISO image is barely noticable.
 
-<p style="text-align: center;"><img class="size-full wp-image-359 aligncenter" title="iso-zoom-comparison" src="{{site.url_root}}/assets/data/2009/01/iso-zoom-comparison.jpg" alt="iso-zoom-comparison" width="282" height="846" />
+<p style="text-align: center;"><img class="size-full wp-image-359 aligncenter" title="iso-zoom-comparison" src="{{site.url_root}}/media/2009/01/iso-zoom-comparison.jpg" alt="iso-zoom-comparison" width="282" height="846" />
 
 
 ### 'Black Dot' Artifacts
@@ -83,7 +83,7 @@ The difference in noise between the 400 ISO image and the 1600 ISO image is bare
 <p style="text-align: left;">I created a difference image to compare the saturated stars at 400 ISO and at 1600 ISO and I don't see any evidence of black dots or white, median filtered dots. It could be that this only happens at very high ISO levels. This is a releif because I don't plan on imaging above 1600 ISO with this camera.
 
 
-<p style="text-align: center;"><img class="size-full wp-image-358 aligncenter" title="iso-diff" src="{{site.url_root}}/assets/data/2009/01/iso-diff.jpg" alt="iso-diff" width="303" height="303" />
+<p style="text-align: center;"><img class="size-full wp-image-358 aligncenter" title="iso-diff" src="{{site.url_root}}/media/2009/01/iso-diff.jpg" alt="iso-diff" width="303" height="303" />
 
 
 ### Process
