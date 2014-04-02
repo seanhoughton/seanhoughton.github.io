@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head_tags.html %}
+    </head>
+  <body>
+    <div id="container">
+      <div class="inner">
+        
+        {% include header_div.html %}
+
+        <hr>
+
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        {% include footer.html %}
+
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
