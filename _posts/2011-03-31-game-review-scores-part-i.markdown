@@ -89,5 +89,5 @@ Finally, how are publishers doing with the pools of games they release each year
 <div style="width:604px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;">
 <div style="float:right; padding-right:8px;"><a href="http://www.tableausoftware.com/public?ref=http://public.tableausoftware.com/views/ReviewScores/PublisherRatingsOverTime" target="_blank">Powered by Tableau</a></div></div>
 
-In <a href="http://www.cerebiggum.com/?p=704">Part II</a> we'll examine how review scores relate to game sales.
+In [Part II]({% post_url 2011-03-31-game-review-scores-part-ii %}) we'll examine how review scores relate to game sales.
 

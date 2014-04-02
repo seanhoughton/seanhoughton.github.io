@@ -1,16 +1,28 @@
 ---
-title: cerebiggum.com
+title: cerebiggum
 layout: default
 ---
 
 <div class="related">
-  <ul>
-    {% for post in site.posts %}
-      {% unless post.tags contains "noindex" or post.tags contains "posterous" or post.tags contains "homoiconic" %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%Y-%m-%d" }}</span>)
-        </li>
-      {% endunless %}
+    <ul>
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%Y-%m-%d" }}</span>)</li>
     {% endfor %}
-  </ul>
+    </ul>
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/list/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/list/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
 </div>
