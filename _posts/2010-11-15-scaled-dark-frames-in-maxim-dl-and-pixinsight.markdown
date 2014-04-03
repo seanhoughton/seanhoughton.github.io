@@ -44,8 +44,26 @@ Resulting in completely different results...
 *Note: all images have been cropped and stretched for web display*
 
 
-- Running the hot pixel at `[29,59]` through the equation we end up with `0.2360-(2*(0.2642-0.0179)+0.0179) =  -0.0282` which is probably clamped to `0`.  This explains the black pixel in the PixelMath image.</li>
-- PixInsight's optimized calibration module is doing almost nothing to the image.  However, the value changes by about 0.53% (from `K=23.6%` to `K=23.07%`)</li>
-- MaxIm DL does an excellent job of scaling the dark frame.
-- PixInsight's non-optimized calibration does not seem to add a pedestal which results in lots of clipping at the low end
+#### Note
 
+Running the hot pixel at `[29,59]` through the equation we end up with
+
+<div>
+\begin{equation}
+    0.2360-(2*(0.2642-0.0179)+0.0179) = -0.0282
+\end{equation}
+</div>
+
+This value is probably clamped to `0` which explains the black pixel in the PixelMath image.
+
+#### Note
+
+PixInsight's optimized calibration module is doing almost nothing to the image.  However, the value changes by about 0.53% (from `K=23.6%` to `K=23.07%`)
+
+#### Note
+
+MaxIm DL does an excellent job of scaling the dark frame.
+
+#### Note
+
+PixInsight's non-optimized calibration does not seem to add a pedestal which results in lots of clipping at the low end
