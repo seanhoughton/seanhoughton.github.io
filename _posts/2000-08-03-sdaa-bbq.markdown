@@ -24,9 +24,9 @@ I don't have my own observatory so I use the <a href="http://www.sdaa.org">San D
 <a id="more"></a><a id="more-7"></a><br />
 These are some pictures taken durring the SDAA yearly barbeque.
 
-<mtgib:thumb id=19/>
+![]({{site.url_root}}/media/astrophotography/misc/0001_tierraDelSol.jpg)
 
-<mtgib:thumb id=22/>
+![]({{site.url_root}}/media/astrophotography/misc/0002_sdaaBBQ_01.jpg)
 
-<mtgib:thumb id=25/>
+![]({{site.url_root}}/media/astrophotography/misc/0003_sdaaBBQ_02.jpg)
 
