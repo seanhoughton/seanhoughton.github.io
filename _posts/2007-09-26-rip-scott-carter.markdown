@@ -15,5 +15,8 @@ categories:
 tags: []
 alias: /2007/09/rip-scott-carter/index.html
 ---
-<mtgib:thumb-left id=561/>A good friend of mine, Scott Carter passed away this month.  He loved two things in life: chocolate cake and motor-sports.  I'll always remember his giddiness after running into <a href=http://en.wikipedia.org/wiki/Shigeru_Miyamoto>Shigeru Miyamoto</a>In-N-Out.
+
+![]({{site.url_root}}/media/motorcycles/IMG_0477.jpg)
+
+A good friend of mine, Scott Carter passed away this month.  He loved two things in life: chocolate cake and motor-sports.  I'll always remember his giddiness after running into [Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto) In-N-Out.
 
