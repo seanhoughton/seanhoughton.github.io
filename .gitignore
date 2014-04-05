@@ -1,2 +1,4 @@
 _site/
 *.sublime-workspace
+bower_components
+node_modules

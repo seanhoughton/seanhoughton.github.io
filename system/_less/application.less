@@ -1,0 +1,166 @@
+@import "bootstrap.less";
+@import "overrides.less";
+
+@code-color: #999;
+
+
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* LAYOUT STYLES */
+body {
+  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  color: #6d6d6d;
+}
+
+a {
+  color: #3081D8;
+}
+a:hover {
+  color: #50A1F8;
+}
+
+header {
+  padding-top: 35px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+header h1 {
+/*
+  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
+*/
+  letter-spacing: -1px;
+}
+
+header h2 {
+  letter-spacing: -1px;
+  font-size: 24px;
+  color: #aaa;
+  font-weight: normal;
+  line-height: 1.3;
+}
+
+.container {
+  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  min-height: 595px;
+}
+
+.inner {
+  width: 620px;
+  margin: 0 auto;
+}
+
+.container .inner img {
+  max-width: 100%;
+}
+
+code, pre {
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+
+code {
+  background-color: #F2F2F2;
+  color: @code-color;
+  padding: 0 3px;
+}
+
+pre {
+  padding: 10px;
+  text-shadow: none;
+  overflow: auto;
+}
+
+pre code {
+  color: @code-color;
+  border: none;
+  padding: 0;
+  white-space: pre;
+  overflow-wrap: break-word;
+  word-break: normal;
+  word-spacing: 0px;
+  word-wrap: normal;
+}
+
+.highlight {
+  background: #002b36;
+  border-radius: @border-radius-base;
+}
+
+.highlight pre {
+  background: #002b36;
+  white-space: nowrap;
+}
+
+/* COMMON STYLES */
+
+hr {
+  height: 1px;
+  line-height: 1px;
+  margin-top: 1em;
+  padding-bottom: 1em;
+  border: none;
+  background: transparent url('../images/hr.png') 50% 0 no-repeat;
+}
+
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+
+h3 {
+  color: #72B4C5;
+} 
+ 
+ 
+a {
+  text-decoration: none;
+}
+
+p {
+  font-weight: 300;
+}
+
+p a {
+  font-weight: 400;
+}
+
+table {
+  width: 100%;
+}
+
+blockquote {
+  font-size: 1.2em;
+  border-left: 10px solid #e9e9e9;
+  margin-bottom: 20px;
+  padding: 0 0 0 30px;
+}
+
+
+footer {
+  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 13px;
+  color: #aaa;
+}
+
+footer a {
+  color: #666;
+}
+footer a:hover {
+  color: #444;
+}

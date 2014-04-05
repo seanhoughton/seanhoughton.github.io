@@ -4,23 +4,35 @@
         {% include head_tags.html %}
     </head>
   <body>
-    <div id="container">
+    <div id="container" class="container">
+
       <div class="inner">
-        
-        {% include header_div.html %}
 
-        <hr>
+          <div class="row">
+          {% include header_div.html %}
+          </div>
+          <hr/>
 
-        <section id="main_content">
-          {{ content }}
-        </section>
+          <div class="row">
+            <div id="main_content" class="colxx-lg-4">
+            {{ content }}
+            </div>
+          </div>
 
-        {% include comments.html %}
+          {% if page.no_comments %}
+          {% else %}
+          <div class="row">
+          {% include comments.html %}
+          </div>
+          {% endif %}
 
-        {% include footer.html %}
+          <div class="row">
+          {% include footer.html %}
+          </div>
+
+        </div>
 
       </div>
-    </div>
 
     {% include analytics.html %}
   </body>

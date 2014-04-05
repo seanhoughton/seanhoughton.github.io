@@ -1,0 +1,20 @@
+{
+  "name": "seanhoughton.github.io",
+  "version": "0.0.0",
+  "homepage": "www.cerebiggum.com",
+  "authors": [
+    "sean"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

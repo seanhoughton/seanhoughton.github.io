@@ -7,3 +7,4 @@ redcarpet:
 permalink: /:year/:month/:title
 paginate: 15
 paginate_path: "list/page:num"
+exclude: ['bower_components', 'node_modules']
