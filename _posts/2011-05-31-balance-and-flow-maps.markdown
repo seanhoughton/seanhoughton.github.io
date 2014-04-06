@@ -70,7 +70,7 @@ These visualizations are a good starting point for understanding the way people 
 
 Like any technique there are some limitations to be aware of.  First and foremost, balance heatmaps require a lot of data and are therefore not very practical as a development tool.  Reducing the size of each bin will reduce the noise level, but each bin requires at least a few hundred samples to be useful.  These images were made with millions of rows (a volume of data that internal play-testing is unlikely to produce) and they still exhibit some noise in the outer areas of the map.
 
-Another limitation is the projection of 3D data into a 2D plane. For example, the center of this map contains a bridge and the flattening distorts the values.  Jim Blackhurst recently [http://jimblackhurst.com/wp/?p=213] posted an article about his experiences rendering this type of data as 3D point clouds.
+Another limitation is the projection of 3D data into a 2D plane. For example, the center of this map contains a bridge and the flattening distorts the values.  Jim Blackhurst [recently posted](http://jimblackhurst.com/wp/?p=213) an article about his experiences rendering this type of data as 3D point clouds.
 
 Finally, these techniques require that you have location information for both the killer and the victim for each kill.  This will increase the size of the telemetry payload. Kill tables can grow very large and if bandwidth or disk space is a problem this may be too much additional information.
 
