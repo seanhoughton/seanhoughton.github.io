@@ -20,6 +20,7 @@ module.exports = function(grunt) {
                 files: [
                     '*.html',
                     '*.yml',
+                    'sitemap.xml',
                     'system/_less/*.less',
                     'system/js/**.js',
                     'system/images/**',
