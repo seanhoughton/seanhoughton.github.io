@@ -20,5 +20,5 @@ tags:
 - ST8300
 alias: /2010/11/sky-limited-exposure-script-for-pixinsight/index.html
 ---
-This script now has its own page, <a href="http://www.cerebiggum.com/software/sky-limited-exposure/">http://www.cerebiggum.com/software/sky-limited-exposure/</a>
+This script now has its own page, [Sky Limited Exposure]({% post_url 2011-02-22-sky-limited-exposure %})
 
