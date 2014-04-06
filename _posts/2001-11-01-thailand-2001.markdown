@@ -6,13 +6,6 @@ title: Thailand 2001
 author: Sean
 author_login: Sean
 author_email: sean.houghton@gmail.com
-excerpt: |+
-  I <b>finally</b> got around to scanning in all the photographs from the trip to Thailand in 2001.
-
-  Here's one of my favorites:
-
-  <mtgib:image id=35/>
-
 wordpress_id: 11
 wordpress_url: http://blog.mungosmash.com/?p=11
 date: '2001-11-01 18:50:13 -0800'
@@ -22,12 +15,11 @@ categories:
 tags: []
 alias: /2001/11/thailand-2001/index.html
 ---
-I <b>finally</b> got around to scanning in all the photographs from the trip to Thailand in 2001.
+I **finally** got around to scanning in all the photographs from the trip to Thailand in 2001.
 
 Here's one of my favorites:
 
-<mtgib:image id=35/>
+![]({{site.url_root}}/media/vacation/random/1107938059_AnneSilhouette.jpg)
 
-<a id="more"></a><a id="more-11"></a><br />
 I took a trip to Thailand a few years ago.  It took me a long time to finally scan the slides, but here are some of my favorite pictures.
 
