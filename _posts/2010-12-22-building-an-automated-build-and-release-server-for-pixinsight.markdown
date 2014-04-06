@@ -41,31 +41,25 @@ Jenkins is now running and you can configure a new job using a web browser.  The
 
 We'll be using the FTP Upload plugin in our job so we should install and set it up first.  You can install this from within Jenkins's plugin manager, <em>Manage Jenkins -> Manage Plugins -> Available</em>.  You may need to install a plugin for your revision control provider here too.  Once it's installed you'll need to restart Jenkins.
 
-![]({{site.url_root}}/media/2010/12/FtpPlugin.png)
-*Fig. 1  Installing the FTP Uploader plugin*
+{% include image.html url="/media/2010/12/FtpPlugin.png" description="Fig. 1  Installing the FTP Uploader plugin" %}
 
 The plugin lets you build a predefined list of servers that each job can use.  We'll set up a connection on the global configuration page, <em>Manage Jenkins -> Configure System</em>.
 
-![]({{site.url_root}}/media/2010/12/FtpSetup.png)
-*Fig. 2  Setting up an FTP connection*
+{% include image.html url="/media/2010/12/FtpSetup.png" description="Fig. 2  Setting up an FTP connection" %}
 
 ### Creating a Build Job
 
 Now we're ready to create our job.  Select "New Job" from the menu.
 
-![]({{site.url_root}}/media/2010/12/NewJob.png)
-*Fig. 3 Creating a new job in Jenkins*
+{% include image.html url="/media/2010/12/NewJob.png" description="Fig. 3 Creating a new job in Jenkins" %}
 
 The job will pull code from our revision control repository.
 
-![]({{site.url_root}}/media/2010/12/GitHub.png)
-*Fig. 4  Configuring a GitHub repository for our job*
+{% include image.html url="/media/2010/12/GitHub.png" description="Fig. 4  Configuring a GitHub repository for our job" %}
 
 The job should run every time a change is submitted.
 
-![]({{site.url_root}}/media/2010/12/ScmPolling1.png)
-*Fig. 5  Polling the SCM repository*
-
+{% include image.html url="/media/2010/12/ScmPolling1.png" description="Fig. 5  Polling the SCM repository" %}
 
 At this point the job is configured to trigger whenever a code change happens but it doesn't actually do anything with the downloaded code. We need to add some build actions to bundle up the content into a format that is ready to put on the web server and that PixInsight will understand.  In this example we are running Jenkins in OSX so we're using the "Execute Shell" action, Windows users will need to use "Execute Windows Batch Command" instead.
 
@@ -102,15 +96,13 @@ cat updates.xri.template | sed "s/TEMPLATE_FILENAME/MyScript-$BUILD_NUMBER.tar.g
 
 Finally, the job will upload the update to the web server with the FTP Uploader plugin.
 
-![]({{site.url_root}}/media/2010/12/FtpUpload.png)
-*Fig 6.  Upload the package to the web server*
+{% include image.html url="/media/2010/12/FtpUpload.png" description="Fig 6.  Upload the package to the web server" %}
 
 ### Done
 
 Now every time you push your changes to GitHub the build server will automatically generate an update package and make it available to everyone.
 
-![]({{site.url_root}}/media/2010/12/UpdateAvailable.png)
-*Fig. 6  An update is available*
+{% include image.html url="/media/2010/12/UpdateAvailable.png" description="Fig. 7  An update is available" %}
 
 ### Troubleshooting
 

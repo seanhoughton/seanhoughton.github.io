@@ -5830,6 +5830,11 @@ header h2 {
   margin-top: 30px;
   margin-bottom: 50px;
 }
+.image-table caption {
+  font-style: italic;
+  font-weight: 150;
+  margin-top: 10px;
+}
 code,
 pre {
   margin-bottom: 30px;
