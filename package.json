@@ -11,5 +11,9 @@
   },
   "engines": {
     "npm": "1.2.x"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-shell": "~0.6.4"
   }
 }
