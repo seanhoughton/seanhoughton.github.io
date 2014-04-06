@@ -15,7 +15,9 @@
     {% if page.tags contains 'hide-code' %}<script src="{{site.url_root}}/system/js/hide-code.js"></script>{% endif %}
     {% if page.tags contains 'hide-specs' %}<script src="{{site.url_root}}/system/js/hide-specs.js"></script>{% endif %}
 
+    {% unless site.production %}
     <script src="http://localhost:35729/livereload.js"></script>
+    {% endunless %}
     
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="{{site.url_root}}/system/css/ie.css">
