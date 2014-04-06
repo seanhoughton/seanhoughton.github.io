@@ -24,7 +24,7 @@ Heatmaps are an excellent tool for visualizing data with a two dimensional spati
 
 This article uses data from the Molten map in Transformers: War for Cybertron.  I've annotated some interesting features in the following image, but playing the map is probably the best way to get a feel for the layout.
 
-![Map diagram]({{site.url_root}}/media/2011/05/Molten-Diagram.png)
+{% include image.html url="/media/2011/05/Molten-Diagram.png" description="The Molten Map" %}
 
 ### Death Heatmaps
 
@@ -78,13 +78,13 @@ Finally, these techniques require that you have location information for both th
 
 The article uses data from Transformers: War for Cybertron. The dataset is composed of 30 million rows collected from public Team Deathmatch games in the Molten map. All the data is stored in an [InfoBright/MySQL database](http://www.infobright.com). The heatmaps were generated in [Tableau](http://www.tableausoftware.com). The flow visualization was done in [Processing](http://processing.org).
 
-Most of the SQL queries use the following structure.  The <code>ROUND</code> and <code>GROUP BY</code> statements are very useful tools for building this type of visualization.  For example:
+Most of the SQL queries use the following structure.  The ```ROUND``` and ```GROUP BY``` statements are very useful tools for building this type of visualization.  For example:
 
-{% highlight sql %}
+```sql
 SELECT x,y,SUM(kills) AS counter FROM
     (SELECT ROUND(x/100)*100 AS x,ROUND(y/100)*100 AS y,1 AS kills FROM kill_table)
 GROUP BY x,y
-{% endhighlight %}
+```
 
 Anyone who wants to play this map can download the free multiplayer demo in the [Xbox LIVE marketplace](http://marketplace.xbox.com/en-US/Product/Transformers-War-for-Cybertron-Multiplayer-Demo/00000000-0000-400d-80df-000141568885). Maybe this post will help your score!
 
