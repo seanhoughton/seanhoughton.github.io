@@ -1,39 +1,31 @@
 <!DOCTYPE html>
-<html>
-    <head>
+    <html>
+        <head>
         {% include head_tags.html %}
-    </head>
-  <body>
-    <div id="container" class="container">
-
-      <div class="inner">
-
-          <div class="row">
-          {% include header_div.html %}
-          </div>
-          <hr/>
-
-          <div class="row">
-            <div id="main_content" class="colxx-lg-4">
-            {{ content }}
+        </head>
+        <body>
+            <div id="container" class="container">
+                <div class="inner col-md-8 col-md-offset-2">
+                    <div class="row">
+                    {% include header_div.html %}
+                    </div>
+                    <hr/>
+                    <div class="row">
+                        <div id="main_content" class="colxx-lg-4">
+                        {{ content }}
+                    </div>
+                </div>
+                {% if page.no_comments %}
+                {% else %}
+                <div class="row">
+                {% include comments.html %}
+                </div>
+                {% endif %}
+                <div class="row">
+                {% include footer.html %}
+                </div>
             </div>
-          </div>
-
-          {% if page.no_comments %}
-          {% else %}
-          <div class="row">
-          {% include comments.html %}
-          </div>
-          {% endif %}
-
-          <div class="row">
-          {% include footer.html %}
-          </div>
-
         </div>
-
-      </div>
-
-    {% include analytics.html %}
-  </body>
+        {% include analytics.html %}
+    </body>
 </html>

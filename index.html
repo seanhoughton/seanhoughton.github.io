@@ -5,25 +5,29 @@ no_comments: true
 ---
 
 <div class="related">
-    <ul>
+    <center>
+    <ul class='list-unstyled'>
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%Y-%m-%d" }}</span>)</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
+    </center>
 </div>
 
 <!-- Pagination links -->
-<div class="pagination">
+<div>
+<ul class="pager">
   {% if paginator.previous_page %}
-    <a href="/list/page{{ paginator.previous_page }}" class="previous">Previous</a>
+    <li><a href="/list/page{{ paginator.previous_page }}" class="previous">Previous</a></li>
   {% else %}
-    <span class="previous">Previous</span>
+    <li class="disabled"><a href="#" class="previous">Previous</a></li>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <li>{{ paginator.page }} of {{ paginator.total_pages }}</li>
   {% if paginator.next_page %}
-    <a href="/list/page{{ paginator.next_page }}" class="next">Next</a>
+    <li><a href="/list/page{{ paginator.next_page }}" class="next">Next</a></li>
   {% else %}
-    <span class="next ">Next</span>
+    <li class="disabled"><a href="#" class="next ">Next</a></li>
   {% endif %}
+</ul>
 </div>
