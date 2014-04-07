@@ -23,13 +23,16 @@ alias: /2009/01/5d-mark-ii-astrophotography-tests/index.html
 There have been a lot of reports of the 5D's trouble with bright point lights. I recently updated to the new firmware (version 1.0.7) and took some test shots with the 5D Mark II and a Takahashi FS102 refractor. I also wanted to test out the sensitivity at various ISO values. All these pictures were taken from my driveway on a day with fairly bad seeing and transparency. I got out a ladder and threw a blanket over one of the street lights but it didn't help much with the sky glow.
 
 ### Raw Images
+
 All the close up images come from a tiny portion of three of these four images, each 160 second exposures. The 6400 ISO image was so blown out I couldn't use any of it.
 
-| [![]({{site.url_root}}/media/2009/01/160sec-400iso-150x150.jpg)]({{site.url_root}}/2009/01/160sec-400iso.jpg) | [![]({{site.url_root}}/media/2009/01/160sec-800iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-800iso.jpg) |
-| [![]({{site.url_root}}/media/2009/01/160sec-1600iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-1600iso.jpg) | [![]({{site.url_root}}/media/2009/01/160sec-6400iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-6400iso.jpg) |
+| 400 | 800 | 1600 | 6400 |
+| --- | --- | --- | --- |
+| [![]({{site.url_root}}/media/2009/01/160sec-400iso-150x150.jpg)]({{site.url_root}}/2009/01/160sec-400iso.jpg) | [![]({{site.url_root}}/media/2009/01/160sec-800iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-800iso.jpg) | [![]({{site.url_root}}/media/2009/01/160sec-1600iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-1600iso.jpg) | [![]({{site.url_root}}/media/2009/01/160sec-6400iso-150x150.jpg)]({{site.url_root}}/media/2009/01/160sec-6400iso.jpg) |
 
 
 ### Noise Results
+
 The difference in noise between the 400 ISO image and the 1600 ISO image is barely noticable.
 
 ![]({{site.url_root}}/media/2009/01/iso-zoom-comparison.jpg)
