@@ -18,9 +18,9 @@ no_comments: true
 <div>
 <ul class="pager">
   {% if paginator.previous_page %}
-    <li><a href="/list/page{{ paginator.previous_page }}" class="previous">Previous</a></li>
+    <li><a href="/list/page{{ paginator.previous_page }}" class="previous">Prev</a></li>
   {% else %}
-    <li class="disabled"><a href="#" class="previous">Previous</a></li>
+    <li class="disabled"><a href="#" class="previous">Prev</a></li>
   {% endif %}
     <li>{{ paginator.page }} of {{ paginator.total_pages }}</li>
   {% if paginator.next_page %}
@@ -29,4 +29,20 @@ no_comments: true
     <li class="disabled"><a href="#" class="next ">Next</a></li>
   {% endif %}
 </ul>
+</div>
+
+<script>
+  (function() {
+    var cx = '016434440778316955942:fjkbx-cvhss';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div class="col-md-6 col-md-offset-3">
+<gcse:search></gcse:search>
 </div>
