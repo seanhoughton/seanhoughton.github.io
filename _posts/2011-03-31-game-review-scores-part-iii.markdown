@@ -26,7 +26,7 @@ Google Chrome's developer tools are an excellent way to discover the structure o
 
 Scraping data from web pages is easy as long as you completely ignore the impulse to follow good coding practices.  Don't feel bad about going gangbusters with [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter) violations - if the layout changes you'll probably have to rewrite it anyway.
 
-{% highlight python %}
+```python
 f = urllib.urlopen("www.seansdatagoldmine.com");
 s = f.read()
 f.close()
@@ -34,7 +34,7 @@ soup = BeautifulSoup(s)
 chartDiv = soup.find("div", { "id" : "chart_body" } )
 chartTable = chartDiv.findAll(name="table",recursive=False)
 scoreValue = chartTable[3].findAll("span")[0].findAll("b")[0].text
-{% endhighlight %}
+```
 
 Sometimes a simple text editor with regular expression features make things easy.  Visual Studio's search/replace is great for cleaning up data.
 
