@@ -5814,6 +5814,7 @@ header h2 {
 .container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
+  box-shadow: 10px 0px 30px #888888, -10px 0px 30px #888888;
 }
 .container p img {
   max-width: 100%;
@@ -5822,6 +5823,9 @@ header h2 {
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 50px;
+}
+.container table {
+  width: 100%;
 }
 .image-table {
   max-width: 100%;
@@ -5894,9 +5898,6 @@ p {
 }
 p a {
   font-weight: 400;
-}
-.container table {
-  width: 100%;
 }
 blockquote {
   font-size: 1.2em;
