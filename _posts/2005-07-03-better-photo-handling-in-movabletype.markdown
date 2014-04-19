@@ -45,7 +45,7 @@ Create the new plugin script in the plugin folder of your MT install.  Mine is a
 
 First, you'll need to register your formatter with MT using the MT interface.
 
-{% highlight perl %}
+```perl
 use MT;
 MT->add_text_filter(
 'my_text_format' => {
@@ -53,22 +53,22 @@ label => 'MyTextFormat',
 on_format => &applyFormat
 }
 );
-{% endhighlight %}
+```
 
 Next, you need to implement the 'applyFormat' method to do the work.  Regular expressions are the best way to substitute text in Perl so we'll use them.  I use the 'e' option at the end of the regexp so Perl will evaluate the substitution and call the <i>getPhotoHTML</i> method for each occurrance.  I'll leave it up to you to implement the <i>getPhotoHTML</i> method.
 
-{% highlight perl %}
+```perl
 sub applyFormat
 {
 my $text = shift;
 $text =~ s/[(w+)=(w+)]/getPhotoHTML($1, $2)/ge;
 return $text;
 }
-{% endhighlight %}
+```
 
 My site does a mySQL lookup with 'name' and returns an img tag (it also wraps the image with an anchor that links to the photograph detail page).  You could also just prepend a path and append an extension and be done with it.  If you've got an account on one of those internet photo storage sites there may be an easy way to link by name.
 
-{% highlight perl %}
+```perl
 sub getPhotoHTML
 {
 my $imageType = shift;
@@ -80,7 +80,7 @@ my $imageName = shift;
 
 return $html;
 }
-{% endhighlight %}
+```
 
 Now, whenever you create your entries you can use the [image=name] syntax and place images the easy way.
 
@@ -88,7 +88,7 @@ Now, whenever you create your entries you can use the [image=name] syntax and pl
 
 Ok, so there's one thing missing from this filter - line breaks.  The stock filter will add 'br' tags to whatever you write to keep the paragraphs looking right.  You'll probably want to add another substitution to make this work with your filter.  Mine replaces carriage returns with breaks and looks like:
 
-{% highlight perl %}
+```perl
 $text =~ s/[nr]/<br/>/g;
-{% endhighlight %}
+```
 

@@ -66,7 +66,7 @@ The asset type breakdown is especially useful in the optimization phase. If 90% 
 
 Asset types don't always directly map to teams and we need some way of differentiating an environment mesh from a character mesh. There are many ways to do this including naming conventions and metadata tagging. High Moon Studios uses a simple naming convention approach. Assets are always grouped into packages and the name of the package indicates its purpose. For example, packages starting with `PROP` or `ENV` are considered environment assets while assets in packages named `CHR` are character assets. We can use SQL expressions or Tableau'scalculated fieldsto do this for us.
 
-{% highlight sql %}
+```sql
 IF FIND([PackageName], "PROP")!=0 THEN "Environment"
 ELSEIF FIND([PackageName], "ENV")!=0 THEN "Environment"
 ELSEIF FIND([PackageName], "CHR")!=0 THEN "Characters"
@@ -75,7 +75,7 @@ ELSEIF FIND([PackageName], "UI")!= THEN "UI"
 ...
 ELSE "Other"
 END
-{% endhighlight %}
+```
 
 This is a much more natural way to slice the data than the Asset Type view we just saw. Non-technical people can look at the reports and quikly know which team to talk to if a map starts approaching the budget.
 

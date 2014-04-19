@@ -33,9 +33,9 @@ Jenkins is a continuous integration server. A continuous integration server can 
 
 After downloading Jenkins you need to start it on the command line:
 
-{% highlight bash %}
+```bash
 java -jar jenkins.war
-{% endhighlight %}
+```
 
 Jenkins is now running and you can configure a new job using a web browser.  The default Jenkins instance can be accessed at <a href="http://localhost:8080" target="_blank">http://localhost:8080</a>
 
@@ -65,34 +65,34 @@ At this point the job is configured to trigger whenever a code change happens bu
 
 First we need to build a compressed file containing the script. Our plugin was developed without any subdirectories. However, PixInsight will unpack all packages into the application's root folder. This means we need to embed the "src/scripts/" path as part of the deployment.  We also want to include a build number as part of the filename so each build is unique.  Windows users should substitute appropriate DOS commands. We'll take advantage of the automatic BUILD_NUMBER variable that Jenkins sets as part of the environment for each build.
 
-{% highlight cpp %}
+```bash
 rm -rf *.tar.gz
 mkdir src
 mkdir src/scripts
 cp MyScript.js ./src/scripts
 tar -cvzf MyScript-$BUILD_NUMBER.tar.gz src
 rm -rf src
-{% endhighlight %}
+```
 
 PixInsight uses a file called "updates.xri" to describe the available updates.  This example assumes that there is only one package to update so we'll build the file using a simple template file and substitutions with sed.
 
 We need to create an XML file called "updates.xri.template" and add it to revision control.  This will be the template for the updates.xri file we upload to the server.
 
-{% highlight xml %}
+```xml
 <!--?xml version="1.0" encoding="UTF-8"?-->
 Updates for the MyScript script for PixInsight
 This update installs an update to the MyScript script.
 http://www.cerebiggum.com
 Copyright (c) 2010 Sean Houghton. All Rights Reserved.
-{% endhighlight %}
+```
 
 Now, back to the build server.  We can use sed to replace the TEMPLATE values in the XML file with live values using a new Jenkins action.  We'll grab the date with the 'date' command and combine openssl's sha1 feature with sed to produce a signature for the compressed package file.
 
-{% highlight bash %}
+```bash
 RELEASE_DATE=`date +"%Y%m%d"`<br />
 SHA1=`openssl dgst -sha1 MyScript-$BUILD_NUMBER.tar.gz | sed -e "s/^SHA1.*=//" | sed -e "s/[ ]\(.*\)/\1/"`<br />
 cat updates.xri.template | sed "s/TEMPLATE_FILENAME/MyScript-$BUILD_NUMBER.tar.gz/" | sed "s/TEMPLATE_RELEASE_DATE/$RELEASE_DATE/" | sed "s/TEMPLATE_SHA1/$SHA1/" > updates.xri<br />
-{% endhighlight %}
+```
 
 Finally, the job will upload the update to the web server with the FTP Uploader plugin.
 
