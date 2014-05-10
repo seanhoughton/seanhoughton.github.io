@@ -5,12 +5,8 @@
         </head>
         <body>
             <div id="container" class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                    {% include header_div.html %}
-                    <hr/>
-                    </div>
-                </div>
+                {% include header_div.html %}
+                <hr/>
 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
@@ -29,11 +25,7 @@
                     </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        {% include footer.html %}
-                    </div>
-                </div>
+                {% include footer.html %}
 
             </div>
         </div>
