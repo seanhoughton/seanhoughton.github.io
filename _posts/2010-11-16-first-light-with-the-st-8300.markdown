@@ -10,6 +10,7 @@ wordpress_id: 651
 wordpress_url: http://www.cerebiggum.com/?p=651
 date: '2010-11-16 21:18:35 -0800'
 date_gmt: '2010-11-17 05:18:35 -0800'
+thumbnail: /media/2008/12/0007_sideviewfull-225x300.jpg
 categories:
 - Photography
 tags:
@@ -23,4 +24,4 @@ I decided to purchase an SBIG ST-8300M to replace the 10D and 5DMkII for astroph
 
 I've started evaluating PixInsight as a replacement for MaxIm DL and Photoshop and so far I've been extremely impressed.  Here are the results from re-processing the previous image and adding the color data from a really old, low quality film image I had of M31.  It's amazing what you can pull out of the data when given a good set of tools and some practice.
 
-<iframe src="https://www.flickr.com/photos/seanhoughton/5172597803/player/" width="369" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/seanhoughton/5172597803/player/" width="640" height="482" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

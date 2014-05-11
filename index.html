@@ -3,19 +3,24 @@ title: cerebiggum
 layout: default
 no_comments: true
 ---
-<div class="related">
-    <center>
-    <ul class='list-unstyled'>
+<div class="row related">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <div class="col-md-5 {% cycle '', 'col-md-offset-2' %}">
+      <div class='indexpad'>
+        <a href="{{ post.url }}">
+          <div>
+            <div class="indexpadimg" style="background-image: url({{ post.thumbnail }})"></div>
+            <h3>{{ post.title }}</h3>
+          </div>
+        </a>
+      </div>
+    </div>
     {% endfor %}
-    </ul>
-    </center>
 </div>
 
 <!-- Pagination links -->
-<div>
+<div class="row">
 <ul class="pager">
   {% if paginator.previous_page %}
     <li><a href="/list/page{{ paginator.previous_page }}" class="previous">Prev</a></li>

@@ -5,6 +5,12 @@ markdown: redcarpet
 redcarpet:
   extensions: ["strikethrough", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: /:year/:month/:title
-paginate: 15
+paginate: 8
 paginate_path: "list/page:num"
 exclude: ['bower_components', 'node_modules']
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      thumbnail: /system/images/default-thumb.png

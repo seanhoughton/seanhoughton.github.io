@@ -10,6 +10,7 @@ wordpress_id: 702
 wordpress_url: http://www.cerebiggum.com/?p=702
 date: '2011-03-31 23:50:00 -0700'
 date_gmt: '2011-04-01 07:50:00 -0700'
+thumbnail: /media/2011/03/histo-thumb.png
 categories:
 - Visualization
 tags: []
