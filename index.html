@@ -11,7 +11,10 @@ no_comments: true
         <a href="{{ post.url }}">
           <div>
             <div class="indexpadimg" style="background-image: url({{ post.thumbnail }})"></div>
-            <h3>{{ post.title }}</h3>
+            <div class="imagepadlabel">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.date | date: "%B %-d, %Y" }}</h4>
+            </div>
           </div>
         </a>
       </div>
