@@ -17,6 +17,7 @@ tags:
 - G11
 - Photography
 alias: /2001/01/astrophotography-equipment/index.html
+thumbnail: /media/2008/12/0007_sideviewfull-225x300.jpg
 ---
 ### Takahashi FS102 Refractor
 
@@ -31,7 +32,7 @@ The earth rotates and you need some way of counter-rotating so the stars don't m
 
 ### Losmandy G11 Mount
 
-[![](http://blog.mungosmash.com/wp-content/uploads/2001/01/0007_sideviewfull-225x300.jpg)]({{site.url_root}}/media/2008/12/0007_sideviewfull.jpg)
+[![](/media/2008/12/0007_sideviewfull-225x300.jpg)]({{site.url_root}}/media/2008/12/0007_sideviewfull.jpg)
 
 
 The Losmandy G11 is a well made german equatorial mount. I've made some modifications to it to help with tracking (and because it was fun to do!) but stock it does a very good job. Losmandy makes a lot of adapters so it's easy to connect any tube or tubes.

@@ -14,6 +14,7 @@ categories:
 - Programming
 tags: []
 alias: /2009/03/bad-game-developer-conference-scheduling/index.html
+thumbnail: /media/2009/03/bad-gdc-scheduling.png
 ---
 I used the GDC schedule builder to make a lecture wish list.  It's fairly obvious that I won't be able to see everything I want.  This happens a little every year, but this is ridiculous.
 

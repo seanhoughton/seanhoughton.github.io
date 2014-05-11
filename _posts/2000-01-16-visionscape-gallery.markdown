@@ -15,8 +15,9 @@ categories:
 tags:
 - Graphics
 alias: /2000/01/visionscape-gallery/index.html
+thumbnail: /media/2009/01/1108607594_tugger.jpg
 ---
 I used to do artwork for Vision Scape Imaging.  Here are some work and personal projects from back in the day.
 
-[gallery]
-
+![]({{site.url_root}}/media/2009/01/1108607594_tugger.jpg)
+![]({{site.url_root}}/media/2009/01/1108607744_anton.jpg)

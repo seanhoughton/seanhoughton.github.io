@@ -14,6 +14,7 @@ date_gmt: '2010-03-15 06:01:53 -0700'
 categories:
 - Uncategorized
 tags: []
+thumbnail: /media/2010/06/TransformersWFC-Demo-300x207.png
 alias: /2010/03/transformers-behind-the-scenes/index.html
 ---
 Can't wait until next we can talk about multiplayer...

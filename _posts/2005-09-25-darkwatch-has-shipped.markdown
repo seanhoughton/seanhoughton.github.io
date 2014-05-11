@@ -16,10 +16,8 @@ tags:
 - Darkwatch
 - Games
 alias: /2005/09/darkwatch-has-shipped/index.html
+thumbnail: /media/2005/09/darkwatch.jpg
 ---
 After more than two years of work it's finally out the door.  I worked as a senior programmer on this one.  Please buy one.
 
-<a href="http://www.darkwatch.com"><br />
-<img src="http://highmoonstudios.com/images/gumbal_keyart.jpg"/><br />
-</a>
-
+[![]({{site.url_root}}/media/2005/09/darkwatch.jpg)](http://www.darkwatch.com)

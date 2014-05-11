@@ -16,6 +16,7 @@ tags:
 - Data
 - iPhone
 - Visualization
+thumbnail: /media/2010/06/DroppedCallMap.png
 alias: /2010/06/worst-phone-ever/index.html
 ---
 I love the iPhone as everything but a phone. I barely get any reception where I live or where I work. It feels like I get dropped calls all the time. I didn't know there was any way to get real quantitative information about your experiences, until now. It turns out that when you sync your phone with iTunes it collects all the information about your phone calls and stores them on your computer. A new website, [WorstPhoneEver.com](http://worstphoneever.com), will extract and present this information for you.

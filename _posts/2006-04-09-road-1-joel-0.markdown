@@ -17,6 +17,7 @@ tags:
 - Motorcycle
 - Trackday
 alias: /2006/04/road-1-joel-0/index.html
+thumbnail: /media/2006/04/CRW_4067.jpeg
 ---
 We got in another track day at Streets of Willow a few months ago and I'm finally posting some pictures.  I managed to bring my lap time down by 5 seconds and Joel managed to destroy his motorcycle.
 

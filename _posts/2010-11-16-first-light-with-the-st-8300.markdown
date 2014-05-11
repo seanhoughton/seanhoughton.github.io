@@ -10,7 +10,7 @@ wordpress_id: 651
 wordpress_url: http://www.cerebiggum.com/?p=651
 date: '2010-11-16 21:18:35 -0800'
 date_gmt: '2010-11-17 05:18:35 -0800'
-thumbnail: /media/2008/12/0007_sideviewfull-225x300.jpg
+thumbnail: /media/2010/11/5172597803_b1da66100c_z-300x225.jpg
 categories:
 - Photography
 tags:

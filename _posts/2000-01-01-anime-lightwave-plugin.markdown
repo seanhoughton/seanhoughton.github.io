@@ -18,6 +18,7 @@ categories:
 tags:
 - Graphics
 alias: /2000/01/anime-lightwave-plugin/index.html
+thumbnail: /media/2000/01/1108607942_anime_pic1.jpg
 ---
 When I worked at VSI I created a bunch of custom Lightwave plugins.  This is one that was never released, but it was pretty cool.
 

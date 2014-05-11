@@ -14,6 +14,7 @@ categories:
 - Photography
 tags: []
 alias: /2009/01/the-lagoon-nebula/index.html
+thumbnail: /media/2009/12/160601-6_9-300x224.jpg
 ---
 After scanning in some of my old slides I decided to stack a couple of M8. This image is a total of 1.5 hours of exposure from 2001.
 

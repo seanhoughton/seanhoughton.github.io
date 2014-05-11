@@ -13,4 +13,4 @@ defaults:
     scope:
       path: ""
     values:
-      thumbnail: /system/images/default-thumb.png
+      thumbnail: /system/images/brain.png

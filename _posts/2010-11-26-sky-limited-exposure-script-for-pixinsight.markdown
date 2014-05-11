@@ -10,6 +10,7 @@ wordpress_id: 667
 wordpress_url: http://www.cerebiggum.com/?p=667
 date: '2010-11-26 22:20:36 -0800'
 date_gmt: '2010-11-27 06:20:36 -0800'
+thumbnail: /media/2010/11/SkyLimitedExposure-0.2.png
 categories:
 - Photography
 tags:

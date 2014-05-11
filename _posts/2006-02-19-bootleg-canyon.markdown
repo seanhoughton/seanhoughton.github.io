@@ -19,10 +19,12 @@ tags:
 - Bike
 - mountainbike
 alias: /2006/02/bootleg-canyon/index.html
+thumbnail: /media/2006/02/1140419612_BootlegCliffs.jpg
 ---
 Recently went on a trip to Bootleg Canyon and Las Vegas.
 
-<a id="more"></a><a id="more-34"></a>
-
 I'm still recovering from my shoulder surgery, so I spent the day with Joel shuttling these lucky bastards up and down the hill.
 
+![]({{site.url_root}}/media/2006/02/1140419612_BootlegCliffs.jpg)
+![]({{site.url_root}}/media/2006/02/1140420627_BootlegJumps.jpg)
+![]({{site.url_root}}/media/2006/02/1140420846_BootlegSean.jpg)

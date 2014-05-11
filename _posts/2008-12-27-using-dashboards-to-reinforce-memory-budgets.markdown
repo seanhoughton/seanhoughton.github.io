@@ -19,6 +19,7 @@ tags:
 - Programming
 - Visualization
 alias: /2008/12/using-dashboards-to-reinforce-memory-budgets/index.html
+thumbnail: /media/2009/01/teambars2.png
 ---
 [![]({{site.url_root}}/media/2009/01/highmoonlogo.png)](http://www.highmoonstudios.com)
 

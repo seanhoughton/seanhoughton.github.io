@@ -16,6 +16,7 @@ tags:
 - MotoGP
 - Motorcycle
 alias: /2005/07/the-2005-motogp-race-at-laguna-seca/index.html
+thumbnail: /media/2005/07/MotoGP_YellowRiders.jpeg
 ---
 I just got back from the MotoGP race in Monterey!  These machines sound nothing like any race bike you've ever heard.
 

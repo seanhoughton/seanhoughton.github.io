@@ -19,6 +19,7 @@ tags:
 - Motorcycle
 - Trackday
 alias: /2005/02/trackday-at-california-speedway/index.html
+thumbnail: /media/2005/02/CaliforniaSpeedway.jpeg
 ---
 ### Preparation
 

@@ -18,6 +18,7 @@ tags:
 - G11
 - Photography
 alias: /2009/01/half-moon/index.html
+thumbnail: /media/2009/01/crw_7395-300x300.jpg
 ---
 This is a picture of the half moon from early in January 2009.
 
