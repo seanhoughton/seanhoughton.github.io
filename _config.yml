@@ -11,6 +11,6 @@ exclude: ['bower_components', 'node_modules']
 defaults:
   -
     scope:
-      path: ""
+      path: "" # empty string for all files
     values:
       thumbnail: /system/images/brain.png
