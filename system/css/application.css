@@ -5838,6 +5838,7 @@ header h2 {
   border: solid 1px #aaa;
   background: #4E4E4E;
   box-shadow: 0px 0px 30px #888;
+  transition: box-shadow 0.25s;
   overflow: hidden;
 }
 .indexpad:hover {
@@ -5845,7 +5846,8 @@ header h2 {
 }
 .indexpad h3 {
   font-size: 0.9em;
-  height: 60px;
+  margin-top: 15px;
+  height: 65px;
 }
 .indexpad h4 {
   font-size: 0.7em;
