@@ -2,7 +2,7 @@
   "name": "seanhoughton.github.io",
   "version": "0.0.1",
   "dependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "*",
     "grunt-contrib-less": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-copy": "*",
@@ -13,7 +13,7 @@
     "npm": "1.2.x"
   },
   "devDependencies": {
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-shell": "~0.6.4"
+    "grunt-contrib-watch": "*",
+    "grunt-shell": "*"
   }
 }

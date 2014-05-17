@@ -42,7 +42,7 @@ module.exports = function(grunt) {
         less: {
             production: {
                 options: {
-                    paths: ["bower_components/bootstrap/less"],
+                    paths: ["bower_components/bootstrap/less", "bower_components/font-awesome/less"],
                     yuicompress: true
                 },
                 files: {
@@ -72,6 +72,12 @@ module.exports = function(grunt) {
                     cwd: 'bower_components/bootstrap/css/',
                     src: ['**'],
                     dest: 'assets/img/'
+                },
+                {
+                    expand: true,
+                    cwd: 'bower_components/font-awesome/fonts/',
+                    src: ['**'],
+                    dest: 'system/fonts/'
                 }]
             }
         },

@@ -1,5 +1,18 @@
       <header class="header">
+        <span class='dateline'>{{ page.date | date: "%B %d, %Y" }}</span>
         <h1><img width="45" src="{{site.url_root}}/system/images/brain.png"> {{ page.title }}</h1>
-        <h4><small>{{ page.date | date: "%B %d, %Y" }}</small></h4>
-        <h4><a href="/"><small>Articles by Sean Houghton</small></a></h4>
+        <div class="links">
+	    	<a href="/">
+				<span class="fa-stack">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-home fa-stack-1x fa-inverse"></i>
+				</span>
+	    	</a>
+			<a href="https://twitter.com/share?text=@seanhoughton {{page.title}}">
+				<span class="fa-stack">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
+		</div>
       </header>
