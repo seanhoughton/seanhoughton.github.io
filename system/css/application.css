@@ -7415,10 +7415,8 @@ header a {
 .indexpad {
   margin-bottom: 50px;
   text-align: center;
-  border-radius: 10px;
   border: solid 1px #aaa;
-  background: #4E4E4E;
-  box-shadow: 0px 0px 30px #888;
+  background: #F0F0F0;
   transition: box-shadow 0.25s;
   overflow: hidden;
 }
@@ -7429,6 +7427,9 @@ header a {
   font-size: 0.9em;
   margin-top: 15px;
   height: 65px;
+}
+.indexpad a {
+  color: #6f6f6f;
 }
 .indexpad h4 {
   font-size: 0.7em;
