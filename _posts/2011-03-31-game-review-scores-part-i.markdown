@@ -9,7 +9,6 @@ author_email: sean.houghton@gmail.com
 wordpress_id: 702
 wordpress_url: http://www.cerebiggum.com/?p=702
 date: '2011-03-31 23:50:00 -0700'
-date_gmt: '2011-04-01 07:50:00 -0700'
 thumbnail: /media/2011/03/histo-thumb.png
 categories:
 - Visualization
@@ -90,4 +89,3 @@ Finally, how are publishers doing with the pools of games they release each year
 <div style="float:right; padding-right:8px;"><a href="http://www.tableausoftware.com/public?ref=http://public.tableausoftware.com/views/ReviewScores/PublisherRatingsOverTime" target="_blank">Powered by Tableau</a></div></div>
 
 In [Part II]({% post_url 2011-03-31-game-review-scores-part-ii %}) we'll examine how review scores relate to game sales.
-

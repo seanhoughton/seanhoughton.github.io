@@ -9,7 +9,6 @@ author_email: sean.houghton@gmail.com
 wordpress_id: 704
 wordpress_url: http://www.cerebiggum.com/?p=704
 date: '2011-03-31 23:50:16 -0700'
-date_gmt: '2011-04-01 07:50:16 -0700'
 thumbnail: /media/2011/03/scatter-thumb.png
 categories:
 - Visualization
@@ -85,4 +84,3 @@ This section sums up the relationship between all of these things.  As more game
 ### More Information
 
 The final post, [Part III]({% post_url 2011-03-31-game-review-scores-part-iii %}), covers some of the tools used.
-

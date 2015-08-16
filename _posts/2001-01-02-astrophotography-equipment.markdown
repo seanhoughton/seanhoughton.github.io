@@ -9,7 +9,6 @@ author_email: sean.houghton@gmail.com
 wordpress_id: 10
 wordpress_url: http://blog.mungosmash.com/?p=10
 date: '2001-01-02 19:51:03 -0800'
-date_gmt: '2001-01-03 03:51:03 -0800'
 categories:
 - Photography
 tags:

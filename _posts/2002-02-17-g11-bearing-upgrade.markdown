@@ -82,4 +82,3 @@ As always, any suggestions are appreciated.
 <ul>
 <li><a title="G11 Tuning" href="http://www.astro.uni-bonn.de/~mischa/mounts/g11_tuning.html">G11 Tuning</a></li><br />
 </ul>
-

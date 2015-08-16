@@ -9,7 +9,6 @@ author_email: sean.houghton@gmail.com
 wordpress_id: 705
 wordpress_url: http://www.cerebiggum.com/?p=705
 date: '2011-03-31 23:50:35 -0700'
-date_gmt: '2011-04-01 07:50:35 -0700'
 thumbnail: /media/2011/03/scatter-thumb.png
 categories:
 - Visualization
