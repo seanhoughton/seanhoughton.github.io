@@ -14,7 +14,7 @@ excerpt: |+
 wordpress_id: 13
 wordpress_url: http://blog.mungosmash.com/?p=13
 date: '2002-02-17 19:01:02 -0800'
-date_gmt: '2002-02-18 03:01:02 -0800'
+date_gmt: '2002-02-17 19:01:02 -0800'
 categories:
 - Photography
 tags:
