@@ -8,7 +8,6 @@ author_login: Sean
 author_email: sean.houghton@gmail.com
 wordpress_id: 696
 wordpress_url: http://www.cerebiggum.com/
-date: '2011-02-22 21:35:27 -0800'
 categories: []
 tags: []
 alias: /2011/02/sky-limited-exposure/index.html

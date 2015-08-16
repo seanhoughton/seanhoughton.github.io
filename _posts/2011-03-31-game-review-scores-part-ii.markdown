@@ -8,7 +8,6 @@ author_login: Sean
 author_email: sean.houghton@gmail.com
 wordpress_id: 704
 wordpress_url: http://www.cerebiggum.com/?p=704
-date: '2011-03-31 23:50:16 -0700'
 thumbnail: /media/2011/03/scatter-thumb.png
 categories:
 - Visualization
