@@ -1,4 +1,6 @@
 _site/
+.env
+*.lock
 *.sublime-workspace
 bower_components
 node_modules

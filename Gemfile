@@ -1,2 +1,7 @@
 source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'bundler'
 gem 'github-pages'
+gem 'rouge'
+gem 's3_website'

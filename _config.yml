@@ -1,13 +1,21 @@
 safe: false
 lsi: false
-pygments: true
-markdown: redcarpet
+highlighter: "rouge"
+gems: [jekyll-paginate]
 redcarpet:
   extensions: ["strikethrough", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/index.html
 paginate: 8
 paginate_path: "list/page:num"
-exclude: ['bower_components', 'node_modules']
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'website.sublime-project'
+  - 'website.sublime-workspace'
+  - 's3_website.yml'
+  - 'fix.py'
+  - '.env'
+  - '.gitignore'
 defaults:
   -
     scope:
