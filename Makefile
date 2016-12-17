@@ -1,3 +1,6 @@
+init:
+	bundler install
+
 build:
 	jekyll build
 
