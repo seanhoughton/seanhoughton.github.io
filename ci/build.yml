@@ -11,7 +11,8 @@ inputs:
   - name: source
 
 outputs:
-  - name: _posts
+  - name: site
+    path: site
 
 run:
   path: sh
@@ -20,4 +21,4 @@ run:
   - |
     cd source
     bundler install
-    jekyll build
+    jekyll build --destination ../site
