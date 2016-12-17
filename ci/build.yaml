@@ -1,0 +1,22 @@
+---
+platform: linux
+
+image_resource:
+  type: docker-image
+  source:
+    repository: ruby
+    tag: '2.1'
+
+inputs:
+  - name: website
+
+outputs:
+  - name: _posts
+
+run:
+  path: sh
+  args:
+  - -exc
+  - |
+    bundler install
+    jekyll build
