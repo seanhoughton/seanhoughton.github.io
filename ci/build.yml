@@ -9,6 +9,7 @@ image_resource:
 
 inputs:
   - name: source
+  - name: version
 
 outputs:
   - name: site
@@ -21,4 +22,6 @@ run:
   - |
     cd source
     bundler install
-    jekyll build --destination ../site
+    jekyll build
+    version=`cat /version/version`
+    cd _site && tar cvzf ../site-${version}.tgz .

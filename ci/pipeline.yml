@@ -4,27 +4,28 @@ resources:
     source:
       uri: https://github.com/seanhoughton/seanhoughton.github.io.git
       branch: feature/concourseci
-  #- name: version
-  #  type: semver
-  #  source:
-  #    bucket: www-dev.cerebiggum.com
-  #    key: current-version
-  #    access_key_id: {{s3-access-key-id}}
-  #    secret_access_key: {{s3-secret-access-key}}
-  #    region_name: us-west-1
-  #    initial_version: 1.0.0
+  - name: version
+    type: semver
+    source:
+      bucket: www-dev.cerebiggum.com
+      key: current-version
+      access_key_id: {{s3-access-key-id}}
+      secret_access_key: {{s3-secret-access-key}}
+      region_name: us-west-1
+      initial_version: 1.0.0
   - name: website-rc
     type: s3
     source:
       bucket: www-dev.cerebiggum.com
-      #regexp: cerebiggum-(.*).tgz
+      regexp: site-(.*).tgz
       access_key_id: {{s3-access-key-id}}
       secret_access_key: {{s3-secret-access-key}}
+      region_name: us-west-1
   #- name: website-final
   #  type: s3
   #  source:
   #    bucket: www-dev.cerebiggum.com
-  #    regexp: cerebiggum-(.*).tgz
+  #    regexp: site-(.*).tgz
   #    access_key_id: {{s3-access-key-id}}
   #    secret_access_key: {{s3-secret-access-key}}
 
@@ -34,8 +35,11 @@ jobs:
     plan:
       - get: source
         trigger: true
-      #- get: version
-      #  params: {pre: rc}
+      - get: version
+        params: {pre: rc}
       - task: build-website
         file: source/ci/build.yml
       - put: website-rc
+        params:
+          file: site-*.tgz
+          acl: public-read
