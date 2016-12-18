@@ -4,8 +4,8 @@ platform: linux
 image_resource:
   type: docker-image
   source:
-    repository: ruby
-    tag: '2.1'
+    repository: jekyll
+    tag: '3.2'
 
 inputs:
   - name: source

@@ -13,13 +13,13 @@ resources:
   #    secret_access_key: {{s3-secret-access-key}}
   #    region_name: us-west-1
   #    initial_version: 1.0.0
-  #- name: website-rc
-  #  type: s3
-  #  source:
-  #    bucket: www-dev.cerebiggum.com
-  #    regexp: cerebiggum-(.*).tgz
-  #    access_key_id: {{s3-access-key-id}}
-  #    secret_access_key: {{s3-secret-access-key}}
+  - name: website-rc
+    type: s3
+    source:
+      bucket: www-dev.cerebiggum.com
+      #regexp: cerebiggum-(.*).tgz
+      access_key_id: {{s3-access-key-id}}
+      secret_access_key: {{s3-secret-access-key}}
   #- name: website-final
   #  type: s3
   #  source:
@@ -38,3 +38,4 @@ jobs:
       #  params: {pre: rc}
       - task: build-website
         file: source/ci/build.yml
+      - put: website-rc
