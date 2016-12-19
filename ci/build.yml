@@ -20,8 +20,9 @@ run:
   args:
   - -exc
   - |
-    cd source
+    root=$(pwd)
+    cd ${root}/source
     bundler install
     jekyll build
-    version=`cat ../version/version`
-    cd _site && tar cvzf ../../site/site-${version}.tgz .
+    version=`cat ${root}/version/version`
+    cd ${root}/source/_site && tar cvzf ${root}/site/site-${version}.tgz .
