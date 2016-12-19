@@ -24,4 +24,4 @@ run:
     bundler install
     jekyll build
     version=`cat ../version/version`
-    cd _site && tar cvzf ../../site-${version}.tgz .
+    cd _site && tar cvzf ../../site/site-${version}.tgz .

@@ -16,6 +16,7 @@ exclude:
   - 'fix.py'
   - '.env'
   - '.gitignore'
+  - 'ci'
 defaults:
   -
     scope:
