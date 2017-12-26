@@ -4,14 +4,16 @@ include .env
 site:
 	docker run --rm \
 		-it \
-  		--volume="$(CURDIR):/srv/jekyll" \
+  		-v "$(CURDIR):/srv/jekyll" \
+  		-v "$(CURDIR)/.cache:/usr/local/bundle" \
 		jekyll/jekyll:latest \
   		jekyll build
 
-dev:
+serve:
 	docker run --rm \
 		-it \
-  		--volume="$(CURDIR):/srv/jekyll" \
+  		-v "$(CURDIR):/srv/jekyll" \
+  		-v "$(CURDIR)/.cache:/usr/local/bundle" \
 		-p 4000:4000 \
 		-p 35729:35729 \
 		-p 3000:3000 \
