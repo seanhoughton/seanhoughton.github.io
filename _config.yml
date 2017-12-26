@@ -3,11 +3,9 @@ lsi: false
 gems: [jekyll-paginate]
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 include:
-  - '_layouts'
-  - '_posts'
   - 'media'
   - 'system'
 
@@ -148,15 +146,20 @@ compress_html:
 # Defaults
 defaults:
   - scope:
-      path: "" # empty string for all files
+      path: ""
       type: "posts"
     values:
-      thumbnail: /system/images/brain.png
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 
