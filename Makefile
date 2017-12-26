@@ -1,5 +1,7 @@
+.PHONY: build dev s3
+include .env
 
-build:
+site:
 	docker run --rm \
 		-it \
   		--volume="$(CURDIR):/srv/jekyll" \
@@ -16,7 +18,7 @@ dev:
 		jekyll/jekyll:latest \
   		jekyll serve
 
-s3: build
+s3: site
 	docker run --rm \
 	-ti \
 	-v $(CURDIR):/data \

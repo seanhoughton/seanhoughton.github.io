@@ -1,24 +1,162 @@
 safe: false
 lsi: false
-highlighter: "rouge"
 gems: [jekyll-paginate]
-redcarpet:
-  extensions: ["strikethrough", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+include:
+  - '_layouts'
+  - '_posts'
+  - 'media'
+  - 'system'
+
+exclude:
+  - '*.sublime-project'
+  - '*.sublime-workspace'
+  - '.asset-cache'
+  - '.bundle'
+  - '.env'
+  - '.gitignore'
+  - '.jekyll-assets-cache'
+  - '.sass-cache'
+  - '/docs # ignore Minimal Mistakes /docs'
+  - '/test # ignore Minimal Mistakes /test'
+  - 'assets/js/_main.js'
+  - 'assets/js/plugins'
+  - 'assets/js/vendor'
+  - 'Capfile'
+  - 'CHANGELOG'
+  - 'config'
+  - 'fix.py'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'Gruntfile.js'
+  - 'gulpfile.js'
+  - 'LICENSE'
+  - 'log'
+  - 'node_modules'
+  - 'package.json'
+  - 'Rakefile'
+  - 'README'
+  - 's3_website.yml'
+  - 'tmp'
+  - 'vendor'
+  - 'website.sublime-project'
+  - 'website.sublime-workspace'
+
+
+# Site Settings
+locale                   : "en"
+title                    : "cerebiggum"
+title_separator          : "-"
+name                     : "Sean Houghton"
+description              : "Sean Houghton's personal site"
+url                      : "https://cerebiggum.com"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "seanhoughton/seanhoughton.github.io"
+teaser                   : "/system/images/brain.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "wwwcerebiggumcom"
+
+
+# Social Sharing
+twitter:
+  username               : "seanhoughton"
+
+# Analytics
+analytics:
+  provider               : "google"
+  google:
+    tracking_id          : "UA-6593651-1"
+
+
+# Site Author
+author:
+  name             : "Sean Houghton"
+  avatar           : "https://www.gravatar.com/avatar/2363de2e559d0be9c07592bcc0d5cdc8.png"
+  bio              : "Code monkey."
+  location         : "Los Angeles, CA"
+  email            :
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
 permalink: /:year/:month/:title/index.html
 paginate: 8
 paginate_path: "list/page:num"
-exclude:
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - 'website.sublime-project'
-  - 'website.sublime-workspace'
-  - 's3_website.yml'
-  - 'fix.py'
-  - '.env'
-  - '.gitignore'
+
+# HTML compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # empty string for all files
+      type: "posts"
     values:
       thumbnail: /system/images/brain.png
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+
