@@ -1,15 +1,7 @@
 ---
-layout: default
 status: publish
 published: true
 title: Sky Limited Exposure
-author: Sean
-author_login: Sean
-author_email: sean.houghton@gmail.com
-wordpress_id: 696
-wordpress_url: http://www.cerebiggum.com/
-categories: []
-tags: []
 alias: /2011/02/sky-limited-exposure/index.html
 thumbnail: /media/2010/11/SkyLimitedExposure-0.2.png
 ---

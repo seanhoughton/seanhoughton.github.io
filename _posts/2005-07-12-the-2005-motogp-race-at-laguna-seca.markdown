@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: The 2005 MotoGP Race at Laguna Seca

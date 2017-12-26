@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: When You&#039;re Too Sick To Surf, Take Pictures

@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Combining LRGB Channels

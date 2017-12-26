@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Trackday at Streets of Willow (Part II)

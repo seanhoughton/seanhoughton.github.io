@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Surfing photos from Ponto Jetty in Carlsbad.

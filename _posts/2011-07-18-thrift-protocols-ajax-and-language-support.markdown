@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Thrift Protocols, AJAX, and Language Support
 tags: [thrift, c#]
 alias: /2011/07/thrift-protocols-ajax-and-language-support/index.html

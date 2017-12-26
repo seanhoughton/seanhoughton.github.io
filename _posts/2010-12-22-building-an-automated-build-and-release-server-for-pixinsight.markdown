@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Building an Automated Build and Release Server for PixInsight

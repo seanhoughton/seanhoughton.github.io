@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Scaled Dark Frames in MaxIm DL and PixInsight

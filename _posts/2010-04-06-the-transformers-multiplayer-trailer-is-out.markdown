@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: The Transformers Multiplayer Trailer is out!

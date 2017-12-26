@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: M42 shot with a Canon 10D

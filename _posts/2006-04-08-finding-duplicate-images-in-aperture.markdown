@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Finding Duplicate Images in Aperture

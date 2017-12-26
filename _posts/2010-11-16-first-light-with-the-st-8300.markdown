@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: First Light with the ST-8300

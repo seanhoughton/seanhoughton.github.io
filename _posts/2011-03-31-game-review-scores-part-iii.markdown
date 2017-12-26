@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Game Review Scores - Part III

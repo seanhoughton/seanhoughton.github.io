@@ -1,5 +1,4 @@
 ---
-layout: default
 status: publish
 published: true
 title: Real-Time Earthquake Map
