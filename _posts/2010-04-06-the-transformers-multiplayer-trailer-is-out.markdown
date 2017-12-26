@@ -13,6 +13,8 @@ categories:
 - Uncategorized
 tags: []
 thumbnail: /media/2010/06/TransformersWFC-Demo-300x207.png
+header:
+    teaser: /media/2010/06/TransformersWFC-Demo-300x207.png
 alias: /2010/04/the-transformers-multiplayer-trailer-is-out/index.html
 ---
 We've been keeping this part of the game under wraps for a while.  I've been focusing my effort on this part of the game for the last year and it's turning out to be a really fun part of the game.

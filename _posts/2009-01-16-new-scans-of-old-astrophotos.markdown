@@ -18,6 +18,8 @@ tags:
 - Takahashi
 alias: /2009/01/new-scans-of-old-astrophotos/index.html
 thumbnail: /media/2009/12/160601-6_9.jpg
+header:
+    teaser: /media/2009/12/160601-6_9.jpg
 ---
 
 I recently had some of my old astrophoto slides scanned with a Noritsu slide scanner so I can put them into permanent storage and finally move into 100% digital photography. I've learned a lot about image processing and the tools are much better now than they were when I originally took the photos.

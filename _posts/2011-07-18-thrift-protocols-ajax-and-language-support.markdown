@@ -3,6 +3,8 @@ title: Thrift Protocols, AJAX, and Language Support
 tags: [thrift, c#]
 alias: /2011/07/thrift-protocols-ajax-and-language-support/index.html
 thumbnail: /system/images/code-thumb.png
+header:
+    teaser: /system/images/code-thumb.png
 ---
 Two of the major strengths of Thrift are its support for a wide range of languages as well as its collection of available protocols. However, not every protocol is available for every language and not all protocols perform the same. I’ve spent a little time researching these issues and this is a quick summary of the results.
 

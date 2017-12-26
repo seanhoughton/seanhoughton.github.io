@@ -17,6 +17,8 @@ tags:
 - Trackday
 alias: /2005/08/trackday-at-buttonwillow/index.html
 thumbnail: /media/2005/08/CRW_3401.jpeg
+header:
+    teaser: /media/2005/08/CRW_3401.jpeg
 ---
 Stephane and I did a two day trackday at Buttonwillow.  It was between 95 and 100 degrees most of the day, but going for two days was an interesting experience.
 

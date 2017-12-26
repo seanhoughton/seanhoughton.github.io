@@ -18,6 +18,8 @@ tags:
 - Takahashi
 alias: /2008/12/m42-shot-with-a-canon-10d/index.html
 thumbnail: /media/2009/01/m42-20081228.jpg
+header:
+    teaser: /media/2009/01/m42-20081228.jpg
 ---
 It's been at least three years since I've done any astrophotograpy but last night I lugged out the equipment and shot a few frames.  I only made it out as far as the driveway and the sky isn't very dark in northern San Diego but it's amazing what kind of results you can get with a Canon 10D. Traditionally you would use either slide film or a cooled, black and white CCD sensor.
 

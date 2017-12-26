@@ -14,6 +14,8 @@ categories:
 - Uncategorized
 tags: []
 thumbnail: /media/2010/06/TransformersWFC-Demo-300x207.png
+header:
+    teaser: /media/2010/06/TransformersWFC-Demo-300x207.png
 alias: /2010/03/transformers-behind-the-scenes/index.html
 ---
 Can't wait until next we can talk about multiplayer...

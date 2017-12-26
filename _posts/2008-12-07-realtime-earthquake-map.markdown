@@ -20,6 +20,8 @@ tags:
 - Visualization
 alias: /2008/12/realtime-earthquake-map/index.html
 thumbnail: /media/2008/12/quakes.png
+header:
+    teaser: /media/2008/12/quakes.png
 ---
 
 *Update: the USGS has changed their service and this app no longer works.  Plus, I lost the source code after a hard drive crash. Remember - back up your data!*

@@ -7,6 +7,8 @@ author_login: Sean
 author_email: sean.houghton@gmail.com
 wordpress_id: 702
 wordpress_url: http://www.cerebiggum.com/?p=702
+header:
+    teaser: /media/2011/03/histo-thumb.png
 thumbnail: /media/2011/03/histo-thumb.png
 categories:
 - Visualization

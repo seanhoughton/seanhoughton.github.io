@@ -14,6 +14,8 @@ categories:
 tags: []
 alias: /2007/09/rip-scott-carter/index.html
 thumbnail: /media/motorcycles/IMG_0477.jpg
+header:
+    teaser: /media/motorcycles/IMG_0477.jpg
 ---
 
 ![]({{site.url_root}}/media/motorcycles/IMG_0477.jpg)

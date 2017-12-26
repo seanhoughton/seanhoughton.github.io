@@ -16,6 +16,8 @@ tags:
 - Photography
 alias: /2001/01/astrophotography-equipment/index.html
 thumbnail: /media/2008/12/0007_sideviewfull-225x300.jpg
+header:
+    teaser: /media/2008/12/0007_sideviewfull-225x300.jpg
 ---
 ### Takahashi FS102 Refractor
 

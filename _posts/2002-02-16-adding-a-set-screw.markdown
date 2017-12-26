@@ -15,6 +15,8 @@ tags:
 - Astrophotography
 alias: /2002/02/adding-a-set-screw/index.html
 thumbnail: /media/2008/12/1108606025_stuffyouneed-258x300.jpg
+header:
+    teaser: /media/2008/12/1108606025_stuffyouneed-258x300.jpg
 ---
 I have always been irritated that most adapters and extension tubes only come with a single set screw. This not only feels insecure when holding expensive eyepieces, but also allows excessive play burring astrophotography. I'm usually chicken about drilling into my equipment, but I finally added a second set screw to all my adapters and thought I would share my experience for anyone else who may want to do the same.
 

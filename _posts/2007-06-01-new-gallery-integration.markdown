@@ -16,6 +16,8 @@ tags:
 - Photography
 alias: /2007/06/new-gallery-integration/index.html
 thumbnail: /system/images/code-thumb.png
+header:
+    teaser: /system/images/code-thumb.png
 ---
 My Gallery2 embed plugin for MovableType kind of sucked before.  It dove right into the SQL database to grab information which makes it brittle if the schema changes.  I've updated it to use the GalleryEmbed API to grab image blocks.  It works a lot better.  I also threw in some support for floating thumbnail boxes to make the pages look a little more interesting.
 

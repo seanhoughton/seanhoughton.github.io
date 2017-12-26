@@ -17,6 +17,8 @@ categories:
 tags: []
 alias: /2005/07/road-trip-to-canada/index.html
 thumbnail: /media/vacation/canada/1120712395_Trip_EU_Home.jpg
+header:
+    teaser: /media/vacation/canada/1120712395_Trip_EU_Home.jpg
 ---
 This is a faithful retelling Canadian odyssey.
 

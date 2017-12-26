@@ -16,6 +16,8 @@ tags:
 - Surf
 alias: /2005/07/surfing-photos-from-ponto-jetty-in-carlsbad/index.html
 thumbnail: /media/surfing/strangers/1121637013_IMG_0424.jpg
+header:
+    teaser: /media/surfing/strangers/1121637013_IMG_0424.jpg
 ---
 Just added some new surfing photos.  Shooting against the sunset makes the color a bit odd, but not bad overall.
 

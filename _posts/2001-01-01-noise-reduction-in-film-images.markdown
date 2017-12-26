@@ -20,6 +20,8 @@ tags:
 - Photography
 alias: /2001/01/noise-reduction-in-film-images/index.html
 thumbnail: /media/2008/12/1108708165_ngc7023ba_compare-300x210.jpg
+header:
+    teaser: /media/2008/12/1108708165_ngc7023ba_compare-300x210.jpg
 ---
 **Update**: I now use Noise Ninja for all my noise reduction. It works really well.
 

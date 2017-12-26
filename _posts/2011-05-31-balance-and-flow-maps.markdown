@@ -10,6 +10,8 @@ wordpress_url: http://www.cerebiggum.com/?p=714
 date: '2011-05-31 22:37:24 -0700'
 date_gmt: '2011-06-01 06:37:24 -0700'
 thumbnail: /media/2011/05/BalanceHeatmap.png
+header:
+    teaser: /media/2011/05/BalanceHeatmap.png
 categories:
 - Visualization
 tags:

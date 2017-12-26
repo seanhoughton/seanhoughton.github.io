@@ -17,6 +17,8 @@ tags:
 - PixInsight
 - MaxIm DL
 thumbnail: /media/2010/11/Original.png
+header:
+    teaser: /media/2010/11/Original.png
 alias: /2010/11/scaled-dark-frames-in-maxim-dl-and-pixinsight/index.html
 ---
 I'm evaluating MaxIm DL and PixInsight at the same time because I only want to purchase one image processing package.  The first significant obstacle I've come across is that PixInsight doesn't seem to scale dark frames very well.  I've run the exact same calibration process on the same image and I get completely different results with the two packages.  I'm testing using a 600 second raw image, a 300 second master dark frame, and a master bias frame.

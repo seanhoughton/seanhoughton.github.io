@@ -19,6 +19,8 @@ tags:
 - mountainbike
 alias: /2006/02/bootleg-canyon/index.html
 thumbnail: /media/2006/02/1140419612_BootlegCliffs.jpg
+header:
+    teaser: /media/2006/02/1140419612_BootlegCliffs.jpg
 ---
 Recently went on a trip to Bootleg Canyon and Las Vegas.
 

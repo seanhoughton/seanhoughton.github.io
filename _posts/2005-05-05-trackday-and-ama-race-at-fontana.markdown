@@ -18,6 +18,8 @@ tags:
 - Trackday
 alias: /2005/05/trackday-and-ama-race-at-fontana/index.html
 thumbnail: /media/2005/05/Speedway_Turn9.jpeg
+header:
+    teaser: /media/2005/05/Speedway_Turn9.jpeg
 ---
 Another track day!
 
