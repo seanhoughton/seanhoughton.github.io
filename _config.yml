@@ -53,7 +53,7 @@ description              : "Sean Houghton's personal site"
 url                      : "https://cerebiggum.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "seanhoughton/seanhoughton.github.io"
-teaser                   : "/system/images/brain.png"
+teaser                   : "/media/system/brain.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,8 +77,8 @@ analytics:
 author:
   name             : "Sean Houghton"
   avatar           : "https://www.gravatar.com/avatar/2363de2e559d0be9c07592bcc0d5cdc8.png"
-  bio              : "Code monkey."
-  location         : "Los Angeles, CA"
+  bio              : "@activision Central Tech, formerly at @highmoonstudios and @sonysantamonica"
+  location         : "Hermosa Beach, CA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -155,6 +155,9 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        image: /media/system/galaxy-header.jpg
+
   - scope:
       path: ""
       type: pages
