@@ -1,11 +1,26 @@
-init:
-	bundler install
 
 build:
-	jekyll build
+	docker run --rm \
+		-it \
+  		--volume="$(CURDIR):/srv/jekyll" \
+		jekyll/jekyll:latest \
+  		jekyll build
 
 dev:
-	jekyll serve
+	docker run --rm \
+		-it \
+  		--volume="$(CURDIR):/srv/jekyll" \
+		-p 4000:4000 \
+		-p 35729:35729 \
+		-p 3000:3000 \
+		jekyll/jekyll:latest \
+  		jekyll serve
 
 s3: build
-	s3_website push
+	docker run --rm \
+	-ti \
+	-v $(CURDIR):/data \
+	-e AWS_ACCESS_KEY=${AWS_ACCESS_KEY} \
+	-e AWS_SECRET_KEY=${AWS_SECRET_KEY} \
+	-w /data \
+ 	opendecide/s3_website s3_website push
