@@ -1,6 +1,7 @@
 safe: false
 lsi: false
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -133,7 +134,7 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
-permalink: /:year/:month/:title/index.html
+permalink: /:year/:month/:title/
 paginate: 8
 paginate_path: "list/page:num"
 
