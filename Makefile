@@ -23,8 +23,7 @@ serve:
 s3: site
 	docker run --rm \
 	-ti \
-	-v $(CURDIR):/data \
+	-v $(CURDIR):/website \
 	-e AWS_ACCESS_KEY=${AWS_ACCESS_KEY} \
 	-e AWS_SECRET_KEY=${AWS_SECRET_KEY} \
-	-w /data \
- 	opendecide/s3_website s3_website push
+ 	attensee/s3_website push
