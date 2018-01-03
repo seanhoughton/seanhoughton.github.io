@@ -136,7 +136,7 @@ sass:
 # Outputting
 permalink: /:year/:month/:title/
 paginate: 8
-paginate_path: "list/page:num"
+paginate_path: "list/page:num/"
 
 # HTML compression
 compress_html:
@@ -149,7 +149,7 @@ compress_html:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -159,7 +159,6 @@ defaults:
       related: true
       header:
         image: /media/system/galaxy-header.jpg
-
   - scope:
       path: ""
       type: pages
