@@ -1,0 +1,5 @@
+baseURL: https://seanhoughton.io
+disablePathToLower: false
+languageCode: en-us
+title: Sean Houghton
+theme: ananke
