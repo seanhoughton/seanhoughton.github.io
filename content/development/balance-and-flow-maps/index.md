@@ -26,13 +26,14 @@ Heatmaps are an excellent tool for visualizing data with a two dimensional spati
 
 This article uses data from the Molten map in Transformers: War for Cybertron.  I've annotated some interesting features in the following image, but playing the map is probably the best way to get a feel for the layout.
 
-{% include image.html url="/media/2011/05/Molten-Diagram.png" description="The Molten Map" %}
+![](Molten-Diagram.png)
+
 
 ### Death Heatmaps
 
 Let's start with a basic "Death" heatmap. This visualization is fairly easy to build.  Each kill is binned based on the victim's location and the number of records in each bin is measured. Adding a thermal colormap makes it easy to differentiate the values.
 
-![Death heatmap]({{site.url_root}}/media/2011/05/DeathHeatmap.png)
+![Death heatmap](DeathHeatmap.png)
 
 We can clearly see that there is a lot of action on the bridge the center of the map. The deaths are clustered here, probably because the bridge acts as an elevated choke point. Please disregard the various clusters of four hot pixels near the edges, these are spawn-points and are subject to unusually high kill and death counts.
 
@@ -40,13 +41,13 @@ We can clearly see that there is a lot of action on the bridge the center of the
 
 Kill heatmaps are nearly identical to death heatmaps, the only difference being that they aggregate the kills based on the location of the killer instead of the victim.
 
-![Kill heatmap]({{site.url_root}}/media/2011/05/KillHeatmap.png)
+![Kill heatmap](KillHeatmap.png)
 
 ### Balance Heatmaps
 
 Although the kill and death heatmaps are very similar, if you look closely you will see areas that differ. This indicates that some areas of the map do not have a perfect kill:death balance. If we subtract the the Death Heatmap totals from the Kill Heatmap totals we get a Balance Heatmap. Areas with positive values (i.e. more kills than deaths) represent effective killing spots, whereas areas with negative values (i.e. more deaths than kills) should probably be avoided.
 
-![Balance heatmap]({{site.url_root}}/media/2011/05/BalanceHeatmap.png)
+![Balance heatmap](BalanceHeatmap.png)
 
 This view of the data does a much better job at highlighting the dangerous places in the map.  We can see the centers of hallways are much safer than the large, open areas in the center of the map.  Also, walls in general seem to be very dangerous - probably because your movement is restricted and it's much easier to get hit with splash damage. The ridges surrounding the low areas in the center of the map illustrate where balance heatmaps differ significantly from kill heatmaps - the kill heatmaps don't highlight them, but the balance maps do.
 
@@ -56,13 +57,13 @@ The raw balance exaggerates areas containing many samples.  This produces a nice
 
 The "normalization" happens within each cell.  The raw balance is divided by the number of samples in each cell.  The value is now in the range [-1,1] and this gives the entire heatmap a more consistent saturation.  Unfortunately the lack of data in the outer areas introduces some noise, but I think it's an acceptable artifact.
 
-![Normalized balance heatmap]({{site.url_root}}/media/2011/05/NormalizedBalanceHeatmap.png)
+![Normalized balance heatmap](NormalizedBalanceHeatmap.png)
 
 ### Gradient Maps
 
 Using the same kill data we can perform another aggregation - the kill gradient for each cell.  This is simply the average direction of each kill in each cell.  The result is a vector field representing the most common direction of each kill.  A long vectors indicates a very advantageous firing direction. If we introduce some particles to trace the field some interesting patterns start to emerge.
 
-[![Flow map]({{site.url_root}}/media/2011/05/FlowMapThumbnail-e1306866180634.jpg)]({{site.url_root}}/media/2011/05/index.html)
+[![Flow map](FlowMapThumbnail-e1306866180634.jpg)](flowmap.html)
 
 The flowlines trace good "run and gun" paths to try.  This technique is easy to adapt to victim data as well, with the flowlines tracing out the safest retreat paths.
 

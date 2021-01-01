@@ -19,7 +19,7 @@ wordpress_url: http://blog.mungosmash.com/?p=619
 ---
 We've been keeping this part of the game under wraps for a while.  I've been focusing my effort on this part of the game for the last year and it's turning out to be a really fun part of the game.
 
-The game's website has gone live as well: <a title="www.transformersgame.com" href="http://www.transformersgame.com/" target="_blank">www.transformersgame.com</a>
+The game's website has gone live as well: [www.transformersgame.com](http://www.transformersgame.com)
 
 <center>
 

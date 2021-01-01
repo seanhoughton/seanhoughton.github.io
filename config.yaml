@@ -3,3 +3,8 @@ disablePathToLower: false
 languageCode: en-us
 title: Sean Houghton
 theme: ananke
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

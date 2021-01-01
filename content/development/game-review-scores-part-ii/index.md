@@ -16,7 +16,7 @@ title: Game Review Scores - Part II
 wordpress_id: 704
 wordpress_url: http://www.cerebiggum.com/?p=704
 ---
-In [Part I]({% post_url 2011-03-31-game-review-scores-part-i %}) we looked at review scores in isolation. When we combine review score data with sales data some interesting patterns emerge. This section includes sales data from around 7,000 Xbox360 and Playstation2 games as well as the review score data from [Part I]({% post_url 2011-03-31-game-review-scores-part-i %})
+In [Part I]({{< relref "game-review-scores-part-i" >}}) we looked at review scores in isolation. When we combine review score data with sales data some interesting patterns emerge. This section includes sales data from around 7,000 Xbox360 and Playstation2 games as well as the review score data from [Part I]({{< relref "game-review-scores-part-i" >}})
 
 ### Sales and Scores
 
@@ -84,4 +84,4 @@ This section sums up the relationship between all of these things.  As more game
 
 ### More Information
 
-The final post, [Part III]({% post_url 2011-03-31-game-review-scores-part-iii %}), covers some of the tools used.
+The final post, [Part III]({{< relref "game-review-scores-part-iii" >}}), covers some of the tools used.

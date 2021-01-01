@@ -26,8 +26,8 @@ The following charts are backed by 46,000 review scores for 800 games. They incl
 This article is broken up in to three parts:
 
 - Part I - Scores
-- [Part II - Sales]({% post_url 2011-03-31-game-review-scores-part-ii %})
-- [Part III - Tools]({% post_url 2011-03-31-game-review-scores-part-iii %})
+- [Part II - Sales]({{< relref "game-review-scores-part-ii" >}})
+- [Part III - Tools]({{< relref "game-review-scores-part-iii" >}})
 
 ### Basic Score Distributions
 

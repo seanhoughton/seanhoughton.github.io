@@ -16,4 +16,4 @@ wordpress_url: http://www.cerebiggum.com/
 [Download Zeo.NET](http://cerebiggum.com/deploy/zeo.net/Zeo.NET.zip)
 Requires .NET 4.0
 
-[![GitHub]({{site.url_root}}/media/2011/02/github.png)](https://github.com/seanhoughton/Zeo.NET)
+[![GitHub](github.png)](https://github.com/seanhoughton/Zeo.NET)

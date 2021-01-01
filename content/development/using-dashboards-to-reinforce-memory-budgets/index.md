@@ -22,7 +22,7 @@ title: Using Dashboards to Reinforce Memory Budgets
 wordpress_id: 132
 wordpress_url: http://blog.mungosmash.com/?p=132
 ---
-[![]({{site.url_root}}/media/2009/01/highmoonlogo.png)](http://www.highmoonstudios.com)
+[![](highmoonlogo.png)](http://www.highmoonstudios.com)
 
 Console video games run on memory restricted environments and even with half a gigabyte of space it runs out quickly. It's easy to know when you're out of memory, what we want to know is exactly what approach to take to fix the problem. With all the information available the challenge is presenting the information in a way that gives clear indication of problems while providing enough low-level detail to zero in on individual assets. Additionally, we would like to be able to predict problems ahead of time. This article describes the approach we've taken at High Moon Studios to make the state of memory usage visible to the team and provide tools for detailed analysis.
 
@@ -52,7 +52,7 @@ Total memory consumption for each checkpoint is a core piece of information we w
 
 The first, and most useful piece of information is the total memory consumption. If this goes above the budget we have a problem.
 
-[]({{site.url_root}}/media/2009/01/simplebars.png")
+[](simplebars.png)
 
 The total consumed memory chart is useful because we can see how close to the budget we are. However, it doesn't provide much information about how to fix the problem. We need more information if we're going to quickly identify what needs to be addressed first.
 
@@ -60,7 +60,7 @@ The total consumed memory chart is useful because we can see how close to the bu
 
 Asset types are core resource types. Our next chart tries to provide insight by slicing the bars by asset type.
 
-![]({{site.url_root}}/media/2009/01/assetbars2.png)
+![](assetbars2.png)
 
 The asset type breakdown is especially useful in the optimization phase. If 90% of your memory is used by animation data it doesn't make much sense to spend time optimizing the 3d mesh data. However, most art teams are grouped at a higher level and it isn't immediately obvious who should be doing the work. For example, both world geometry and characters use meshes. If a level is over budget and the mesh block looks too large we need to know who is responsible.
 
@@ -81,7 +81,7 @@ END
 
 This is a much more natural way to slice the data than the Asset Type view we just saw. Non-technical people can look at the reports and quikly know which team to talk to if a map starts approaching the budget.
 
-![]({{site.url_root}}/media/2009/01/teambars2.png)
+![](teambars2.png)
 
 This chart gives us a high level view into where memory is being uses in the game while still being simple enough to be used by everyone on the team.
 
@@ -89,7 +89,7 @@ This chart gives us a high level view into where memory is being uses in the gam
 
 Knowing the current state of consumption is essential but having historical information gives context. A sparkline will let us see trends as well as jumps in memory consumption. These jumps are especially important to catch because they can be clues into art mistakes or poor planning. Some jumps can be expected, for example, in the days before a milestone. However, a large jump in the middle of the week might indicate an accidental code change that bloats the size of assets.
 
-![]({{site.url_root}}/media/2009/01/sparklines.png)
+![](sparklines.png)
 
 Note that the budget is included as a dashed line and any days where the budget was exceeded are colored red. The simple design and clear coloring make it clear when there is a problem. In this case, which is real production data, it was fixed within a day of showing up on the report.
 
@@ -103,7 +103,7 @@ So how can we create visualizations that help us understand and track the re-use
 
 Our first approach is to look at the number of unique assets is each level using.
 
-![]({{site.url_root}}/media/2009/01/uniquelevel.png)
+![](uniquelevel.png)
 
 The number of assets required by each map is useful way to track the progress of a level being assembled. It also provides a clear view of the relative load each map is putting on the art team.
 
@@ -111,7 +111,7 @@ The number of assets required by each map is useful way to track the progress of
 
 With a fixed set of art creation resources we want to ensure that each environment uses an approximately equal amount of modular pieces. We can look at the number of unique assets used by **all** levels within an art set and compare that against the other art sets to see if one is requiring more content to be created than others.
 
-![]({{site.url_root}}/media/2009/01/envassets.png)
+![](envassets.png)
 
 Here we see that levels using `Set C` require half the number of unique pieces than levels using `Set A` or `Set D`. Of course this might be completely reasonable given the art style of the various sets, but that is exactly the purpose of using these charts - to confirm things are happening as expected and to provide early warnings when they aren't.
 
@@ -125,11 +125,11 @@ Creating charts that provide live views into the state of memory is a huge first
 
 A good example of this is figuring out why a checkpoint is over budget. When a checkpoint goes over-budget and shows up red on the sparklines we want dive directly into the data to see exactly what caused the jump. Using Tableau's "sheet link" feature we set up a context menu that takes us to a filtered view of the changes that went into the jump.
 
-![]({{site.url_root}}/media/2009/01/untitled.png)
+![](untitled.png)
 
 Selecting this option dives into a details page with information about exactly which assets changed. The page is color coded to highlight increases in red and decreases in green.
 
-![]({{site.url_root}}/media/2009/01/perassetchanges.png)
+![](perassetchanges.png)
 
 This chart is not for everyone on the team, but it gives power-users a tool for diagnosing problems and finding out exactly what happened to cause the memory usage to change.
 
@@ -137,7 +137,7 @@ This chart is not for everyone on the team, but it gives power-users a tool for 
 
 Once you have a small set of visualizations that create a useful tool for viewing the state of the game you can build a simple dashboard that puts all the information together into a dashboard with a level selection control.
 
-[![]({{site.url_root}}/media/2009/01/memorydashboard-300x223.png)]({{site.url_root}}/media/2009/01/memorydashboard.png)
+![](memorydashboard.png)
 
 This dashboard should serve as a good starting point for easily tracking memory consumption in a game. You get advanced warning when the game is going to run out of memory as well as a powerful tool for diagnosing the problems when they happen.
 

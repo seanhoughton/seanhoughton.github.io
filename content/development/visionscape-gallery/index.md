@@ -20,5 +20,7 @@ wordpress_url: http://blog.mungosmash.com/?p=6
 ---
 I used to do artwork for Vision Scape Imaging.  Here are some work and personal projects from back in the day.
 
-![]({{site.url_root}}/media/2009/01/1108607594_tugger.jpg)
-![]({{site.url_root}}/media/2009/01/1108607744_anton.jpg)
+![](1108607594_tugger.jpg)
+
+![](1108607744_anton.jpg)
+

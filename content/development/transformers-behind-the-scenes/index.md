@@ -20,4 +20,4 @@ wordpress_url: http://blog.mungosmash.com/?p=614
 ---
 Can't wait until next we can talk about multiplayer...
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/sWs_0J26kYs" frameborder="0" allowfullscreen></iframe>
+{{< youtube sWs_0J26kYs >}}
