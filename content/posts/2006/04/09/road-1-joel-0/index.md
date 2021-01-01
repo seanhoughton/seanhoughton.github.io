@@ -24,7 +24,7 @@ We got in another track day at Streets of Willow a few months ago and I'm finall
 
 It was hot, somewhere around 90 degrees.
 
-<a href="{{site.url_root}}/media/2006/04/CRW_4078.jpeg"><img src="{{site.url_root}}/media/2006/04/CRW_4078.jpeg" alt="" title="Joel&#039;s bike is one sorry sight at this point." width="700" height="464" class="aligncenter size-full wp-image-785" /></a>
+![](CRW_4078.jpeg)
 
-<a href="{{site.url_root}}/media/2006/04/CRW_4067.jpeg"><img src="{{site.url_root}}/media/2006/04/CRW_4067.jpeg" alt="" title="How do you taco the rim in two places?" width="700" height="464" class="aligncenter size-full wp-image-786" /></a>
+![](CRW_4067.jpeg)
 

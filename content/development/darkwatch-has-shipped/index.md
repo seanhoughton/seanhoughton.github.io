@@ -21,4 +21,4 @@ wordpress_url: http://blog.mungosmash.com/?p=29
 ---
 After more than two years of work it's finally out the door.  I worked as a senior programmer on this one.  Please buy one.
 
-[![]({{site.url_root}}/media/2005/09/darkwatch.jpg)](http://www.darkwatch.com)
+[![](darkwatch.jpg)](http://www.darkwatch.com)

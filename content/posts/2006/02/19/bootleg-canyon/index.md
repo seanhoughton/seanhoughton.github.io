@@ -26,6 +26,9 @@ Recently went on a trip to Bootleg Canyon and Las Vegas.
 
 I'm still recovering from my shoulder surgery, so I spent the day with Joel shuttling these lucky bastards up and down the hill.
 
-![]({{site.url_root}}/media/2006/02/1140419612_BootlegCliffs.jpg)
-![]({{site.url_root}}/media/2006/02/1140420627_BootlegJumps.jpg)
-![]({{site.url_root}}/media/2006/02/1140420846_BootlegSean.jpg)
+![](1140419612_BootlegCliffs.jpg)
+
+![](1140420627_BootlegJumps.jpg)
+
+![](1140420846_BootlegSean.jpg)
+
