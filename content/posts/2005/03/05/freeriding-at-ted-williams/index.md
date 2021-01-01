@@ -24,10 +24,16 @@ wordpress_url: http://blog.mungosmash.com/?p=16
 Ted Williams makes you want to do things you really shouldn't be doing.
 
 ![](MarkRockDrop01.jpeg)
+
 ![](JoelRoadGap01.jpeg)
+
 ![](SeanRoadGap01.jpeg)
+
 ![](SeanRoadGap02.jpeg)
+
 ![](SeanRockDrop01.jpeg)
+
 ![](SeanRockDrop02.jpeg)
+
 ![](MtnBikeDudesInWater.jpeg)
 

@@ -21,12 +21,12 @@ wordpress_url: http://blog.mungosmash.com/?p=26
 ---
 Just added some new surfing photos.  Shooting against the sunset makes the color a bit odd, but not bad overall.
 
-![]({{site.url_root}}/media/surfing/strangers/1121636902_IMG_0396.jpg)
+![](1121636902_IMG_0396.jpg)
 
-![]({{site.url_root}}/media/surfing/strangers/1121636939_IMG_0404.jpg)
+![](1121636939_IMG_0404.jpg)
 
-![]({{site.url_root}}/media/surfing/strangers/1121636971_IMG_0420.jpg)
+![](1121636971_IMG_0420.jpg)
 
-![]({{site.url_root}}/media/surfing/strangers/1121637013_IMG_0424.jpg)
+![](1121637013_IMG_0424.jpg)
 
-![]({{site.url_root}}/media/surfing/strangers/1121637054_IMG_0428.jpg)
+![](1121637054_IMG_0428.jpg)
