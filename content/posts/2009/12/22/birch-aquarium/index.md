@@ -16,4 +16,4 @@ wordpress_url: http://blog.mungosmash.com/?p=555
 ---
 Took a quick trip to the Birch Aquarium to kick off my vacation and shot a little video of the coolest stuff.  This was all shot with a Cannon 5D MKII in low resolution video mode.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/d3PKldefAtA" frameborder="0" allowfullscreen></iframe>
+{{< youtube d3PKldefAtA >}}
