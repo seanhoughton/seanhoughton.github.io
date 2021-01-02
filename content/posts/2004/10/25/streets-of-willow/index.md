@@ -1,28 +1,20 @@
 ---
 alias: /2004/10/trackday-at-streets-of-willow/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2004-10-25T22:14:28Z"
-date_gmt: 2004-10-26 06:14:28 -0700
 excerpt: "First trackday!  Many more followed, but this is the one that started it
   all.\r\n\r\n<a href=\"{{site.url_root}}/media/2004/10/StreetsOfWillow_08.jpeg\"><img
   src=\"{{site.url_root}}/media/2004/10/StreetsOfWillow_08.jpeg\" alt=\"\" title=\"StreetsOfWillow_08\"
   width=\"500\" height=\"395\" class=\"aligncenter size-full wp-image-738\" /></a>\r\n\r\n"
 header:
 featured_image: /posts/2004/10/25/streets-of-willow/teaser.jpeg
-published: true
-status: publish
 tags:
 - Motorcycle
 - Trackday
 - Streets of Willow
 thumbnail: /media/2004/10/StreetsOfWillow_30.jpeg
 title: Trackday at Streets of Willow
-wordpress_id: 14
-wordpress_url: http://blog.mungosmash.com/?p=14
 ---
 First trackday!  Many more followed, but this is the one that started it all.
 

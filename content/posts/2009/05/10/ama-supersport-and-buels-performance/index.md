@@ -1,22 +1,14 @@
 ---
 alias: /2009/05/ama-supersport-and-buels-performance/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2009-05-10T19:26:19Z"
-date_gmt: 2009-05-11 03:26:19 -0700
-published: true
-status: publish
 tags:
 - AMA
 - Buel
 - Motorcycle
 - Visualization
 title: AMA SuperSport and Buel's Performance
-wordpress_id: 462
-wordpress_url: http://blog.mungosmash.com/?p=462
 ---
 The AMA is responsible for creating rules for the motorcycle racing series that ensure fair competition between motorcycles of different manufacturers and construction. The AMA Sport Bike series mixes motorcycles with 2, 3 and 4 cylinders from many manufacturers. Lately, the underdogs (Buel) have been doing really well and people are starting to suspect that the rules are slanted in their favor.
 

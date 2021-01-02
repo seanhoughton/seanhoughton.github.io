@@ -1,24 +1,16 @@
 ---
 alias: /2005/07/road-trip-to-canada/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Uncategorized
 date: "2005-07-06T21:58:18Z"
-date_gmt: 2005-07-07 05:58:18 -0700
 excerpt: |+
   This is a faithful retelling Canadian odyssey.
 
 header:
 featured_image: /posts/2005/07/06/road-trip-to-canada/teaser.jpg
-published: true
-status: publish
 tags: []
 thumbnail: /media/vacation/canada/1120712395_Trip_EU_Home.jpg
 title: Road Trip To Canada
-wordpress_id: 21
-wordpress_url: http://blog.mungosmash.com/?p=21
 ---
 This is a faithful retelling Canadian odyssey.
 

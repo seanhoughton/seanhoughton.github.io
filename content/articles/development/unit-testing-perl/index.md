@@ -1,23 +1,15 @@
 ---
 alias: /2005/07/unit-testing-perl/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2005-07-07T21:07:47Z"
-date_gmt: 2005-07-08 05:07:47 -0700
 excerpt: |+
   While working on a small script at work today it occurred to me that had I been writing it in C++ I would have already had quite a few tests for the logic I had written.  In a fit of madness I wrote a small test function in Perl and called it from the start of the script.  After working on a couple more tests to verify some subroutines that I wasn't sure were working properly I realized that I had more test code than script code!  By the time the script was done I had twice as much test code as script code and <b>my ass had been saved many times by the tests</b>.
 
-published: true
-status: publish
 tags:
 - TDD
 - Unit test
 title: Unit Testing Perl
-wordpress_id: 22
-wordpress_url: http://blog.mungosmash.com/?p=22
 ---
 While working on a small script at work today it occurred to me that had I been writing it in C++ I would have already had quite a few tests for the logic I had written.  In a fit of madness I wrote a small test function in Perl and called it from the start of the script.  After working on a couple more tests to verify some subroutines that I wasn't sure were working properly I realized that I had more test code than script code!  By the time the script was done I had twice as much test code as script code and <b>my ass had been saved many times by the tests</b>.
 

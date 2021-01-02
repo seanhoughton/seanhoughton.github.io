@@ -1,24 +1,16 @@
 ---
 alias: /2005/07/better-photo-handling-in-movabletype/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2005-07-03T21:08:16Z"
-date_gmt: 2005-07-04 05:08:16 -0700
 excerpt: |+
   After getting sick at the XBox developer conference (and dosing up on plenty of dextromethorphan) I decided to move my website content over to MovableType.  I had been using a home-brew system but it was nowhere near as feature rich as the MT system.  However, I'm really happy with my old photo gallery system and wanted to be able to show photos from the gallery in my MT entries.
 
   It only took me about three hours to adapt my image embedding tags into a MT text formatting plugin.  I still have to port my gallery pages to MT templates, stay tuned for a page on that once I get it done.
 
-published: true
-status: publish
 tags:
 - Photography
 title: Better Photo Handling In MovableType
-wordpress_id: 19
-wordpress_url: http://blog.mungosmash.com/?p=19
 ---
 After getting sick at the XBox developer conference (and dosing up on plenty of dextromethorphan) I decided to move my website content over to MovableType.  I had been using a home-brew system but it was nowhere near as feature rich as the MT system.  However, I'm really happy with my old photo gallery system and wanted to be able to show photos from the gallery in my MT entries.
 

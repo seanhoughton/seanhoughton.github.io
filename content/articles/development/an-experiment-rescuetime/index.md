@@ -1,20 +1,12 @@
 ---
 alias: /2009/03/an-experiment-rescuetime/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2009-03-08T15:44:41Z"
-date_gmt: 2009-03-08 23:44:41 -0700
-published: true
-status: publish
 tags:
 - Data
 - Visualization
 title: 'An Experiment: RescueTime'
-wordpress_id: 447
-wordpress_url: http://blog.mungosmash.com/?p=447
 ---
 RescueTime is a great tool for monitoring what you do.  It allows you to big-brother yourself.  You install a background service that monitors which applications you're using and it aggregates and sorts the data in a way that helps you understand what you're spening your time doing.
 

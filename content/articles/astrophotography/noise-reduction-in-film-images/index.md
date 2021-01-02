@@ -1,27 +1,19 @@
 ---
 alias: /2001/01/noise-reduction-in-film-images/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2001-01-01T18:37:48Z"
-date_gmt: 2001-01-02 02:37:48 -0800
 excerpt: The idea behind this method is that the low-light areas of the photograph
   need to be smoothed in order to remove grain artifacts while the bright stars and
   nebulosity should remain unchanged. To achieve this in Photoshop you need to construct
   a mask for the Gausian Blur filter.
 header:
 featured_image: /astrophotography/noise-reduction-in-film-images/teaser.jpg
-published: true
-status: publish
 tags:
 - Astrophotography
 - Photography
 thumbnail: /media/2008/12/1108708165_ngc7023ba_compare-300x210.jpg
 title: Noise Reduction In Film Images
-wordpress_id: 8
-wordpress_url: http://blog.mungosmash.com/?p=8
 ---
 **Update**: I now use Noise Ninja for all my noise reduction. It works really well.
 

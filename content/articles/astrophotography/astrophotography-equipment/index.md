@@ -1,23 +1,16 @@
 ---
 alias: /2001/01/astrophotography-equipment/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2001-01-02T19:51:03Z"
 header:
 featured_image: /astrophotography/astrophotography-equipment/teaser.jpg
-published: true
-status: publish
 tags:
 - Astrophotography
 - G11
 - Photography
 thumbnail: /media/2008/12/0007_sideviewfull-225x300.jpg
 title: Astrophotography Equipment
-wordpress_id: 10
-wordpress_url: http://blog.mungosmash.com/?p=10
 ---
 ### Takahashi FS102 Refractor
 

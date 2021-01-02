@@ -1,23 +1,15 @@
 ---
 alias: /2005/12/my-aperture-folder-structure/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2005-12-20T20:16:02Z"
-date_gmt: 2005-12-21 04:16:02 -0800
 excerpt: |+
   I've tried a couple Aperture folder hierarchies and this is the one that seems to work the best for me.
 
-published: true
-status: publish
 tags:
 - Aperture
 - Photography
 title: My Aperture Folder Structure
-wordpress_id: 33
-wordpress_url: http://blog.mungosmash.com/?p=33
 ---
 I've tried a couple Aperture folder hierarchies and this is the one that seems to work the best for me.
 

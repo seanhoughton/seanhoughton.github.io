@@ -1,8 +1,5 @@
 ---
 alias: /2002/02/g11-bearing-upgrade/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2002-02-17T00:00:00Z"
@@ -13,16 +10,12 @@ excerpt: |+
 
 header:
 featured_image: /astrophotography/g11-bearing-upgrade/teaser.jpg
-published: true
-status: publish
 tags:
 - Astrophotography
 - G11
 - Photography
 thumbnail: /media/2008/12/1108538642_newdecbearings.jpg
 title: G11 Bearing Upgrade
-wordpress_id: 13
-wordpress_url: http://blog.mungosmash.com/?p=13
 ---
 This is a tutorial on replacing the bearings on the Losmandy G11 telescope mount.  This may or may not improve the tracking ability.  It's kind of fun to do anyway.
 

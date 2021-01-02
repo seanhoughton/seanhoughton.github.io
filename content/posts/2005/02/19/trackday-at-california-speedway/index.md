@@ -1,26 +1,18 @@
 ---
 alias: /2005/02/trackday-at-california-speedway/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2005-02-19T19:04:43Z"
-date_gmt: 2005-02-20 03:04:43 -0800
 excerpt: In March 2005 I did a trackday at California Speedway in Fontana on my motorcycle.  It
   was my second trackday and I had a blast.
 header:
 featured_image: /posts/2005/02/19/trackday-at-california-speedway/teaser.jpeg
-published: true
-status: publish
 tags:
 - Fontana
 - Motorcycle
 - Trackday
 thumbnail: /media/2005/02/CaliforniaSpeedway.jpeg
 title: Trackday at California Speedway
-wordpress_id: 15
-wordpress_url: http://blog.mungosmash.com/?p=15
 ---
 ### Preparation
 

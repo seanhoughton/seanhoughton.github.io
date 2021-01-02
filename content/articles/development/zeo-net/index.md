@@ -1,17 +1,9 @@
 ---
 alias: /2011/02/zeo-net/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories: []
 date: "2011-02-22T21:14:11Z"
-date_gmt: 2011-02-23 05:14:11 -0800
-published: true
-status: publish
 tags: []
 title: Zeo.NET
-wordpress_id: 693
-wordpress_url: http://www.cerebiggum.com/
 ---
 [Download Zeo.NET](http://cerebiggum.com/deploy/zeo.net/Zeo.NET.zip)
 Requires .NET 4.0

@@ -1,16 +1,10 @@
 ---
 alias: /2008/12/m42-shot-with-a-canon-10d/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2008-12-29T12:58:11Z"
-date_gmt: 2008-12-29 20:58:11 -0800
 header:
 featured_image: /astrophotography/m42-shot-with-a-canon-10d/teaser.jpg
-published: true
-status: publish
 tags:
 - Astrophotography
 - G11
@@ -18,8 +12,6 @@ tags:
 - Takahashi
 thumbnail: /media/2009/01/m42-20081228.jpg
 title: M42 shot with a Canon 10D
-wordpress_id: 201
-wordpress_url: http://blog.mungosmash.com/?p=201
 ---
 It's been at least three years since I've done any astrophotograpy but last night I lugged out the equipment and shot a few frames.  I only made it out as far as the driveway and the sky isn't very dark in northern San Diego but it's amazing what kind of results you can get with a Canon 10D. Traditionally you would use either slide film or a cooled, black and white CCD sensor.
 

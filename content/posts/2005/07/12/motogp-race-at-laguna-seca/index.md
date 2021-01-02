@@ -1,23 +1,15 @@
 ---
 alias: /2005/07/the-2005-motogp-race-at-laguna-seca/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2005-07-12T23:10:48Z"
-date_gmt: 2005-07-13 07:10:48 -0700
 header:
 featured_image: /posts/2005/07/12/motogp-race-at-laguna-seca/teaser.jpeg
-published: true
-status: publish
 tags:
 - MotoGP
 - Motorcycle
 thumbnail: /media/2005/07/MotoGP_YellowRiders.jpeg
 title: The 2005 MotoGP Race at Laguna Seca
-wordpress_id: 23
-wordpress_url: http://blog.mungosmash.com/?p=23
 ---
 I just got back from the MotoGP race in Monterey!  These machines sound nothing like any race bike you've ever heard.
 

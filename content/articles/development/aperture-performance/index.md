@@ -1,23 +1,15 @@
 ---
 alias: /2005/12/aperture-performance/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2005-12-09T21:36:04Z"
-date_gmt: 2005-12-10 05:36:04 -0800
 excerpt: |+
   Apple's new Aperture program is awesome.  It's easily the best image cataloging program available, and it's in version 1.  However, the performance leaves quite a bit to be desired.  Here are the things I've discovered.
 
-published: true
-status: publish
 tags:
 - Aperture
 - Photography
 title: Aperture Performance
-wordpress_id: 31
-wordpress_url: http://blog.mungosmash.com/?p=31
 ---
 Apple's new Aperture program is awesome.  It's easily the best image cataloging program available, and it's in version 1.  However, the performance leaves quite a bit to be desired.  Here are the things I've discovered.
 

@@ -1,20 +1,12 @@
 ---
 alias: /2006/04/racetrack-from-my-perspective/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2006-04-01T00:15:13Z"
-date_gmt: 2006-04-01 08:15:13 -0800
-published: true
-status: publish
 tags:
 - Motorcycle
 - Trackday
 title: Racetrack From My Perspective.
-wordpress_id: 37
-wordpress_url: http://blog.mungosmash.com/?p=37
 ---
 I've recently uploaded some HD footage I have from my last trackday at Streets of Willow Raceway to youtube.
 

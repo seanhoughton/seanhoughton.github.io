@@ -1,16 +1,10 @@
 ---
 alias: /2010/11/scaled-dark-frames-in-maxim-dl-and-pixinsight/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2010-11-15T20:43:17Z"
-date_gmt: 2010-11-16 04:43:17 -0800
 header:
 featured_image: /astrophotography/scaled-dark-frames-in-maxim-dl-and-pixinsight/teaser.png
-published: true
-status: publish
 tags:
 - Astrophotography
 - Photography
@@ -18,8 +12,6 @@ tags:
 - MaxIm DL
 thumbnail: /media/2010/11/Original.png
 title: Scaled Dark Frames in MaxIm DL and PixInsight
-wordpress_id: 656
-wordpress_url: http://www.cerebiggum.com/?p=656
 ---
 
 <script type="text/javascript"

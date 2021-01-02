@@ -1,20 +1,13 @@
 ---
 alias: /2011/03/game-review-scores-part-ii/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2011-03-31T00:00:00Z"
 header:
 featured_image: /development/game-review-scores-part-ii/teaser.png
-published: true
-status: publish
 tags: []
 thumbnail: /media/2011/03/scatter-thumb.png
 title: Game Review Scores - Part II
-wordpress_id: 704
-wordpress_url: http://www.cerebiggum.com/?p=704
 ---
 In [Part I]({{< relref "game-review-scores-part-i" >}}) we looked at review scores in isolation. When we combine review score data with sales data some interesting patterns emerge. This section includes sales data from around 7,000 Xbox360 and Playstation2 games as well as the review score data from [Part I]({{< relref "game-review-scores-part-i" >}})
 

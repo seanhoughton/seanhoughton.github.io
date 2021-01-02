@@ -1,16 +1,10 @@
 ---
 alias: /2009/01/new-scans-of-old-astrophotos/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2009-01-16T00:34:22Z"
-date_gmt: 2009-01-16 08:34:22 -0800
 header:
 featured_image: /astrophotography/new-scans-of-old-astrophotos/teaser.jpg
-published: true
-status: publish
 tags:
 - Astrophotography
 - G11
@@ -18,8 +12,6 @@ tags:
 - Takahashi
 thumbnail: /media/2009/12/160601-6_9.jpg
 title: New Scans of Old Astrophotos
-wordpress_id: 335
-wordpress_url: http://blog.mungosmash.com/?p=335
 ---
 
 I recently had some of my old astrophoto slides scanned with a Noritsu slide scanner so I can put them into permanent storage and finally move into 100% digital photography. I've learned a lot about image processing and the tools are much better now than they were when I originally took the photos.

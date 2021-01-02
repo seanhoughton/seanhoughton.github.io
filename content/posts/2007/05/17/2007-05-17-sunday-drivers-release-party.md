@@ -1,22 +1,14 @@
 ---
 alias: /2007/05/sunday-drivers-release-party/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Uncategorized
 date: "2007-05-17T00:24:12Z"
-date_gmt: 2007-05-17 08:24:12 -0700
 excerpt: |+
   Come inside for the video.
 
-published: true
-status: publish
 tags:
 - Music
 title: Sunday Drivers Release Party
-wordpress_id: 44
-wordpress_url: http://blog.mungosmash.com/?p=44
 ---
 Come inside for the video.
 

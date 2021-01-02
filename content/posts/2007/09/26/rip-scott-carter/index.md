@@ -1,21 +1,13 @@
 ---
 alias: /2007/09/rip-scott-carter/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Uncategorized
 date: "2007-09-26T23:41:51Z"
-date_gmt: 2007-09-27 07:41:51 -0700
 header:
 featured_image: /posts/2007/09/26/rip-scott-carter/teaser.jpg
-published: true
-status: publish
 tags: []
 thumbnail: /media/motorcycles/IMG_0477.jpg
 title: RIP Scott Carter
-wordpress_id: 46
-wordpress_url: http://blog.mungosmash.com/?p=46
 ---
 
 ![](IMG_0477.jpg)

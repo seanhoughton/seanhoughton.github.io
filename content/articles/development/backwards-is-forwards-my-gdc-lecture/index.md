@@ -1,19 +1,13 @@
 ---
 alias: /2006/03/backwards-is-forwards-my-gdc-lecture/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2006-03-27T10:04:11Z"
-date_gmt: 2006-03-27 18:04:11 -0800
 excerpt: |+
   Noel Llopis and I did a lecture at the Game Developer Conference this year about test driven development.  It's a process we're using at High Moon and I use at home for all my coding.  Gamasutra wrote <a href="http://www.gamasutra.com/features/20060322/duffy_01.shtml">an article about it</a>, but they're the ones throwing the conference so it's not unexpected.
 
 
 
-published: true
-status: publish
 tags:
 - Games
 - GDC
@@ -21,8 +15,6 @@ tags:
 - TDD
 - Unit test
 title: Backwards is Forwards, my GDC lecture
-wordpress_id: 36
-wordpress_url: http://blog.mungosmash.com/?p=36
 ---
 Noel Llopis and I did a lecture at the Game Developer Conference this year about test driven development.  It's a process we're using at High Moon and I use at home for all my coding.  Gamasutra wrote <a href="http://www.gamasutra.com/features/20060322/duffy_01.shtml">an article about it</a>, but they're the ones throwing the conference so it's not unexpected.
 

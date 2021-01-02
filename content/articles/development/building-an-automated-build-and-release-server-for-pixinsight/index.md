@@ -1,23 +1,15 @@
 ---
 alias: /2010/12/building-an-automated-build-and-release-server-for-pixinsight/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2010-12-22T00:43:27Z"
-date_gmt: 2010-12-22 08:43:27 -0800
 header:
 featured_image: /development/building-an-automated-build-and-release-server-for-pixinsight/teaser.png
-published: true
-status: publish
 tags:
 - Astrophotography
 - PixInsight
 thumbnail: /media/2010/12/NewJob.png
 title: Building an Automated Build and Release Server for PixInsight
-wordpress_id: 674
-wordpress_url: http://www.cerebiggum.com/?p=674
 ---
 PixInsight 1.6.9 introduced a new automated update system - a system that allows developers to easily deploy updates as soon as they are ready. Automated deployment can bebothamazingly convenient for your users and a complete nightmare for the developer. Without proper automation accidents will happen and user experience will suffer. This post details a method for automating the deployment of your software in an effort to minimize defective releases. The example content is a simple PJSR script, but the described method applies to PCL modules.
 

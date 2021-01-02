@@ -1,25 +1,17 @@
 ---
 alias: /2005/05/trackday-and-ama-race-at-fontana/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2005-05-05T19:08:50Z"
-date_gmt: 2005-05-06 03:08:50 -0700
 excerpt: I recently did a trackday followed by an AMA race the next weekend at Fontana.  They're
   both in the same article because I'm lazy.
 header:
 featured_image: /posts/2005/05/05/trackday-and-ama-race-at-fontana/teaser.jpeg
-published: true
-status: publish
 tags:
 - Motorcycle
 - Trackday
 thumbnail: /media/2005/05/Speedway_Turn9.jpeg
 title: Trackday and AMA race at Fontana
-wordpress_id: 17
-wordpress_url: http://blog.mungosmash.com/?p=17
 ---
 Another track day!
 

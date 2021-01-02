@@ -1,16 +1,10 @@
 ---
 alias: /2011/05/balance-and-flow-maps/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2011-05-31T22:37:24Z"
-date_gmt: 2011-06-01 06:37:24 -0700
 header:
 featured_image: /development/balance-and-flow-maps/teaser.png
-published: true
-status: publish
 tags:
 - Data
 - Games
@@ -18,8 +12,6 @@ tags:
 - Tableau
 thumbnail: /media/2011/05/BalanceHeatmap.png
 title: Balance and Flow Maps
-wordpress_id: 714
-wordpress_url: http://www.cerebiggum.com/?p=714
 ---
 
 Heatmaps are an excellent tool for visualizing data with a two dimensional spatial component. They are frequently used to map out player deaths in shooter games. The most common heatmaps use the location of the victim and aggregate the number of kills as the visualized measure. However, this simple metric doesn't tell the whole story. With a few simple tweaks we can build balance and flow maps, which can be useful tools for understanding the way players use the map.

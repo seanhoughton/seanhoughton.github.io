@@ -1,20 +1,13 @@
 ---
 alias: /2011/03/game-review-scores-part-iii/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2011-03-31T00:00:00Z"
 header:
 featured_image: /development/game-review-scores-part-iii/teaser.png
-published: true
-status: publish
 tags: []
 thumbnail: /media/2011/03/scatter-thumb.png
 title: Game Review Scores - Part III
-wordpress_id: 705
-wordpress_url: http://www.cerebiggum.com/?p=705
 ---
 ### Scraping Data
 

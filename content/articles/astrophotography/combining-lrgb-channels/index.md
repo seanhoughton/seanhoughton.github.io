@@ -1,23 +1,15 @@
 ---
 alias: /2001/01/combining-lrgb-channels/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2001-01-02T18:53:40Z"
-date_gmt: 2001-01-03 02:53:40 -0800
 excerpt: Many astrophotographs are taken as multiple monochromatic photos that need
   to be combined into a color finished product later.  Each photo editing package
   seems to have it's own method.  This is a short review of what I have.
-published: true
-status: publish
 tags:
 - Astrophotography
 - Photography
 title: Combining LRGB Channels
-wordpress_id: 9
-wordpress_url: http://blog.mungosmash.com/?p=9
 ---
 Because most CCD cameras made for astronomy are monochromatic it is neccessary to place a series of filters over the camera and take seperate images that each cover a different spectral region. These images can then be combined to create a "true-color" image. The problem with placing filters over the camera is that it reduces the amount of light that strikes the chip. This means you need to take longer exposures. However, many CCD cameras have a feature called "binning" that allows you to add the values of 4 (or more) adjacent pixels into a single pixel. This results in a loss in noise (for reasons I will not get in to) and an apparent increase in sensitivity - meaning shorter exposures. The only bad part is that it cuts the resolution of the image in half.
 

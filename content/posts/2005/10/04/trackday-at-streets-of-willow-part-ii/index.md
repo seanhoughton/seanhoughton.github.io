@@ -1,24 +1,16 @@
 ---
 alias: /2005/10/trackday-at-streets-of-willow-part-ii/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2005-10-04T20:32:17Z"
-date_gmt: 2005-10-05 04:32:17 -0700
 header:
 featured_image: /posts/2005/10/04/trackday-at-streets-of-willow-part-ii/teaser.jpeg
-published: true
-status: publish
 tags:
 - Motorcycle
 - Trackday
 - Streets of Willow
 thumbnail: /media/2005/10/PICT0053.jpeg
 title: Trackday at Streets of Willow (Part II)
-wordpress_id: 30
-wordpress_url: http://blog.mungosmash.com/?p=30
 ---
 Finally, another trackday at Streets.  Last time I had this minor issue with cold tires.  No way that was happening again.  Stephane is busy healing so Joel and I requisitioned all his gear - car, trailer, generator, tire warmers - you name it we requisitioned it.
 

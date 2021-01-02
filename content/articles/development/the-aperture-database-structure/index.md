@@ -1,23 +1,15 @@
 ---
 alias: /2005/12/the-aperture-database-structure/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2005-12-09T22:15:54Z"
-date_gmt: 2005-12-10 06:15:54 -0800
 excerpt: "I'm working on decoding the Aperture database structure.  Just playing around
   in the database has been very interesting.\r\n\r\n<i>Update: this was written with
   Aperture 1.0 in mind.  This is probably completely inaccurate now</i>\r\n\r\n"
-published: true
-status: publish
 tags:
 - Aperture
 - Photography
 title: The Aperture Database Structure
-wordpress_id: 32
-wordpress_url: http://blog.mungosmash.com/?p=32
 ---
 I'm working on decoding the Aperture database structure.  Just playing around in the database has been very interesting.
 

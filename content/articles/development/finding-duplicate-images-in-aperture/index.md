@@ -1,27 +1,19 @@
 ---
 alias: /2006/04/finding-duplicate-images-in-aperture/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 - Programming
 date: "2006-04-08T19:47:55Z"
-date_gmt: 2006-04-09 03:47:55 -0700
 excerpt: |+
   While playing around with the Aperture database I decided to try to make something useful.  The result is an Automator workflow that looks for duplicate master image names.
 
 header:
 featured_image: /development/finding-duplicate-images-in-aperture/teaser.png
-published: true
-status: publish
 tags:
 - Aperture
 - Photography
 thumbnail: /system/images/code-thumb.png
 title: Finding Duplicate Images in Aperture
-wordpress_id: 39
-wordpress_url: http://blog.mungosmash.com/?p=39
 ---
 While playing around with the Aperture database I decided to try to make something useful.  The result is an Automator workflow that looks for duplicate master image names.
 

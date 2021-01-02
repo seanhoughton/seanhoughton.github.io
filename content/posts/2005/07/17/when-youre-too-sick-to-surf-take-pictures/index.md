@@ -1,22 +1,14 @@
 ---
 alias: /2005/07/when-youre-too-sick-to-surf-take-pictures/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2005-07-17T14:59:11Z"
-date_gmt: 2005-07-17 22:59:11 -0700
 header:
 featured_image: /posts/2005/07/17/when-youre-too-sick-to-surf-take-pictures/teaser.jpg
-published: true
-status: publish
 tags:
 - Surf
 thumbnail: /media/surfing/strangers/1121636642_IMG_0355_001.jpg
 title: When You're Too Sick To Surf, Take Pictures
-wordpress_id: 25
-wordpress_url: http://blog.mungosmash.com/?p=25
 ---
 I managed to injure my ankle and get pretty sick right when a large swell showed up in San Diego.  The weather was awesome so all I could get was vicarious surfage.
 

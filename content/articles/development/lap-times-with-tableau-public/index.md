@@ -1,23 +1,15 @@
 ---
 alias: /2010/03/lap-times-with-tableau-public/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 - Visualization
 date: "2010-03-12T00:19:03Z"
-date_gmt: 2010-03-12 08:19:03 -0800
-published: true
-status: publish
 tags:
 - Data
 - Motorcycle
 - Trackday
 - Visualization
 title: Lap Times with Tableau Public
-wordpress_id: 586
-wordpress_url: http://blog.mungosmash.com/?p=586
 ---
 I've combined my love of track days with my love of data analytics.  Here's a summary of data from my lap timer.
 

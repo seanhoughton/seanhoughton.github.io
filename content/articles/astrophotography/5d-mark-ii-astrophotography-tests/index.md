@@ -1,16 +1,10 @@
 ---
 alias: /2009/01/5d-mark-ii-astrophotography-tests/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Photography
 date: "2009-01-18T00:37:37Z"
-date_gmt: 2009-01-18 08:37:37 -0800
 header:
 featured_image: /astrophotography/5d-mark-ii-astrophotography-tests/teaser.jpg
-published: true
-status: publish
 tags:
 - 5D
 - Astrophotography
@@ -19,8 +13,6 @@ tags:
 - Takahashi
 thumbnail: /media/2009/01/iso-diff.jpg
 title: 5D Mark II Astrophotography Tests
-wordpress_id: 353
-wordpress_url: http://blog.mungosmash.com/?p=353
 ---
 There have been a lot of reports of the 5D's trouble with bright point lights. I recently updated to the new firmware (version 1.0.7) and took some test shots with the 5D Mark II and a Takahashi FS102 refractor. I also wanted to test out the sensitivity at various ISO values. All these pictures were taken from my driveway on a day with fairly bad seeing and transparency. I got out a ladder and threw a blanket over one of the street lights but it didn't help much with the sky glow.
 

@@ -1,16 +1,10 @@
 ---
 alias: /2008/12/realtime-earthquake-map/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Visualization
 date: "2008-12-07T00:04:34Z"
-date_gmt: 2008-12-07 08:04:34 -0800
 header:
 featured_image: /development/realtime-earthquake-map/teaser.png
-published: true
-status: publish
 tags:
 - Data
 - Earthquake
@@ -20,8 +14,6 @@ tags:
 - Visualization
 thumbnail: /media/2008/12/quakes.png
 title: Real-Time Earthquake Map
-wordpress_id: 58
-wordpress_url: http://blog.mungosmash.com/?p=58
 ---
 
 *Update: the USGS has changed their service and this app no longer works.  Plus, I lost the source code after a hard drive crash. Remember - back up your data!*

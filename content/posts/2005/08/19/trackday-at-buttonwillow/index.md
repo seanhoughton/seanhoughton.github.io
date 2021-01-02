@@ -1,24 +1,16 @@
 ---
 alias: /2005/08/trackday-at-buttonwillow/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Motorcycles
 date: "2005-08-19T00:27:38Z"
-date_gmt: 2005-08-19 08:27:38 -0700
 header:
 featured_image: /posts/2005/08/19/trackday-at-buttonwillow/teaser.jpeg
-published: true
-status: publish
 tags:
 - Buttonwillow
 - Motorcycle
 - Trackday
 thumbnail: /media/2005/08/CRW_3401.jpeg
 title: Trackday at Buttonwillow
-wordpress_id: 27
-wordpress_url: http://blog.mungosmash.com/?p=27
 ---
 Stephane and I did a two day trackday at Buttonwillow.  It was between 95 and 100 degrees most of the day, but going for two days was an interesting experience.
 

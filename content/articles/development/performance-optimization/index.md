@@ -1,12 +1,8 @@
 ---
 alias: /2006/07/performance-optimization/index.html
-author: Sean
-author_email: sean.houghton@gmail.com
-author_login: Sean
 categories:
 - Programming
 date: "2006-07-02T23:33:31Z"
-date_gmt: 2006-07-03 07:33:31 -0700
 excerpt: |+
   Results of performance optimization study on both PowerPC and CoreDuo machines.  100 runs of the same two functions were done and the best time from each is recorded as changed are made to the code and compiler flags.
 
@@ -16,8 +12,6 @@ excerpt: |+
 
 header:
 featured_image: /development/performance-optimization/teaser.png
-published: true
-status: publish
 tags:
 - CoreDuo
 - G5
@@ -25,8 +19,6 @@ tags:
 - Performance
 thumbnail: /system/images/code-thumb.png
 title: Performance Optimization
-wordpress_id: 43
-wordpress_url: http://blog.mungosmash.com/?p=43
 ---
 Results of performance optimization study on both PowerPC and CoreDuo machines.  100 runs of the same two functions were done and the best time from each is recorded as changed are made to the code and compiler flags.
 
