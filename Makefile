@@ -9,4 +9,4 @@ site:
 
 .PHONY: publish
 publish: site
-	hugo deploy gcp
+	GOOGLE_APPLICATION_CREDENTIALS=gcp-creds.json hugo deploy gcp

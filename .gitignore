@@ -4,3 +4,4 @@ public/
 *.sublime-workspace
 .sass-cache/
 .cache/
+gcp-creds.json
