@@ -5,6 +5,8 @@ title: Sean Houghton
 theme: ananke
 
 SectionPagesMenu: main
+enableRobotsTXT: true
+Paginate: 10
 
 params:
   favicon: ""
@@ -23,7 +25,7 @@ params:
   rss: ""
   background_color_class: "bg-black"
   featured_image: "/media/system/galaxy-header.jpg"
-  recent_posts_number: 2
+  recent_posts_number: 5
 
 markup:
   goldmark:
