@@ -4,7 +4,7 @@ categories:
 - Uncategorized
 date: "2010-06-27T16:50:35Z"
 header:
-featured_image: /posts/2010/06/27/worst-phone-ever/teaser.png
+featured_image: /news/2010/06/27/worst-phone-ever/teaser.png
 tags:
 - Data
 - iPhone
