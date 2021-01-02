@@ -24,3 +24,4 @@ I used to do artwork for Vision Scape Imaging.  Here are some work and personal 
 
 ![](1108607744_anton.jpg)
 
+![](1108607318_telescope.jpg)

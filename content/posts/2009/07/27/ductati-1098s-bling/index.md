@@ -21,14 +21,14 @@ wordpress_url: http://blog.mungosmash.com/?p=494
 ---
 I love the craftsmanship of Ducati motorcycles but it's impossible to resist upgrading it.  I'm a fan of subtle enhancements and details so I went with machined parts that blend with the amazing look and finish of the factory bike.
 
-![](IMG_0786-300x200.png)
+![](IMG_0786.png)
 
-![](IMG_0788-300x200.png)
+![](IMG_0788.png)
 
-![](IMG_0800-300x200.png)
+![](IMG_0800.png)
 
-![](IMG_0796-300x200.png)
+![](IMG_0796.png)
 
 #### Random Track Picture (I'm in the yellow helmet)
 
-![](PICT0004-300x225.png)
+![](PICT0004.png)

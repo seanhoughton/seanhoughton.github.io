@@ -28,7 +28,7 @@ This is the result of 7 stacked images ranging from seconds to 5 minutes,totalin
 
 #### The Orion Nebula
 
-[![]({{site.url_root}}/media/2008/12/m42-20081228-01.jpg)]({{site.url_root}}/media/2008/12/m42-20081228-01.jpg)
+![](m42-200812281.jpg)
 
 - Canon 10D camera
 - Takahashi FS102 telescope
@@ -40,4 +40,4 @@ Compare this with my best M42 shot on film a few years ago. This picture was tak
 
 #### The Orion Nebula on Kodak Supra Film
 
-[![]({{site.url_root}}/media/2008/12/m42_03-300x198.jpg)]({{site.url_root}}/media/2008/12/m42_03.jpg)
+![](m42_03.jpg)
