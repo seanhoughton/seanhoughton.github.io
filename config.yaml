@@ -24,10 +24,6 @@ params:
   background_color_class: "bg-black"
   featured_image: "/media/system/galaxy-header.jpg"
   recent_posts_number: 2
-  mainSections:
-    - posts
-    - astrophotography
-    - development
 
 markup:
   goldmark:
