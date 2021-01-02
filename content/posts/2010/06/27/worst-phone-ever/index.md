@@ -8,7 +8,7 @@ categories:
 date: "2010-06-27T16:50:35Z"
 date_gmt: 2010-06-28 00:50:35 -0700
 header:
-  teaser: /media/2010/06/DroppedCallMap.png
+featured_image: /posts/2010/06/27/worst-phone-ever/teaser.png
 published: true
 status: publish
 tags:

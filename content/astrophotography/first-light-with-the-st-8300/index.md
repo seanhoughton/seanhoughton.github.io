@@ -8,7 +8,7 @@ categories:
 date: "2010-11-16T21:18:35Z"
 date_gmt: 2010-11-17 05:18:35 -0800
 header:
-  teaser: /media/2010/11/5172597803_b1da66100c_z-300x225.jpg
+featured_image: /astrophotography/first-light-with-the-st-8300/teaser.jpg
 published: true
 status: publish
 tags:

@@ -8,7 +8,7 @@ categories:
 date: "2007-09-26T23:41:51Z"
 date_gmt: 2007-09-27 07:41:51 -0700
 header:
-  teaser: /media/motorcycles/IMG_0477.jpg
+featured_image: /posts/2007/09/26/rip-scott-carter/teaser.jpg
 published: true
 status: publish
 tags: []

@@ -8,7 +8,7 @@ categories:
 date: "2010-06-17T15:11:22Z"
 date_gmt: 2010-06-17 23:11:22 -0700
 header:
-  teaser: /media/2010/06/TransformersWFC-Demo-300x207.png
+featured_image: /development/the-transformers-xbox-360-demo-is-live/teaser.png
 published: true
 status: publish
 tags:

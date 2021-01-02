@@ -11,7 +11,7 @@ excerpt: |+
   This is a faithful retelling Canadian odyssey.
 
 header:
-  teaser: /media/vacation/canada/1120712395_Trip_EU_Home.jpg
+featured_image: /posts/2005/07/06/road-trip-to-canada/teaser.jpg
 published: true
 status: publish
 tags: []

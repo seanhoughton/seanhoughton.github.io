@@ -8,7 +8,7 @@ categories:
 date: "2009-03-11T12:15:27Z"
 date_gmt: 2009-03-11 20:15:27 -0700
 header:
-  teaser: /media/2009/03/bad-gdc-scheduling.png
+featured_image: /development/bad-game-developer-conference-scheduling/teaser.png
 published: true
 status: publish
 tags: []

@@ -8,7 +8,7 @@ categories:
 date: "2009-01-27T22:16:12Z"
 date_gmt: 2009-01-28 06:16:12 -0800
 header:
-  teaser: /media/2009/12/160601-6_9-300x224.jpg
+featured_image: /astrophotography/the-lagoon-nebula/teaser.jpg
 published: true
 status: publish
 tags: []

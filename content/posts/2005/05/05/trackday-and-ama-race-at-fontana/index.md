@@ -10,7 +10,7 @@ date_gmt: 2005-05-06 03:08:50 -0700
 excerpt: I recently did a trackday followed by an AMA race the next weekend at Fontana.  They're
   both in the same article because I'm lazy.
 header:
-  teaser: /media/2005/05/Speedway_Turn9.jpeg
+featured_image: /posts/2005/05/05/trackday-and-ama-race-at-fontana/teaser.jpeg
 published: true
 status: publish
 tags:

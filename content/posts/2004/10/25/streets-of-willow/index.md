@@ -12,7 +12,7 @@ excerpt: "First trackday!  Many more followed, but this is the one that started 
   src=\"{{site.url_root}}/media/2004/10/StreetsOfWillow_08.jpeg\" alt=\"\" title=\"StreetsOfWillow_08\"
   width=\"500\" height=\"395\" class=\"aligncenter size-full wp-image-738\" /></a>\r\n\r\n"
 header:
-  teaser: /media/2004/10/StreetsOfWillow_30.jpeg
+featured_image: /posts/2004/10/25/streets-of-willow/teaser.jpeg
 published: true
 status: publish
 tags:

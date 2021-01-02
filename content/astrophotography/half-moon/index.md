@@ -8,7 +8,7 @@ categories:
 date: "2009-01-23T23:21:52Z"
 date_gmt: 2009-01-24 07:21:52 -0800
 header:
-  teaser: /media/2009/01/crw_7395-300x300.jpg
+featured_image: /astrophotography/half-moon/teaser.jpg
 published: true
 status: publish
 tags:

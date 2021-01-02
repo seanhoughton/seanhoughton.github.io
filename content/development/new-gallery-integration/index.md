@@ -8,7 +8,7 @@ categories:
 date: "2007-06-01T20:27:27Z"
 date_gmt: 2007-06-02 04:27:27 -0700
 header:
-  teaser: /system/images/code-thumb.png
+featured_image: /development/new-gallery-integration/teaser.png
 published: true
 status: publish
 tags:

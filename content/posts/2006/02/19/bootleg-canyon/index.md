@@ -11,7 +11,7 @@ excerpt: |+
   Recently went on a trip to Bootleg Canyon and Las Vegas.
 
 header:
-  teaser: /media/2006/02/1140419612_BootlegCliffs.jpg
+featured_image: /posts/2006/02/19/bootleg-canyon/teaser.jpg
 published: true
 status: publish
 tags:

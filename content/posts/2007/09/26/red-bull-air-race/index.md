@@ -8,7 +8,7 @@ categories:
 date: "2007-09-26T23:51:42Z"
 date_gmt: 2007-09-27 07:51:42 -0700
 header:
-  teaser: /media/2007/09/CRW_5670-300x214.jpg
+featured_image: /posts/2007/09/26/red-bull-air-race/teaser.jpg
 published: true
 status: publish
 tags:

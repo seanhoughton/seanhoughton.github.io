@@ -8,7 +8,7 @@ categories:
 date: "2008-12-07T00:04:34Z"
 date_gmt: 2008-12-07 08:04:34 -0800
 header:
-  teaser: /media/2008/12/quakes.png
+featured_image: /development/realtime-earthquake-map/teaser.png
 published: true
 status: publish
 tags:

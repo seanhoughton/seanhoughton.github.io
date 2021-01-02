@@ -8,7 +8,7 @@ categories:
 date: "2005-07-03T19:10:29Z"
 date_gmt: 2005-07-04 03:10:29 -0700
 header:
-  teaser: /media/2005/07/SeanTurn1Fontana.jpeg
+featured_image: /posts/2005/07/03/trackday-at-california-speedway-2/teaser.jpeg
 published: true
 status: publish
 tags:

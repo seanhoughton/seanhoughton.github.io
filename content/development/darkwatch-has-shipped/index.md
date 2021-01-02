@@ -8,7 +8,7 @@ categories:
 date: "2005-09-25T16:09:16Z"
 date_gmt: 2005-09-26 00:09:16 -0700
 header:
-  teaser: /media/2005/09/darkwatch.jpg
+featured_image: /development/darkwatch-has-shipped/teaser.jpg
 published: true
 status: publish
 tags:

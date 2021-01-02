@@ -8,7 +8,7 @@ categories:
 date: "2005-08-19T00:27:38Z"
 date_gmt: 2005-08-19 08:27:38 -0700
 header:
-  teaser: /media/2005/08/CRW_3401.jpeg
+featured_image: /posts/2005/08/19/trackday-at-buttonwillow/teaser.jpeg
 published: true
 status: publish
 tags:

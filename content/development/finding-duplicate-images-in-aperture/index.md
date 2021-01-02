@@ -12,7 +12,7 @@ excerpt: |+
   While playing around with the Aperture database I decided to try to make something useful.  The result is an Automator workflow that looks for duplicate master image names.
 
 header:
-  teaser: /system/images/code-thumb.png
+featured_image: /development/finding-duplicate-images-in-aperture/teaser.png
 published: true
 status: publish
 tags:

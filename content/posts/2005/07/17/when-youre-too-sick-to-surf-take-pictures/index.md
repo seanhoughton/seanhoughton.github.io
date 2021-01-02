@@ -8,7 +8,7 @@ categories:
 date: "2005-07-17T14:59:11Z"
 date_gmt: 2005-07-17 22:59:11 -0700
 header:
-  teaser: /media/surfing/strangers/1121636642_IMG_0355_001.jpg
+featured_image: /posts/2005/07/17/when-youre-too-sick-to-surf-take-pictures/teaser.jpg
 published: true
 status: publish
 tags:

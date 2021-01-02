@@ -8,7 +8,7 @@ categories:
 date: "2005-07-12T23:10:48Z"
 date_gmt: 2005-07-13 07:10:48 -0700
 header:
-  teaser: /media/2005/07/MotoGP_YellowRiders.jpeg
+featured_image: /posts/2005/07/12/motogp-race-at-laguna-seca/teaser.jpeg
 published: true
 status: publish
 tags:

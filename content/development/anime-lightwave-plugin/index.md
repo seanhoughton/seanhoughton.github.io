@@ -11,7 +11,7 @@ excerpt: |+
   When I worked at VSI I created a bunch of custom Lightwave plugins.  This is one that was never released, but it was pretty cool.
 
 header:
-  teaser: /media/2000/01/1108607942_anime_pic1.jpg
+featured_image: /development/anime-lightwave-plugin/teaser.jpg
 published: true
 status: publish
 tags:

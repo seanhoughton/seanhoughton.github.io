@@ -8,7 +8,7 @@ categories:
 date: "2006-04-09T21:59:52Z"
 date_gmt: 2006-04-10 05:59:52 -0700
 header:
-  teaser: /media/2006/04/CRW_4067.jpeg
+featured_image: /posts/2006/04/09/road-1-joel-0/teaser.jpeg
 published: true
 status: publish
 tags:

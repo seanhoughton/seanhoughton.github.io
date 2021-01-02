@@ -2,7 +2,7 @@
 alias: /2011/02/sky-limited-exposure/index.html
 date: "2011-02-22T00:00:00Z"
 header:
-  teaser: /media/2010/11/SkyLimitedExposure-0.2.png
+featured_image: /astrophotography/sky-limited-exposure/teaser.png
 published: true
 status: publish
 thumbnail: /media/2010/11/SkyLimitedExposure-0.2.png

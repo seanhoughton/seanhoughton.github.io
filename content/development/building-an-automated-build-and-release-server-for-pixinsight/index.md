@@ -8,7 +8,7 @@ categories:
 date: "2010-12-22T00:43:27Z"
 date_gmt: 2010-12-22 08:43:27 -0800
 header:
-  teaser: /media/2010/12/NewJob.png
+featured_image: /development/building-an-automated-build-and-release-server-for-pixinsight/teaser.png
 published: true
 status: publish
 tags:

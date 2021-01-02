@@ -8,7 +8,7 @@ categories:
 date: "2005-10-04T20:32:17Z"
 date_gmt: 2005-10-05 04:32:17 -0700
 header:
-  teaser: /media/2005/10/PICT0053.jpeg
+featured_image: /posts/2005/10/04/trackday-at-streets-of-willow-part-ii/teaser.jpeg
 published: true
 status: publish
 tags:

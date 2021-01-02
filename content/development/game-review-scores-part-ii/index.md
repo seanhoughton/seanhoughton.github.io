@@ -7,7 +7,7 @@ categories:
 - Visualization
 date: "2011-03-31T00:00:00Z"
 header:
-  teaser: /media/2011/03/scatter-thumb.png
+featured_image: /development/game-review-scores-part-ii/teaser.png
 published: true
 status: publish
 tags: []

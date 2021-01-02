@@ -10,7 +10,7 @@ date_gmt: 2008-12-28 04:47:22 -0800
 excerpt: |
   <a href="http://www.highmoonstudios.com"><img class="alignleft size-full wp-image-348" title="highmoonlogo" src="{{site.url_root}}/media/2009/01/highmoonlogo.png" alt="highmoonlogo" width="59" height="105" /></a>Console video games run on memory restricted environments and even with half a gigabyte of space it runs out quickly. It's easy to know when you're out of memory, what we want to know is exactly what approach to take to fix the problem. With all the information available the challenge is presenting the information in a way that gives clear indication of problems while providing enough low-level detail to zero in on individual assets. Additionally, we would like to be able to predict problems ahead of time. This article describes the approach we've taken at High Moon Studios to make the state of memory usage visible to the team and provide tools for detailed analysis.
 header:
-  teaser: /media/2009/01/teambars2.png
+featured_image: /development/using-dashboards-to-reinforce-memory-budgets/teaser.png
 published: true
 status: publish
 tags:

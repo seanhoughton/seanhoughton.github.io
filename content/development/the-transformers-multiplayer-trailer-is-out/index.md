@@ -8,7 +8,7 @@ categories:
 date: "2010-04-06T17:05:46Z"
 date_gmt: 2010-04-07 01:05:46 -0700
 header:
-  teaser: /media/2010/06/TransformersWFC-Demo-300x207.png
+featured_image: /development/the-transformers-multiplayer-trailer-is-out/teaser.png
 published: true
 status: publish
 tags: []

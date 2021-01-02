@@ -1,8 +1,6 @@
 ---
 alias: /2011/07/thrift-protocols-ajax-and-language-support/index.html
 date: "2011-07-18T00:00:00Z"
-header:
-  teaser: /system/images/code-thumb.png
 tags:
 - thrift
 - c#
@@ -12,6 +10,8 @@ title: Thrift Protocols, AJAX, and Language Support
 Two of the major strengths of Thrift are its support for a wide range of languages as well as its collection of available protocols. However, not every protocol is available for every language and not all protocols perform the same. I’ve spent a little time researching these issues and this is a quick summary of the results.
 
 ### Language Support
+
+![](Thrift-Protocol-Compatibility.png)
 
 Thrift supports a wide range of languages, but the support is not uniform. It’s clear that C++ is the primary language given that it supports all the protocols.
 

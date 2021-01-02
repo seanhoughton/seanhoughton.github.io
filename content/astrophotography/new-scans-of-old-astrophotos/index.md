@@ -8,7 +8,7 @@ categories:
 date: "2009-01-16T00:34:22Z"
 date_gmt: 2009-01-16 08:34:22 -0800
 header:
-  teaser: /media/2009/12/160601-6_9.jpg
+featured_image: /astrophotography/new-scans-of-old-astrophotos/teaser.jpg
 published: true
 status: publish
 tags:

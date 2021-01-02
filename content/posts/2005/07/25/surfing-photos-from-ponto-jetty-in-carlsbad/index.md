@@ -8,7 +8,7 @@ categories:
 date: "2005-07-25T21:56:41Z"
 date_gmt: 2005-07-26 05:56:41 -0700
 header:
-  teaser: /media/surfing/strangers/1121637013_IMG_0424.jpg
+featured_image: /posts/2005/07/25/surfing-photos-from-ponto-jetty-in-carlsbad/teaser.jpg
 published: true
 status: publish
 tags:

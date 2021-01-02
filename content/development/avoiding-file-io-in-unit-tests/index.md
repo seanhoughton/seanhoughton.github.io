@@ -14,7 +14,7 @@ excerpt: "Noel's article <a title=\"Games from Within: Stepping Through the Look
   or legacy code that requires deserialization to construct objects.  What do you
   do?\r\n\r\n"
 header:
-  teaser: /system/images/code-thumb.png
+featured_image: /development/avoiding-file-io-in-unit-tests/teaser.png
 published: true
 status: publish
 tags:

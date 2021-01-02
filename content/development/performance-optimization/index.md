@@ -15,7 +15,7 @@ excerpt: |+
   The "Diffuse" test runs a fluid diffusion pass on a 2D array of vectors.
 
 header:
-  teaser: /system/images/code-thumb.png
+featured_image: /development/performance-optimization/teaser.png
 published: true
 status: publish
 tags:

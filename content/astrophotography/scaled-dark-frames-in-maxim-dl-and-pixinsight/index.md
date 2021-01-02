@@ -8,7 +8,7 @@ categories:
 date: "2010-11-15T20:43:17Z"
 date_gmt: 2010-11-16 04:43:17 -0800
 header:
-  teaser: /media/2010/11/Original.png
+featured_image: /astrophotography/scaled-dark-frames-in-maxim-dl-and-pixinsight/teaser.png
 published: true
 status: publish
 tags:

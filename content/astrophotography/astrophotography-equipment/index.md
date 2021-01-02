@@ -7,7 +7,7 @@ categories:
 - Photography
 date: "2001-01-02T19:51:03Z"
 header:
-  teaser: /media/2008/12/0007_sideviewfull-225x300.jpg
+featured_image: /astrophotography/astrophotography-equipment/teaser.jpg
 published: true
 status: publish
 tags:

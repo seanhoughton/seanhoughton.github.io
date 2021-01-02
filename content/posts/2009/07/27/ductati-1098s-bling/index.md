@@ -8,7 +8,7 @@ categories:
 date: "2009-07-27T22:18:42Z"
 date_gmt: 2009-07-28 06:18:42 -0700
 header:
-  teaser: /media/2009/07/IMG_0796-300x200.png
+featured_image: /posts/2009/07/27/ductati-1098s-bling/teaser.png
 published: true
 status: publish
 tags:

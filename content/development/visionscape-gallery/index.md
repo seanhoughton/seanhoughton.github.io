@@ -8,7 +8,7 @@ categories:
 date: "2000-01-16T18:55:46Z"
 date_gmt: 2000-01-17 02:55:46 -0800
 header:
-  teaser: /media/2009/01/1108607594_tugger.jpg
+featured_image: /development/visionscape-gallery/teaser.jpg
 published: true
 status: publish
 tags:

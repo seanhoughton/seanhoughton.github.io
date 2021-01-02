@@ -10,7 +10,7 @@ date_gmt: 2005-02-20 03:04:43 -0800
 excerpt: In March 2005 I did a trackday at California Speedway in Fontana on my motorcycle.  It
   was my second trackday and I had a blast.
 header:
-  teaser: /media/2005/02/CaliforniaSpeedway.jpeg
+featured_image: /posts/2005/02/19/trackday-at-california-speedway/teaser.jpeg
 published: true
 status: publish
 tags:

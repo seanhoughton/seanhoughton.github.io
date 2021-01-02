@@ -8,7 +8,7 @@ categories:
 date: "2002-02-16T18:57:12Z"
 date_gmt: 2002-02-17 02:57:12 -0800
 header:
-  teaser: /media/2008/12/1108606025_stuffyouneed-258x300.jpg
+featured_image: /astrophotography/adding-a-set-screw/teaser.jpg
 published: true
 status: publish
 tags:

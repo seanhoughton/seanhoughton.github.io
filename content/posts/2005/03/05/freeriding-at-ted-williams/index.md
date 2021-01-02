@@ -10,7 +10,7 @@ date_gmt: 2005-03-06 03:07:20 -0800
 excerpt: A couple of friends from work and I took our first Saturday off in a few
   months to tempt fate at Ted Williams.
 header:
-  teaser: /media/2005/03/SeanRockDrop02.jpeg
+featured_image: /posts/2005/03/05/freeriding-at-ted-williams/teaser.jpeg
 published: true
 status: publish
 tags:

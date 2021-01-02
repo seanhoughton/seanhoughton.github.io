@@ -8,7 +8,7 @@ categories:
 date: "2010-11-26T22:20:36Z"
 date_gmt: 2010-11-27 06:20:36 -0800
 header:
-  teaser: /media/2010/11/SkyLimitedExposure-0.2.png
+featured_image: /astrophotography/sky-limited-exposure-script-for-pixinsight/teaser.png
 published: true
 status: publish
 tags:

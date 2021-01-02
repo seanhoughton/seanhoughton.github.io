@@ -12,7 +12,7 @@ excerpt: The idea behind this method is that the low-light areas of the photogra
   nebulosity should remain unchanged. To achieve this in Photoshop you need to construct
   a mask for the Gausian Blur filter.
 header:
-  teaser: /media/2008/12/1108708165_ngc7023ba_compare-300x210.jpg
+featured_image: /astrophotography/noise-reduction-in-film-images/teaser.jpg
 published: true
 status: publish
 tags:

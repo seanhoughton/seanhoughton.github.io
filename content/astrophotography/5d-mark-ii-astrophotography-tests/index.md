@@ -8,7 +8,7 @@ categories:
 date: "2009-01-18T00:37:37Z"
 date_gmt: 2009-01-18 08:37:37 -0800
 header:
-  teaser: /media/2009/01/iso-diff.jpg
+featured_image: /astrophotography/5d-mark-ii-astrophotography-tests/teaser.jpg
 published: true
 status: publish
 tags:

@@ -8,7 +8,7 @@ categories:
 date: "2008-12-29T12:58:11Z"
 date_gmt: 2008-12-29 20:58:11 -0800
 header:
-  teaser: /media/2009/01/m42-20081228.jpg
+featured_image: /astrophotography/m42-shot-with-a-canon-10d/teaser.jpg
 published: true
 status: publish
 tags:

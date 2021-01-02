@@ -8,7 +8,7 @@ categories:
 date: "2009-12-10T23:27:32Z"
 date_gmt: 2009-12-11 07:27:32 -0800
 header:
-  teaser: /media/2010/06/TransformersWFC-Demo-300x207.png
+featured_image: /development/transformers-war-for-cybertron-video-game-exclusive-debut-trailer-hd-game-trailers-videos-gametrailers-com/teaser.png
 published: true
 status: publish
 tags: []
