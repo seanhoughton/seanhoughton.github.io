@@ -5,7 +5,7 @@ serve:
 
 .PHONY: site
 site:
-	hugo -D
+	HUGO_ENV=production hugo -D
 
 .PHONY: publish
 publish: site

@@ -3,6 +3,7 @@ disablePathToLower: false
 languageCode: en-us
 title: Sean Houghton
 theme: ananke
+googleAnalytics: UA-186286080-1
 
 SectionPagesMenu: main
 enableRobotsTXT: true
