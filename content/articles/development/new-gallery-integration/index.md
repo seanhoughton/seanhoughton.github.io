@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2007-06-01T20:27:27Z"
 header:
-featured_image: /development/new-gallery-integration/teaser.png
+featured_image: /articles/development/new-gallery-integration/teaser.png
 tags:
 - Gallery2
 - Photography

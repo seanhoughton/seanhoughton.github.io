@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2009-01-23T23:21:52Z"
 header:
-featured_image: /astrophotography/half-moon/teaser.jpg
+featured_image: /articles/astrophotography/half-moon/teaser.jpg
 tags:
 - 10D
 - Astrophotography

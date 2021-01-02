@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2009-01-18T00:37:37Z"
 header:
-featured_image: /astrophotography/5d-mark-ii-astrophotography-tests/teaser.jpg
+featured_image: /articles/astrophotography/5d-mark-ii-astrophotography-tests/teaser.jpg
 tags:
 - 5D
 - Astrophotography

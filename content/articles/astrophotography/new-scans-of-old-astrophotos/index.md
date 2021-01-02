@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2009-01-16T00:34:22Z"
 header:
-featured_image: /astrophotography/new-scans-of-old-astrophotos/teaser.jpg
+featured_image: /articles/astrophotography/new-scans-of-old-astrophotos/teaser.jpg
 tags:
 - Astrophotography
 - G11

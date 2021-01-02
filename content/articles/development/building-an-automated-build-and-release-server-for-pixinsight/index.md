@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2010-12-22T00:43:27Z"
 header:
-featured_image: /development/building-an-automated-build-and-release-server-for-pixinsight/teaser.png
+featured_image: /articles/development/building-an-automated-build-and-release-server-for-pixinsight/teaser.png
 tags:
 - Astrophotography
 - PixInsight

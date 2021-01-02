@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2009-12-10T23:27:32Z"
 header:
-featured_image: /development/transformers-war-for-cybertron-video-game-exclusive-debut-trailer-hd-game-trailers-videos-gametrailers-com/teaser.png
+featured_image: /articles/development/transformers-war-for-cybertron-video-game-exclusive-debut-trailer-hd-game-trailers-videos-gametrailers-com/teaser.png
 tags: []
 thumbnail: /media/2010/06/TransformersWFC-Demo-300x207.png
 title: 'Transformers: War for Cybertron Announced'

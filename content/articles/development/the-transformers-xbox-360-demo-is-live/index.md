@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2010-06-17T15:11:22Z"
 header:
-featured_image: /development/the-transformers-xbox-360-demo-is-live/teaser.png
+featured_image: /articles/development/the-transformers-xbox-360-demo-is-live/teaser.png
 tags:
 - Code
 - Data

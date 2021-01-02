@@ -10,7 +10,7 @@ excerpt: "Noel's article <a title=\"Games from Within: Stepping Through the Look
   or legacy code that requires deserialization to construct objects.  What do you
   do?\r\n\r\n"
 header:
-featured_image: /development/avoiding-file-io-in-unit-tests/teaser.png
+featured_image: /articles/development/avoiding-file-io-in-unit-tests/teaser.png
 tags:
 - Programming
 - TDD

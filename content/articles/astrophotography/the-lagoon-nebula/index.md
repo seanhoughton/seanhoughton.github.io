@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2009-01-27T22:16:12Z"
 header:
-featured_image: /astrophotography/the-lagoon-nebula/teaser.jpg
+featured_image: /articles/astrophotography/the-lagoon-nebula/teaser.jpg
 tags: []
 thumbnail: /media/2009/12/160601-6_9-300x224.jpg
 title: The Lagoon Nebula

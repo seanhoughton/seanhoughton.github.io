@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2010-11-16T21:18:35Z"
 header:
-featured_image: /astrophotography/first-light-with-the-st-8300/teaser.jpg
+featured_image: /articles/astrophotography/first-light-with-the-st-8300/teaser.jpg
 tags:
 - Astrophotography
 - G11

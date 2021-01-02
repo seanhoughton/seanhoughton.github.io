@@ -9,7 +9,7 @@ excerpt: |+
   The Losmandy G11 mount is a great piece of hardware. However, the included bearings seem to fall short when compared to the rest of the mount. Unfortunately these bearings can play a large role in the tracking accuracy of the mount. What follows is a description of how to augment the declination shaft bearing and replace the worm gear bearings in the G11 mount. (Note: some of this may also apply to the G8).
 
 header:
-featured_image: /astrophotography/g11-bearing-upgrade/teaser.jpg
+featured_image: /articles/astrophotography/g11-bearing-upgrade/teaser.jpg
 tags:
 - Astrophotography
 - G11

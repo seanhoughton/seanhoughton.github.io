@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2005-09-25T16:09:16Z"
 header:
-featured_image: /development/darkwatch-has-shipped/teaser.jpg
+featured_image: /articles/development/darkwatch-has-shipped/teaser.jpg
 tags:
 - Darkwatch
 - Games

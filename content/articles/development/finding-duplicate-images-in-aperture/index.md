@@ -8,7 +8,7 @@ excerpt: |+
   While playing around with the Aperture database I decided to try to make something useful.  The result is an Automator workflow that looks for duplicate master image names.
 
 header:
-featured_image: /development/finding-duplicate-images-in-aperture/teaser.png
+featured_image: /articles/development/finding-duplicate-images-in-aperture/teaser.png
 tags:
 - Aperture
 - Photography

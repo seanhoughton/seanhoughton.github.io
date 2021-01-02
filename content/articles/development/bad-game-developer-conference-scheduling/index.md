@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2009-03-11T12:15:27Z"
 header:
-featured_image: /development/bad-game-developer-conference-scheduling/teaser.png
+featured_image: /articles/development/bad-game-developer-conference-scheduling/teaser.png
 tags: []
 thumbnail: /media/2009/03/bad-gdc-scheduling.png
 title: Bad Game Developer Conference Scheduling

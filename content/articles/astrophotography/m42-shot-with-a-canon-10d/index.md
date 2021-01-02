@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2008-12-29T12:58:11Z"
 header:
-featured_image: /astrophotography/m42-shot-with-a-canon-10d/teaser.jpg
+featured_image: /articles/astrophotography/m42-shot-with-a-canon-10d/teaser.jpg
 tags:
 - Astrophotography
 - G11

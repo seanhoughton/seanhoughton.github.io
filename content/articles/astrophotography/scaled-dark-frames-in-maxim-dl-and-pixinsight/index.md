@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2010-11-15T20:43:17Z"
 header:
-featured_image: /astrophotography/scaled-dark-frames-in-maxim-dl-and-pixinsight/teaser.png
+featured_image: /articles/astrophotography/scaled-dark-frames-in-maxim-dl-and-pixinsight/teaser.png
 tags:
 - Astrophotography
 - Photography

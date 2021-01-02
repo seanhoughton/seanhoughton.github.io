@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2001-01-02T19:51:03Z"
 header:
-featured_image: /astrophotography/astrophotography-equipment/teaser.jpg
+featured_image: /articles/astrophotography/astrophotography-equipment/teaser.jpg
 tags:
 - Astrophotography
 - G11

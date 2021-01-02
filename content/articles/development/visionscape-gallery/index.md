@@ -4,7 +4,7 @@ categories:
 - Programming
 date: "2000-01-16T18:55:46Z"
 header:
-featured_image: /development/visionscape-gallery/teaser.jpg
+featured_image: /articles/development/visionscape-gallery/teaser.jpg
 tags:
 - Graphics
 thumbnail: /media/2009/01/1108607594_tugger.jpg

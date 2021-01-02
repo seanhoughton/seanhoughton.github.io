@@ -4,7 +4,7 @@ categories:
 - Visualization
 date: "2011-05-31T22:37:24Z"
 header:
-featured_image: /development/balance-and-flow-maps/teaser.png
+featured_image: /articles/development/balance-and-flow-maps/teaser.png
 tags:
 - Data
 - Games

@@ -4,7 +4,7 @@ categories:
 - Uncategorized
 date: "2010-04-06T17:05:46Z"
 header:
-featured_image: /development/the-transformers-multiplayer-trailer-is-out/teaser.png
+featured_image: /articles/development/the-transformers-multiplayer-trailer-is-out/teaser.png
 tags: []
 title: The Transformers Multiplayer Trailer is out!
 ---

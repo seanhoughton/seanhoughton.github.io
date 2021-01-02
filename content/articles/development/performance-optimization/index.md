@@ -11,7 +11,7 @@ excerpt: |+
   The "Diffuse" test runs a fluid diffusion pass on a 2D array of vectors.
 
 header:
-featured_image: /development/performance-optimization/teaser.png
+featured_image: /articles/development/performance-optimization/teaser.png
 tags:
 - CoreDuo
 - G5

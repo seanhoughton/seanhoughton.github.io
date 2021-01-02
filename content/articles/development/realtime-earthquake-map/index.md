@@ -4,7 +4,7 @@ categories:
 - Visualization
 date: "2008-12-07T00:04:34Z"
 header:
-featured_image: /development/realtime-earthquake-map/teaser.png
+featured_image: /articles/development/realtime-earthquake-map/teaser.png
 tags:
 - Data
 - Earthquake

@@ -7,7 +7,7 @@ excerpt: While at VSI I got really interested in volume rendering and started wr
   a gas shader for Lightwave.  It was just starting to look like a decent product
   when I was hired at Gratuitous Games and stopped working on it.
 header:
-featured_image: /development/plume-lightwave-plugin/teaser.jpg
+featured_image: /articles/development/plume-lightwave-plugin/teaser.jpg
 tags:
 - Graphics
 thumbnail: /media/2009/01/1108608735_plume_pic3.jpg

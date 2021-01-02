@@ -4,7 +4,7 @@ categories:
 - Photography
 date: "2010-11-26T22:20:36Z"
 header:
-featured_image: /astrophotography/sky-limited-exposure-script-for-pixinsight/teaser.png
+featured_image: /articles/astrophotography/sky-limited-exposure-script-for-pixinsight/teaser.png
 tags:
 - Astrophotography
 - Data
