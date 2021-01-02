@@ -86,3 +86,8 @@ I don't do a lot of visual observing, but when I do it's nice to have a range of
 | 8.8mm Meade Ultra Wide Angle | 93X | 0.9&deg;   |
 | 26mm Meade Super Plossl      | 32X | 1.63&deg;  |
 | 40mm Meade Super Plossl      | 20X | 2.2&deg;   |
+
+
+## Astrophoto setup
+
+![](0006_photosetupevening.jpg)

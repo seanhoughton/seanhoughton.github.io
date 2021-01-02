@@ -4,7 +4,43 @@ languageCode: en-us
 title: Sean Houghton
 theme: ananke
 
+SectionPagesMenu: main
+
+params:
+  favicon: ""
+  site_logo: ""
+  description: "Sean Houghton's personal space"
+  facebook: ""
+  twitter: "https://twitter.com/seanhoughton"
+  instagram: ""
+  youtube: ""
+  github: "https://github.com/seanhoughton"
+  gitlab: ""
+  linkedin: ""
+  mastodon: ""
+  slack: ""
+  stackoverflow: ""
+  rss: ""
+  background_color_class: "bg-black"
+  featured_image: "/media/system/galaxy-header.jpg"
+  recent_posts_number: 2
+  mainSections:
+    - posts
+    - astrophotography
+    - development
+
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+deployment:
+  targets:
+    - name: gcp
+      URL: gs://seanhoughton.io
+      matchers:
+        - pattern: "^.+\\.(png|jpg)$"
+          cacheControl: "max-age=31536000, no-transform, public"
+          gzip: false
+        - pattern: "^.+\\.(html|xml|json)$"
+          gzip: true

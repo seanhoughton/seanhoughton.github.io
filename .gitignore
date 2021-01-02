@@ -1,4 +1,4 @@
-_site/
+public/
 *.env
 *.lock
 *.sublime-workspace
