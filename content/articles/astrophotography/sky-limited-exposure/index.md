@@ -12,8 +12,8 @@ It turns out that you can derive an equation that takes the guesswork out of fin
 
 I've reduced some of the grunt work by writing a small script for [PixInsight](http://pixinsight.com) that takes an image (loaded with FITS information) as input and spits out a suggested sub-exposure length. It's important to use a test image that <strong>has</strong> been dark subtracted but <strong>has not</strong> been flat fielded.If you have lots of vignetting and you want a very accurate measurement you should extract small images from the edge of the field where the falloff is greatest and use that as your test image.
 
-<strong><span style="color: #008080;">Add pixinsight.cerebiggum.com to your PixInsight update list to download the most recent version.</span></strong>
+**Add pixinsight.cerebiggum.com to your PixInsight update list to download the most recent version.**
 
-![](SkyLimitedExposure-0.2.png)
+{{<figure src="SkyLimitedExposure-0.2.png" title="Figure 1" caption="The user interface">}}
 
 [CalculateSkyLimitedExposure](https://github.com/seanhoughton/CalculateSkyLimitedExposure)
